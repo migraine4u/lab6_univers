@@ -1,0 +1,70 @@
+@import '../../styles/variables';
+
+.help {
+    width: 250px;
+    height: 350px;
+    background: $color-light-grey;
+    box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    padding: 22px;
+    box-sizing: border-box;
+    position: relative;
+    top: -200px;
+    left: 30px;
+    &__form {
+        display: flex;
+        flex-direction: column;
+        h3 {
+            color: $color-dark-blue;
+            text-align: center;
+            font-weight: 600;
+            font-size: 20px;
+            margin-bottom: 10px;
+        }
+        &__content {
+            button {
+                text-align: center;
+                margin-top: 10px;
+                width: 206px;
+                height: 30px;
+                cursor: pointer;
+                border: 0;
+                outline: none;
+                color: $color-dark-blue;
+                background-color: $color-medium-light-grey;
+                border-radius: 20px;
+                &:hover {
+                    background-color: $color-medium-grey;
+                }
+            }
+            h5 {
+                &:last-of-type {
+                    text-align: center;
+                    margin-top: 5px;
+                }
+
+                font-weight: 600;
+                margin-top: 5px;
+            }
+            h4 {
+                text-align: center;
+                margin-top: 10px;
+                font-weight: 900;
+            }
+            input {
+                width: 100%;
+                background-color: $color-medium-light-grey;
+                // margin-bottom: 15px;
+                height: 50px;
+                color: black;
+                padding: 5px;
+                font-size: 16px;
+            }
+            p {
+                text-align: center;
+                font-size: 14px;
+                margin-top: 5px;
+            }
+        }
+    }
+}

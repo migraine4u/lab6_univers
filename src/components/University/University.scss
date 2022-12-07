@@ -1,0 +1,88 @@
+@import '../../styles/variables';
+
+.univer {
+    margin-left: 35px;
+    margin-top: 20px;
+    height: 230px;
+    width: 1000px;
+    display: flex;
+    flex-direction: row;
+    border-radius: 10px;
+    box-shadow: 2px 1px 15px 0px rgba(97, 97, 97, 0.2);
+    &:last-of-type {
+        margin-bottom: 20px;
+    }
+    &__photo {
+        background-color: $color-grey;
+        border-radius: 10px 0px 0 10px;
+        width: 330px;
+        height: 230px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        svg {
+            fill: $color-black;
+            opacity: 0.2;
+            height: 100px;
+            width: 100px;
+        }
+    }
+    &__info {
+        background-color: $color-medium-light-grey;
+        width: 500px;
+        height: 230px;
+        &__country {
+            margin: 20px 30px 10px 30px;
+            color: $color-dark-blue;
+            // background-color: $color-medium-grey;
+        }
+        &__name {
+            margin: 10px 30px;
+            font-size: 22px;
+            font-weight: 600;
+            color: $color-dark-blue;
+            // background-color: $color-grey;
+        }
+        &__desc {
+            margin: 10px 30px;
+            color: $color-dark-blue;
+            font-size: 14px;
+            // background-color: $color-medium-grey;
+        }
+        &__button {
+            cursor: pointer;
+            margin-left: 30px;
+            margin-top: 40px;
+            width: 200px;
+            height: 50px;
+            color: #2f6269;
+            background-color: #d8d8d8;
+            border-radius: 10px;
+            border: 0;
+            font-size: 18px;
+            font-weight: 600;
+            transition: 0.2s;
+            &:hover {
+                background-color: $color-medium-grey;
+            }
+            &:active {
+                background-color: $color-grey;
+            }
+        }
+    }
+    &__exam {
+        background-color: $color-medium-grey;
+        border-radius: 0 10px 10px 0;
+        width: 170px;
+        height: 230px;
+        &__inform {
+            margin: 15px 20px;
+            font-size: 17px;
+            color: darken($color-dark-blue, 10);
+            // width: 100px;
+            // height: 15px;
+            // border-radius: 40px;
+            // background-color: $color-grey;
+        }
+    }
+}

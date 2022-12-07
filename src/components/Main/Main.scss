@@ -1,0 +1,43 @@
+@import '../../styles/variables';
+
+.main {
+    min-height: 100vh;
+    &__pages {
+        display: flex;
+        flex-direction: row;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+        background-color: $color-medium-light-grey;
+        margin-top: 20px;
+        li {
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: $color-dark-blue;
+            width: 30px;
+            height: 30px;
+            margin: 5px 5px;
+            border-radius: 30px;
+            &:hover {
+                background-color: $color-medium-grey;
+            }
+        }
+        &__li {
+            cursor: pointer;
+            color: $color-dark-blue;
+            padding: 10px 15px;
+        }
+        &--active {
+            display: flex;
+            text-align: center;
+            justify-content: center;
+            align-items: center;
+            width: 30px;
+            height: 30px;
+            border-radius: 10px;
+            background-color: $color-medium-grey;
+        }
+    }
+}

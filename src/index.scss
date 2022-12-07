@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    outline: none;
+    box-sizing: border-box;
+    font-family: 'Inter', -apple-system, system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.wrapper {
+    max-width: 1366px;
+    width: 100%;
+    min-width: 320px;
+    min-height: 100%;
+    margin: 0 auto;
+    background-color: #97d6c3;
+    box-shadow: 2px 1px 15px 0px rgb(148, 142, 142);
+    display: flex;
+    flex-direction: column;
+    overflow-x: hidden;
+    font-size: 18px;
+}

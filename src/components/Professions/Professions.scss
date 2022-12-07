@@ -1,0 +1,46 @@
+@import '../../styles/variables';
+
+.professions {
+    h3 {
+        font-size: 32px;
+        font-weight: 900;
+        margin-bottom: 35px;
+        color: $color-dark-blue;
+    }
+    &__form {
+        width: 350px;
+        height: 150px;
+        background-color: $color-medium-light-grey;
+        box-shadow: 2px 1px 15px 0px rgba(97, 97, 97, 0.2);
+        border-radius: 10px;
+        float: right;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        margin-top: 20px;
+        &__button {
+            margin-top: 25px;
+            cursor: pointer;
+            height: 40px;
+            width: 300px;
+            border-radius: 10px;
+            color: $color-dark-blue;
+            background-color: $color-light-grey;
+            border: 1px solid;
+            margin-bottom: 10px;
+            &:hover {
+                background-color: $color-medium-grey;
+            }
+            &:last-of-type {
+                margin-top: 15px;
+                background-color: $color-medium-light-grey;
+                border: 0;
+                &:hover {
+                    background-color: $color-medium-grey;
+                    border: 1px solid;
+                }
+            }
+        }
+    }
+}

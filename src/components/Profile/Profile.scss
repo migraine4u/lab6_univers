@@ -1,0 +1,42 @@
+@import '../../styles/variables';
+.profile {
+    h3 {
+        color: $color-dark-blue;
+        font-size: 32px;
+        font-weight: 900;
+        margin-bottom: 35px;
+    }
+    &__form {
+        display: flex;
+        flex-direction: column;
+        width: 350px;
+        align-items: center;
+        &__input {
+            margin-bottom: 25px;
+            text-indent: 10px;
+            color: $color-dark-blue;
+            height: 50px;
+            width: 350px;
+            background-color: $color-light-grey;
+            outline: none;
+            border: 1px solid transparent;
+            border-radius: 10px;
+            &:focus {
+                border: 1px solid $color-dark-blue;
+            }
+        }
+        &__button {
+            cursor: pointer;
+            height: 40px;
+            width: 300px;
+            border-radius: 10px;
+            color: $color-dark-blue;
+            background-color: $color-light-grey;
+            border: 1px solid;
+            margin-bottom: 10px;
+            &:hover {
+                background-color: darken($color-light-grey, 10);
+            }
+        }
+    }
+}

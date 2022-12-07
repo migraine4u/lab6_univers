@@ -1,0 +1,35 @@
+@import '../../styles/variables';
+
+.cabinet {
+    min-height: calc(100vh - 200px);
+    &__header {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        background-color: $color-medium-light-grey;
+        height: 60px;
+        h3 {
+            cursor: pointer;
+            padding: 10px 20px;
+            font-weight: 600;
+            color: $color-dark-blue;
+            &:hover {
+                background-color: $color-medium-grey;
+            }
+        }
+        &--active {
+            display: flex;
+            text-align: center;
+            justify-content: center;
+            align-items: center;
+            width: 135px;
+            height: 40px;
+            border-radius: 10px;
+            background-color: $color-medium-grey;
+        }
+    }
+    &__container {
+        margin: 30px 50px;
+    }
+}

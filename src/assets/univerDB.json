@@ -1,0 +1,8004 @@
+{
+"univers": [
+ {
+   "world_rank": 1,
+   "institution": "Harvard University",
+   "country": "USA",
+   "national_rank": 1,
+   "quality_of_education": 1,
+   "score": 100
+ },
+ {
+   "world_rank": 2,
+   "institution": "Stanford University",
+   "country": "USA",
+   "national_rank": 2,
+   "quality_of_education": 9,
+   "score": 98.66
+ },
+ {
+   "world_rank": 3,
+   "institution": "Massachusetts Institute of Technology",
+   "country": "USA",
+   "national_rank": 3,
+   "quality_of_education": 3,
+   "score": 97.54
+ },
+ {
+   "world_rank": 4,
+   "institution": "University of Cambridge",
+   "country": "United Kingdom",
+   "national_rank": 1,
+   "quality_of_education": 2,
+   "score": 96.81
+ },
+ {
+   "world_rank": 5,
+   "institution": "University of Oxford",
+   "country": "United Kingdom",
+   "national_rank": 2,
+   "quality_of_education": 7,
+   "score": 96.46
+ },
+ {
+   "world_rank": 6,
+   "institution": "Columbia University",
+   "country": "USA",
+   "national_rank": 4,
+   "quality_of_education": 13,
+   "score": 96.14
+ },
+ {
+   "world_rank": 7,
+   "institution": "University of California; Berkeley",
+   "country": "USA",
+   "national_rank": 5,
+   "quality_of_education": 5,
+   "score": 92.25
+ },
+ {
+   "world_rank": 8,
+   "institution": "University of Chicago",
+   "country": "USA",
+   "national_rank": 6,
+   "quality_of_education": 11,
+   "score": 90.7
+ },
+ {
+   "world_rank": 9,
+   "institution": "Princeton University",
+   "country": "USA",
+   "national_rank": 7,
+   "quality_of_education": 4,
+   "score": 89.42
+ },
+ {
+   "world_rank": 10,
+   "institution": "Cornell University",
+   "country": "USA",
+   "national_rank": 8,
+   "quality_of_education": 12,
+   "score": 86.79
+ },
+ {
+   "world_rank": 11,
+   "institution": "Yale University",
+   "country": "USA",
+   "national_rank": 9,
+   "quality_of_education": 10,
+   "score": 86.61
+ },
+ {
+   "world_rank": 12,
+   "institution": "California Institute of Technology",
+   "country": "USA",
+   "national_rank": 10,
+   "quality_of_education": 6,
+   "score": 84.4
+ },
+ {
+   "world_rank": 13,
+   "institution": "University of Tokyo",
+   "country": "Japan",
+   "national_rank": 1,
+   "quality_of_education": 16,
+   "score": 78.23
+ },
+ {
+   "world_rank": 14,
+   "institution": "University of Pennsylvania",
+   "country": "USA",
+   "national_rank": 11,
+   "quality_of_education": 20,
+   "score": 77.6
+ },
+ {
+   "world_rank": 15,
+   "institution": "University of California; Los Angeles",
+   "country": "USA",
+   "national_rank": 12,
+   "quality_of_education": 28,
+   "score": 76.91
+ },
+ {
+   "world_rank": 16,
+   "institution": "Johns Hopkins University",
+   "country": "USA",
+   "national_rank": 13,
+   "quality_of_education": 18,
+   "score": 71.6
+ },
+ {
+   "world_rank": 17,
+   "institution": "Kyoto University",
+   "country": "Japan",
+   "national_rank": 2,
+   "quality_of_education": 22,
+   "score": 68.6
+ },
+ {
+   "world_rank": 18,
+   "institution": "New York University",
+   "country": "USA",
+   "national_rank": 14,
+   "quality_of_education": 32,
+   "score": 68.39
+ },
+ {
+   "world_rank": 19,
+   "institution": "University of Michigan; Ann Arbor",
+   "country": "USA",
+   "national_rank": 15,
+   "quality_of_education": 24,
+   "score": 68.36
+ },
+ {
+   "world_rank": 20,
+   "institution": "Swiss Federal Institute of Technology in Zurich",
+   "country": "Switzerland",
+   "national_rank": 1,
+   "quality_of_education": 17,
+   "score": 66.93
+ },
+ {
+   "world_rank": 21,
+   "institution": "University of California; San Diego",
+   "country": "USA",
+   "national_rank": 16,
+   "quality_of_education": 36,
+   "score": 66.59
+ },
+ {
+   "world_rank": 22,
+   "institution": "Northwestern University",
+   "country": "USA",
+   "national_rank": 17,
+   "quality_of_education": 163,
+   "score": 66.56
+ },
+ {
+   "world_rank": 23,
+   "institution": "Hebrew University of Jerusalem",
+   "country": "Israel",
+   "national_rank": 1,
+   "quality_of_education": 15,
+   "score": 65.71
+ },
+ {
+   "world_rank": 24,
+   "institution": "Seoul National University",
+   "country": "South Korea",
+   "national_rank": 1,
+   "quality_of_education": 367,
+   "score": 64.82
+ },
+ {
+   "world_rank": 25,
+   "institution": "University of Wisconsin–Madison",
+   "country": "USA",
+   "national_rank": 18,
+   "quality_of_education": 29,
+   "score": 64.51
+ },
+ {
+   "world_rank": 26,
+   "institution": "University of California; San Francisco",
+   "country": "USA",
+   "national_rank": 19,
+   "quality_of_education": 367,
+   "score": 63.69
+ },
+ {
+   "world_rank": 27,
+   "institution": "University College London",
+   "country": "United Kingdom",
+   "national_rank": 3,
+   "quality_of_education": 21,
+   "score": 62.27
+ },
+ {
+   "world_rank": 28,
+   "institution": "Duke University",
+   "country": "USA",
+   "national_rank": 20,
+   "quality_of_education": 74,
+   "score": 61.55
+ },
+ {
+   "world_rank": 29,
+   "institution": "Rockefeller University",
+   "country": "USA",
+   "national_rank": 21,
+   "quality_of_education": 49,
+   "score": 61.28
+ },
+ {
+   "world_rank": 30,
+   "institution": "University of Texas at Austin",
+   "country": "USA",
+   "national_rank": 22,
+   "quality_of_education": 75,
+   "score": 61.14
+ },
+ {
+   "world_rank": 31,
+   "institution": "University of Washington - Seattle",
+   "country": "USA",
+   "national_rank": 23,
+   "quality_of_education": 48,
+   "score": 60.61
+ },
+ {
+   "world_rank": 32,
+   "institution": "University of Toronto",
+   "country": "Canada",
+   "national_rank": 1,
+   "quality_of_education": 70,
+   "score": 60.04
+ },
+ {
+   "world_rank": 33,
+   "institution": "University of Illinois at Urbana–Champaign",
+   "country": "USA",
+   "national_rank": 24,
+   "quality_of_education": 33,
+   "score": 59.94
+ },
+ {
+   "world_rank": 34,
+   "institution": "Keio University",
+   "country": "Japan",
+   "national_rank": 3,
+   "quality_of_education": 284,
+   "score": 59.84
+ },
+ {
+   "world_rank": 35,
+   "institution": "Imperial College London",
+   "country": "United Kingdom",
+   "national_rank": 4,
+   "quality_of_education": 90,
+   "score": 59.61
+ },
+ {
+   "world_rank": 36,
+   "institution": "École Polytechnique",
+   "country": "France",
+   "national_rank": 1,
+   "quality_of_education": 98,
+   "score": 59.2
+ },
+ {
+   "world_rank": 37,
+   "institution": "École normale supérieure - Paris",
+   "country": "France",
+   "national_rank": 2,
+   "quality_of_education": 8,
+   "score": 58.8
+ },
+ {
+   "world_rank": 38,
+   "institution": "Waseda University",
+   "country": "Japan",
+   "national_rank": 4,
+   "quality_of_education": 288,
+   "score": 58.17
+ },
+ {
+   "world_rank": 39,
+   "institution": "Weizmann Institute of Science",
+   "country": "Israel",
+   "national_rank": 2,
+   "quality_of_education": 19,
+   "score": 57.17
+ },
+ {
+   "world_rank": 40,
+   "institution": "University of North Carolina at Chapel Hill",
+   "country": "USA",
+   "national_rank": 25,
+   "quality_of_education": 124,
+   "score": 57.09
+ },
+ {
+   "world_rank": 41,
+   "institution": "University of Virginia",
+   "country": "USA",
+   "national_rank": 26,
+   "quality_of_education": 209,
+   "score": 56.73
+ },
+ {
+   "world_rank": 42,
+   "institution": "McGill University",
+   "country": "Canada",
+   "national_rank": 2,
+   "quality_of_education": 34,
+   "score": 56.49
+ },
+ {
+   "world_rank": 43,
+   "institution": "Purdue University; West Lafayette",
+   "country": "USA",
+   "national_rank": 27,
+   "quality_of_education": 55,
+   "score": 56.39
+ },
+ {
+   "world_rank": 44,
+   "institution": "Dartmouth College",
+   "country": "USA",
+   "national_rank": 28,
+   "quality_of_education": 40,
+   "score": 56.35
+ },
+ {
+   "world_rank": 45,
+   "institution": "Osaka University",
+   "country": "Japan",
+   "national_rank": 5,
+   "quality_of_education": 46,
+   "score": 56.03
+ },
+ {
+   "world_rank": 46,
+   "institution": "University of Pittsburgh - Pittsburgh Campus",
+   "country": "USA",
+   "national_rank": 29,
+   "quality_of_education": 79,
+   "score": 55.63
+ },
+ {
+   "world_rank": 47,
+   "institution": "Pennsylvania State University; University Park",
+   "country": "USA",
+   "national_rank": 30,
+   "quality_of_education": 230,
+   "score": 55.54
+ },
+ {
+   "world_rank": 48,
+   "institution": "University of Minnesota; Twin Cities",
+   "country": "USA",
+   "national_rank": 31,
+   "quality_of_education": 63,
+   "score": 55.51
+ },
+ {
+   "world_rank": 49,
+   "institution": "Ohio State University; Columbus",
+   "country": "USA",
+   "national_rank": 32,
+   "quality_of_education": 96,
+   "score": 55.39
+ },
+ {
+   "world_rank": 50,
+   "institution": "Rutgers University-New Brunswick",
+   "country": "USA",
+   "national_rank": 33,
+   "quality_of_education": 91,
+   "score": 55.23
+ },
+ {
+   "world_rank": 51,
+   "institution": "University of Southern California",
+   "country": "USA",
+   "national_rank": 34,
+   "quality_of_education": 152,
+   "score": 55.12
+ },
+ {
+   "world_rank": 52,
+   "institution": "Washington University in St. Louis",
+   "country": "USA",
+   "national_rank": 35,
+   "quality_of_education": 101,
+   "score": 55.03
+ },
+ {
+   "world_rank": 53,
+   "institution": "University of California; Davis",
+   "country": "USA",
+   "national_rank": 36,
+   "quality_of_education": 54,
+   "score": 54.85
+ },
+ {
+   "world_rank": 54,
+   "institution": "University of Colorado Boulder",
+   "country": "USA",
+   "national_rank": 37,
+   "quality_of_education": 80,
+   "score": 54.62
+ },
+ {
+   "world_rank": 55,
+   "institution": "University of Edinburgh",
+   "country": "United Kingdom",
+   "national_rank": 5,
+   "quality_of_education": 44,
+   "score": 54.39
+ },
+ {
+   "world_rank": 56,
+   "institution": "Peking University",
+   "country": "China",
+   "national_rank": 1,
+   "quality_of_education": 182,
+   "score": 54.26
+ },
+ {
+   "world_rank": 57,
+   "institution": "National Taiwan University",
+   "country": "Taiwan",
+   "national_rank": 1,
+   "quality_of_education": 92,
+   "score": 54.23
+ },
+ {
+   "world_rank": 58,
+   "institution": "University of Paris-Sud",
+   "country": "France",
+   "national_rank": 3,
+   "quality_of_education": 26,
+   "score": 54.21
+ },
+ {
+   "world_rank": 59,
+   "institution": "Lomonosov Moscow State University",
+   "country": "Russia",
+   "national_rank": 1,
+   "quality_of_education": 14,
+   "score": 54.19
+ },
+ {
+   "world_rank": 60,
+   "institution": "University of Florida",
+   "country": "USA",
+   "national_rank": 38,
+   "quality_of_education": 214,
+   "score": 54.18
+ },
+ {
+   "world_rank": 61,
+   "institution": "Carnegie Mellon University",
+   "country": "USA",
+   "national_rank": 39,
+   "quality_of_education": 25,
+   "score": 54
+ },
+ {
+   "world_rank": 62,
+   "institution": "University of British Columbia",
+   "country": "Canada",
+   "national_rank": 3,
+   "quality_of_education": 81,
+   "score": 53.92
+ },
+ {
+   "world_rank": 63,
+   "institution": "Pierre-and-Marie-Curie University",
+   "country": "France",
+   "national_rank": 4,
+   "quality_of_education": 30,
+   "score": 53.79
+ },
+ {
+   "world_rank": 64,
+   "institution": "University of California; Santa Barbara",
+   "country": "USA",
+   "national_rank": 40,
+   "quality_of_education": 133,
+   "score": 53.63
+ },
+ {
+   "world_rank": 65,
+   "institution": "National University of Singapore",
+   "country": "Singapore",
+   "national_rank": 1,
+   "quality_of_education": 367,
+   "score": 53.44
+ },
+ {
+   "world_rank": 66,
+   "institution": "Boston University",
+   "country": "USA",
+   "national_rank": 41,
+   "quality_of_education": 303,
+   "score": 53.43
+ },
+ {
+   "world_rank": 67,
+   "institution": "University of Manchester",
+   "country": "United Kingdom",
+   "national_rank": 6,
+   "quality_of_education": 99,
+   "score": 53.38
+ },
+ {
+   "world_rank": 68,
+   "institution": "University of Arizona",
+   "country": "USA",
+   "national_rank": 42,
+   "quality_of_education": 139,
+   "score": 53.26
+ },
+ {
+   "world_rank": 69,
+   "institution": "Vanderbilt University",
+   "country": "USA",
+   "national_rank": 43,
+   "quality_of_education": 87,
+   "score": 53.05
+ },
+ {
+   "world_rank": 70,
+   "institution": "University of Utah",
+   "country": "USA",
+   "national_rank": 44,
+   "quality_of_education": 97,
+   "score": 52.89
+ },
+ {
+   "world_rank": 71,
+   "institution": "Karolinska Institute",
+   "country": "Sweden",
+   "national_rank": 1,
+   "quality_of_education": 149,
+   "score": 52.79
+ },
+ {
+   "world_rank": 72,
+   "institution": "University of Maryland; College Park",
+   "country": "USA",
+   "national_rank": 45,
+   "quality_of_education": 68,
+   "score": 52.72
+ },
+ {
+   "world_rank": 73,
+   "institution": "Tohoku University",
+   "country": "Japan",
+   "national_rank": 6,
+   "quality_of_education": 41,
+   "score": 52.57
+ },
+ {
+   "world_rank": 74,
+   "institution": "University of Copenhagen",
+   "country": "Denmark",
+   "national_rank": 1,
+   "quality_of_education": 117,
+   "score": 52.51
+ },
+ {
+   "world_rank": 75,
+   "institution": "University of Texas Southwestern Medical Center",
+   "country": "USA",
+   "national_rank": 46,
+   "quality_of_education": 59,
+   "score": 52.5
+ },
+ {
+   "world_rank": 76,
+   "institution": "Ruprecht Karl University of Heidelberg",
+   "country": "Germany",
+   "national_rank": 1,
+   "quality_of_education": 38,
+   "score": 52.32
+ },
+ {
+   "world_rank": 77,
+   "institution": "University of Notre Dame",
+   "country": "USA",
+   "national_rank": 47,
+   "quality_of_education": 221,
+   "score": 52.27
+ },
+ {
+   "world_rank": 78,
+   "institution": "Tsinghua University",
+   "country": "China",
+   "national_rank": 2,
+   "quality_of_education": 309,
+   "score": 52.21
+ },
+ {
+   "world_rank": 79,
+   "institution": "Ludwig Maximilian University of Munich",
+   "country": "Germany",
+   "national_rank": 2,
+   "quality_of_education": 42,
+   "score": 52.16
+ },
+ {
+   "world_rank": 80,
+   "institution": "Georgia Institute of Technology",
+   "country": "USA",
+   "national_rank": 48,
+   "quality_of_education": 135,
+   "score": 52.08
+ },
+ {
+   "world_rank": 81,
+   "institution": "University of Rochester",
+   "country": "USA",
+   "national_rank": 49,
+   "quality_of_education": 72,
+   "score": 52.03
+ },
+ {
+   "world_rank": 82,
+   "institution": "Katholieke Universiteit Leuven",
+   "country": "Belgium",
+   "national_rank": 1,
+   "quality_of_education": 367,
+   "score": 52.03
+ },
+ {
+   "world_rank": 83,
+   "institution": "Brown University",
+   "country": "USA",
+   "national_rank": 50,
+   "quality_of_education": 64,
+   "score": 52.01
+ },
+ {
+   "world_rank": 84,
+   "institution": "Emory University",
+   "country": "USA",
+   "national_rank": 51,
+   "quality_of_education": 367,
+   "score": 51.85
+ },
+ {
+   "world_rank": 85,
+   "institution": "Erasmus University Rotterdam",
+   "country": "Netherlands",
+   "national_rank": 1,
+   "quality_of_education": 367,
+   "score": 51.78
+ },
+ {
+   "world_rank": 86,
+   "institution": "Tel Aviv University",
+   "country": "Israel",
+   "national_rank": 3,
+   "quality_of_education": 77,
+   "score": 51.75
+ },
+ {
+   "world_rank": 87,
+   "institution": "Utrecht University",
+   "country": "Netherlands",
+   "national_rank": 2,
+   "quality_of_education": 84,
+   "score": 51.74
+ },
+ {
+   "world_rank": 88,
+   "institution": "University of Sydney",
+   "country": "Australia",
+   "national_rank": 1,
+   "quality_of_education": 105,
+   "score": 51.61
+ },
+ {
+   "world_rank": 89,
+   "institution": "University of California; Irvine",
+   "country": "USA",
+   "national_rank": 52,
+   "quality_of_education": 227,
+   "score": 51.51
+ },
+ {
+   "world_rank": 90,
+   "institution": "University of Texas MD Anderson Cancer Center",
+   "country": "USA",
+   "national_rank": 53,
+   "quality_of_education": 367,
+   "score": 51.51
+ },
+ {
+   "world_rank": 91,
+   "institution": "Swiss Federal Institute of Technology in Lausanne",
+   "country": "Switzerland",
+   "national_rank": 2,
+   "quality_of_education": 367,
+   "score": 51.47
+ },
+ {
+   "world_rank": 92,
+   "institution": "University of Geneva",
+   "country": "Switzerland",
+   "national_rank": 3,
+   "quality_of_education": 35,
+   "score": 51.46
+ },
+ {
+   "world_rank": 93,
+   "institution": "University of Melbourne",
+   "country": "Australia",
+   "national_rank": 2,
+   "quality_of_education": 141,
+   "score": 51.34
+ },
+ {
+   "world_rank": 94,
+   "institution": "King's College London",
+   "country": "United Kingdom",
+   "national_rank": 7,
+   "quality_of_education": 27,
+   "score": 51.31
+ },
+ {
+   "world_rank": 95,
+   "institution": "Tufts University",
+   "country": "USA",
+   "national_rank": 54,
+   "quality_of_education": 60,
+   "score": 51.22
+ },
+ {
+   "world_rank": 96,
+   "institution": "University of Zurich",
+   "country": "Switzerland",
+   "national_rank": 4,
+   "quality_of_education": 115,
+   "score": 51.14
+ },
+ {
+   "world_rank": 97,
+   "institution": "Arizona State University",
+   "country": "USA",
+   "national_rank": 55,
+   "quality_of_education": 367,
+   "score": 51.13
+ },
+ {
+   "world_rank": 98,
+   "institution": "Yonsei University",
+   "country": "South Korea",
+   "national_rank": 2,
+   "quality_of_education": 367,
+   "score": 51.02
+ },
+ {
+   "world_rank": 99,
+   "institution": "University of Oslo",
+   "country": "Norway",
+   "national_rank": 1,
+   "quality_of_education": 53,
+   "score": 50.81
+ },
+ {
+   "world_rank": 100,
+   "institution": "Kyushu University",
+   "country": "Japan",
+   "national_rank": 7,
+   "quality_of_education": 367,
+   "score": 50.6
+ },
+ {
+   "world_rank": 101,
+   "institution": "Technical University of Munich",
+   "country": "Germany",
+   "national_rank": 3,
+   "quality_of_education": 37,
+   "score": 50.58
+ },
+ {
+   "world_rank": 102,
+   "institution": "Texas A&M University; College Station",
+   "country": "USA",
+   "national_rank": 56,
+   "quality_of_education": 339,
+   "score": 50.43
+ },
+ {
+   "world_rank": 103,
+   "institution": "University of Queensland",
+   "country": "Australia",
+   "national_rank": 3,
+   "quality_of_education": 269,
+   "score": 50.4
+ },
+ {
+   "world_rank": 104,
+   "institution": "Mines ParisTech",
+   "country": "France",
+   "national_rank": 5,
+   "quality_of_education": 278,
+   "score": 50.34
+ },
+ {
+   "world_rank": 105,
+   "institution": "Case Western Reserve University",
+   "country": "USA",
+   "national_rank": 57,
+   "quality_of_education": 50,
+   "score": 50.28
+ },
+ {
+   "world_rank": 106,
+   "institution": "Indiana University - Bloomington",
+   "country": "USA",
+   "national_rank": 58,
+   "quality_of_education": 134,
+   "score": 50.26
+ },
+ {
+   "world_rank": 107,
+   "institution": "University of Alberta",
+   "country": "Canada",
+   "national_rank": 4,
+   "quality_of_education": 169,
+   "score": 50.25
+ },
+ {
+   "world_rank": 108,
+   "institution": "Leiden University",
+   "country": "Netherlands",
+   "national_rank": 3,
+   "quality_of_education": 120,
+   "score": 50.17
+ },
+ {
+   "world_rank": 109,
+   "institution": "Tokyo Institute of Technology",
+   "country": "Japan",
+   "national_rank": 8,
+   "quality_of_education": 170,
+   "score": 50.13
+ },
+ {
+   "world_rank": 110,
+   "institution": "University of Groningen",
+   "country": "Netherlands",
+   "national_rank": 4,
+   "quality_of_education": 313,
+   "score": 50.1
+ },
+ {
+   "world_rank": 111,
+   "institution": "University of Helsinki",
+   "country": "Finland",
+   "national_rank": 1,
+   "quality_of_education": 56,
+   "score": 50.04
+ },
+ {
+   "world_rank": 112,
+   "institution": "Sapienza University of Rome",
+   "country": "Italy",
+   "national_rank": 1,
+   "quality_of_education": 67,
+   "score": 49.97
+ },
+ {
+   "world_rank": 113,
+   "institution": "Georgetown University",
+   "country": "USA",
+   "national_rank": 59,
+   "quality_of_education": 159,
+   "score": 49.92
+ },
+ {
+   "world_rank": 114,
+   "institution": "University of Amsterdam",
+   "country": "Netherlands",
+   "national_rank": 5,
+   "quality_of_education": 109,
+   "score": 49.83
+ },
+ {
+   "world_rank": 115,
+   "institution": "Korea University",
+   "country": "South Korea",
+   "national_rank": 3,
+   "quality_of_education": 367,
+   "score": 49.79
+ },
+ {
+   "world_rank": 116,
+   "institution": "University of Barcelona",
+   "country": "Spain",
+   "national_rank": 1,
+   "quality_of_education": 367,
+   "score": 49.79
+ },
+ {
+   "world_rank": 117,
+   "institution": "Lund University",
+   "country": "Sweden",
+   "national_rank": 2,
+   "quality_of_education": 136,
+   "score": 49.75
+ },
+ {
+   "world_rank": 118,
+   "institution": "Michigan State University",
+   "country": "USA",
+   "national_rank": 60,
+   "quality_of_education": 112,
+   "score": 49.74
+ },
+ {
+   "world_rank": 119,
+   "institution": "Ghent University",
+   "country": "Belgium",
+   "national_rank": 2,
+   "quality_of_education": 123,
+   "score": 49.73
+ },
+ {
+   "world_rank": 120,
+   "institution": "Rice University",
+   "country": "USA",
+   "national_rank": 61,
+   "quality_of_education": 52,
+   "score": 49.73
+ },
+ {
+   "world_rank": 121,
+   "institution": "Baylor College of Medicine",
+   "country": "USA",
+   "national_rank": 62,
+   "quality_of_education": 367,
+   "score": 49.7
+ },
+ {
+   "world_rank": 122,
+   "institution": "Aarhus University",
+   "country": "Denmark",
+   "national_rank": 2,
+   "quality_of_education": 310,
+   "score": 49.65
+ },
+ {
+   "world_rank": 123,
+   "institution": "University of Bristol",
+   "country": "United Kingdom",
+   "national_rank": 8,
+   "quality_of_education": 194,
+   "score": 49.59
+ },
+ {
+   "world_rank": 124,
+   "institution": "Uppsala University",
+   "country": "Sweden",
+   "national_rank": 3,
+   "quality_of_education": 73,
+   "score": 49.57
+ },
+ {
+   "world_rank": 125,
+   "institution": "Nagoya University",
+   "country": "Japan",
+   "national_rank": 9,
+   "quality_of_education": 39,
+   "score": 49.57
+ },
+ {
+   "world_rank": 126,
+   "institution": "Royal Institute of Technology",
+   "country": "Sweden",
+   "national_rank": 4,
+   "quality_of_education": 199,
+   "score": 49.54
+ },
+ {
+   "world_rank": 127,
+   "institution": "University of Colorado Denver",
+   "country": "USA",
+   "national_rank": 63,
+   "quality_of_education": 367,
+   "score": 49.48
+ },
+ {
+   "world_rank": 128,
+   "institution": "University of Glasgow",
+   "country": "United Kingdom",
+   "national_rank": 9,
+   "quality_of_education": 234,
+   "score": 49.45
+ },
+ {
+   "world_rank": 129,
+   "institution": "VU University Amsterdam",
+   "country": "Netherlands",
+   "national_rank": 6,
+   "quality_of_education": 367,
+   "score": 49.44
+ },
+ {
+   "world_rank": 130,
+   "institution": "University of New South Wales",
+   "country": "Australia",
+   "national_rank": 4,
+   "quality_of_education": 177,
+   "score": 49.33
+ },
+ {
+   "world_rank": 131,
+   "institution": "Paris Diderot University - Paris 7",
+   "country": "France",
+   "national_rank": 6,
+   "quality_of_education": 127,
+   "score": 49.33
+ },
+ {
+   "world_rank": 132,
+   "institution": "University of São Paulo",
+   "country": "Brazil",
+   "national_rank": 1,
+   "quality_of_education": 297,
+   "score": 49.31
+ },
+ {
+   "world_rank": 133,
+   "institution": "Western University (The University of Western Ontario)",
+   "country": "Canada",
+   "national_rank": 5,
+   "quality_of_education": 367,
+   "score": 49.31
+ },
+ {
+   "world_rank": 134,
+   "institution": "Radboud University Nijmegen",
+   "country": "Netherlands",
+   "national_rank": 7,
+   "quality_of_education": 128,
+   "score": 49.3
+ },
+ {
+   "world_rank": 135,
+   "institution": "Nanyang Technological University",
+   "country": "Singapore",
+   "national_rank": 2,
+   "quality_of_education": 367,
+   "score": 49.29
+ },
+ {
+   "world_rank": 136,
+   "institution": "Technion – Israel Institute of Technology",
+   "country": "Israel",
+   "national_rank": 4,
+   "quality_of_education": 45,
+   "score": 49.12
+ },
+ {
+   "world_rank": 137,
+   "institution": "University of Miami",
+   "country": "USA",
+   "national_rank": 64,
+   "quality_of_education": 367,
+   "score": 49.09
+ },
+ {
+   "world_rank": 138,
+   "institution": "Stony Brook University",
+   "country": "USA",
+   "national_rank": 65,
+   "quality_of_education": 186,
+   "score": 49.09
+ },
+ {
+   "world_rank": 139,
+   "institution": "University of Texas at Dallas",
+   "country": "USA",
+   "national_rank": 66,
+   "quality_of_education": 367,
+   "score": 49.05
+ },
+ {
+   "world_rank": 140,
+   "institution": "University of Nottingham",
+   "country": "United Kingdom",
+   "national_rank": 10,
+   "quality_of_education": 131,
+   "score": 49.02
+ },
+ {
+   "world_rank": 141,
+   "institution": "University of Iowa",
+   "country": "USA",
+   "national_rank": 67,
+   "quality_of_education": 233,
+   "score": 49.01
+ },
+ {
+   "world_rank": 142,
+   "institution": "Southern Methodist University",
+   "country": "USA",
+   "national_rank": 68,
+   "quality_of_education": 179,
+   "score": 48.99
+ },
+ {
+   "world_rank": 143,
+   "institution": "Icahn School of Medicine at Mount Sinai",
+   "country": "USA",
+   "national_rank": 69,
+   "quality_of_education": 367,
+   "score": 48.96
+ },
+ {
+   "world_rank": 144,
+   "institution": "Korea Advanced Institute of Science and Technology (KAIST)",
+   "country": "South Korea",
+   "national_rank": 4,
+   "quality_of_education": 367,
+   "score": 48.95
+ },
+ {
+   "world_rank": 145,
+   "institution": "Monash University",
+   "country": "Australia",
+   "national_rank": 5,
+   "quality_of_education": 277,
+   "score": 48.91
+ },
+ {
+   "world_rank": 146,
+   "institution": "University of Alabama at Birmingham",
+   "country": "USA",
+   "national_rank": 70,
+   "quality_of_education": 367,
+   "score": 48.79
+ },
+ {
+   "world_rank": 147,
+   "institution": "Free University of Berlin",
+   "country": "Germany",
+   "national_rank": 4,
+   "quality_of_education": 76,
+   "score": 48.78
+ },
+ {
+   "world_rank": 148,
+   "institution": "University of Southampton",
+   "country": "United Kingdom",
+   "national_rank": 11,
+   "quality_of_education": 329,
+   "score": 48.77
+ },
+ {
+   "world_rank": 149,
+   "institution": "University of the Witwatersrand",
+   "country": "South Africa",
+   "national_rank": 1,
+   "quality_of_education": 61,
+   "score": 48.75
+ },
+ {
+   "world_rank": 150,
+   "institution": "McMaster University",
+   "country": "Canada",
+   "national_rank": 6,
+   "quality_of_education": 222,
+   "score": 48.74
+ },
+ {
+   "world_rank": 151,
+   "institution": "University of Montreal",
+   "country": "Canada",
+   "national_rank": 7,
+   "quality_of_education": 320,
+   "score": 48.72
+ },
+ {
+   "world_rank": 152,
+   "institution": "University of Birmingham",
+   "country": "United Kingdom",
+   "national_rank": 12,
+   "quality_of_education": 65,
+   "score": 48.7
+ },
+ {
+   "world_rank": 153,
+   "institution": "Humboldt University of Berlin",
+   "country": "Germany",
+   "national_rank": 5,
+   "quality_of_education": 291,
+   "score": 48.64
+ },
+ {
+   "world_rank": 154,
+   "institution": "University of California; Santa Cruz",
+   "country": "USA",
+   "national_rank": 71,
+   "quality_of_education": 175,
+   "score": 48.59
+ },
+ {
+   "world_rank": 155,
+   "institution": "Albert Ludwig University of Freiburg",
+   "country": "Germany",
+   "national_rank": 6,
+   "quality_of_education": 148,
+   "score": 48.57
+ },
+ {
+   "world_rank": 156,
+   "institution": "University of Tübingen",
+   "country": "Germany",
+   "national_rank": 7,
+   "quality_of_education": 69,
+   "score": 48.56
+ },
+ {
+   "world_rank": 157,
+   "institution": "University of Cincinnati",
+   "country": "USA",
+   "national_rank": 72,
+   "quality_of_education": 188,
+   "score": 48.56
+ },
+ {
+   "world_rank": 158,
+   "institution": "University of Bonn",
+   "country": "Germany",
+   "national_rank": 8,
+   "quality_of_education": 58,
+   "score": 48.54
+ },
+ {
+   "world_rank": 159,
+   "institution": "Wake Forest University",
+   "country": "USA",
+   "national_rank": 73,
+   "quality_of_education": 265,
+   "score": 48.52
+ },
+ {
+   "world_rank": 160,
+   "institution": "University of Basel",
+   "country": "Switzerland",
+   "national_rank": 5,
+   "quality_of_education": 83,
+   "score": 48.48
+ },
+ {
+   "world_rank": 161,
+   "institution": "University of Leeds",
+   "country": "United Kingdom",
+   "national_rank": 13,
+   "quality_of_education": 62,
+   "score": 48.41
+ },
+ {
+   "world_rank": 162,
+   "institution": "University of Hamburg",
+   "country": "Germany",
+   "national_rank": 9,
+   "quality_of_education": 314,
+   "score": 48.31
+ },
+ {
+   "world_rank": 163,
+   "institution": "Université libre de Bruxelles",
+   "country": "Belgium",
+   "national_rank": 3,
+   "quality_of_education": 173,
+   "score": 48.28
+ },
+ {
+   "world_rank": 164,
+   "institution": "Indiana University-Purdue University Indianapolis",
+   "country": "USA",
+   "national_rank": 74,
+   "quality_of_education": 367,
+   "score": 48.28
+ },
+ {
+   "world_rank": 165,
+   "institution": "Pohang University of Science and Technology",
+   "country": "South Korea",
+   "national_rank": 5,
+   "quality_of_education": 367,
+   "score": 48.24
+ },
+ {
+   "world_rank": 166,
+   "institution": "Oregon Health & Science University",
+   "country": "USA",
+   "national_rank": 75,
+   "quality_of_education": 367,
+   "score": 48.23
+ },
+ {
+   "world_rank": 167,
+   "institution": "University of Calgary",
+   "country": "Canada",
+   "national_rank": 8,
+   "quality_of_education": 367,
+   "score": 48.23
+ },
+ {
+   "world_rank": 168,
+   "institution": "Stockholm University",
+   "country": "Sweden",
+   "national_rank": 5,
+   "quality_of_education": 129,
+   "score": 48.23
+ },
+ {
+   "world_rank": 169,
+   "institution": "University of Padua",
+   "country": "Italy",
+   "national_rank": 2,
+   "quality_of_education": 281,
+   "score": 48.17
+ },
+ {
+   "world_rank": 170,
+   "institution": "University of Hong Kong",
+   "country": "Hong Kong",
+   "national_rank": 1,
+   "quality_of_education": 287,
+   "score": 48.15
+ },
+ {
+   "world_rank": 171,
+   "institution": "Yeshiva University",
+   "country": "USA",
+   "national_rank": 76,
+   "quality_of_education": 200,
+   "score": 48.11
+ },
+ {
+   "world_rank": 172,
+   "institution": "University of Milan",
+   "country": "Italy",
+   "national_rank": 3,
+   "quality_of_education": 162,
+   "score": 48.07
+ },
+ {
+   "world_rank": 173,
+   "institution": "University of Sheffield",
+   "country": "United Kingdom",
+   "national_rank": 14,
+   "quality_of_education": 142,
+   "score": 48.07
+ },
+ {
+   "world_rank": 174,
+   "institution": "Technical University of Denmark",
+   "country": "Denmark",
+   "national_rank": 3,
+   "quality_of_education": 351,
+   "score": 48.06
+ },
+ {
+   "world_rank": 175,
+   "institution": "University of Maryland; Baltimore",
+   "country": "USA",
+   "national_rank": 77,
+   "quality_of_education": 367,
+   "score": 48.05
+ },
+ {
+   "world_rank": 176,
+   "institution": "Goethe University Frankfurt",
+   "country": "Germany",
+   "national_rank": 10,
+   "quality_of_education": 111,
+   "score": 48.01
+ },
+ {
+   "world_rank": 177,
+   "institution": "University of Göttingen",
+   "country": "Germany",
+   "national_rank": 11,
+   "quality_of_education": 43,
+   "score": 47.98
+ },
+ {
+   "world_rank": 178,
+   "institution": "Hokkaido University",
+   "country": "Japan",
+   "national_rank": 10,
+   "quality_of_education": 279,
+   "score": 47.97
+ },
+ {
+   "world_rank": 179,
+   "institution": "Australian National University",
+   "country": "Australia",
+   "national_rank": 6,
+   "quality_of_education": 196,
+   "score": 47.97
+ },
+ {
+   "world_rank": 180,
+   "institution": "Shanghai Jiao Tong University",
+   "country": "China",
+   "national_rank": 3,
+   "quality_of_education": 335,
+   "score": 47.96
+ },
+ {
+   "world_rank": 181,
+   "institution": "University of New Mexico",
+   "country": "USA",
+   "national_rank": 78,
+   "quality_of_education": 367,
+   "score": 47.95
+ },
+ {
+   "world_rank": 182,
+   "institution": "University of Strasbourg",
+   "country": "France",
+   "national_rank": 7,
+   "quality_of_education": 71,
+   "score": 47.89
+ },
+ {
+   "world_rank": 183,
+   "institution": "University of Massachusetts Medical School",
+   "country": "USA",
+   "national_rank": 79,
+   "quality_of_education": 367,
+   "score": 47.85
+ },
+ {
+   "world_rank": 184,
+   "institution": "University of Houston",
+   "country": "USA",
+   "national_rank": 80,
+   "quality_of_education": 367,
+   "score": 47.83
+ },
+ {
+   "world_rank": 185,
+   "institution": "Trinity College; Dublin",
+   "country": "Ireland",
+   "national_rank": 1,
+   "quality_of_education": 338,
+   "score": 47.73
+ },
+ {
+   "world_rank": 186,
+   "institution": "University of Lausanne",
+   "country": "Switzerland",
+   "national_rank": 6,
+   "quality_of_education": 102,
+   "score": 47.73
+ },
+ {
+   "world_rank": 187,
+   "institution": "Iowa State University",
+   "country": "USA",
+   "national_rank": 81,
+   "quality_of_education": 286,
+   "score": 47.71
+ },
+ {
+   "world_rank": 188,
+   "institution": "Joseph Fourier University",
+   "country": "France",
+   "national_rank": 8,
+   "quality_of_education": 195,
+   "score": 47.71
+ },
+ {
+   "world_rank": 189,
+   "institution": "Wayne State University",
+   "country": "USA",
+   "national_rank": 82,
+   "quality_of_education": 367,
+   "score": 47.67
+ },
+ {
+   "world_rank": 190,
+   "institution": "University of South Florida - Tampa",
+   "country": "USA",
+   "national_rank": 83,
+   "quality_of_education": 367,
+   "score": 47.66
+ },
+ {
+   "world_rank": 191,
+   "institution": "Zhejiang University",
+   "country": "China",
+   "national_rank": 4,
+   "quality_of_education": 367,
+   "score": 47.66
+ },
+ {
+   "world_rank": 192,
+   "institution": "Hanyang University",
+   "country": "South Korea",
+   "national_rank": 6,
+   "quality_of_education": 367,
+   "score": 47.6
+ },
+ {
+   "world_rank": 193,
+   "institution": "University of Ottawa",
+   "country": "Canada",
+   "national_rank": 9,
+   "quality_of_education": 223,
+   "score": 47.6
+ },
+ {
+   "world_rank": 194,
+   "institution": "University of Missouri–Columbia",
+   "country": "USA",
+   "national_rank": 84,
+   "quality_of_education": 250,
+   "score": 47.59
+ },
+ {
+   "world_rank": 195,
+   "institution": "Fudan University",
+   "country": "China",
+   "national_rank": 5,
+   "quality_of_education": 367,
+   "score": 47.56
+ },
+ {
+   "world_rank": 196,
+   "institution": "University of Kansas",
+   "country": "USA",
+   "national_rank": 85,
+   "quality_of_education": 228,
+   "score": 47.52
+ },
+ {
+   "world_rank": 197,
+   "institution": "University of Cologne",
+   "country": "Germany",
+   "national_rank": 12,
+   "quality_of_education": 367,
+   "score": 47.52
+ },
+ {
+   "world_rank": 198,
+   "institution": "University of Georgia",
+   "country": "USA",
+   "national_rank": 86,
+   "quality_of_education": 93,
+   "score": 47.5
+ },
+ {
+   "world_rank": 199,
+   "institution": "University of Liverpool",
+   "country": "United Kingdom",
+   "national_rank": 15,
+   "quality_of_education": 176,
+   "score": 47.49
+ },
+ {
+   "world_rank": 200,
+   "institution": "University of Bern",
+   "country": "Switzerland",
+   "national_rank": 7,
+   "quality_of_education": 184,
+   "score": 47.49
+ },
+ {
+   "world_rank": 201,
+   "institution": "Cardiff University",
+   "country": "United Kingdom",
+   "national_rank": 16,
+   "quality_of_education": 321,
+   "score": 47.46
+ },
+ {
+   "world_rank": 202,
+   "institution": "George Washington University",
+   "country": "USA",
+   "national_rank": 87,
+   "quality_of_education": 192,
+   "score": 47.46
+ },
+ {
+   "world_rank": 203,
+   "institution": "University of Illinois at Chicago",
+   "country": "USA",
+   "national_rank": 88,
+   "quality_of_education": 367,
+   "score": 47.39
+ },
+ {
+   "world_rank": 204,
+   "institution": "University of Erlangen-Nuremberg",
+   "country": "Germany",
+   "national_rank": 13,
+   "quality_of_education": 231,
+   "score": 47.36
+ },
+ {
+   "world_rank": 205,
+   "institution": "University of Münster",
+   "country": "Germany",
+   "national_rank": 14,
+   "quality_of_education": 113,
+   "score": 47.34
+ },
+ {
+   "world_rank": 206,
+   "institution": "Aix-Marseille University",
+   "country": "France",
+   "national_rank": 9,
+   "quality_of_education": 218,
+   "score": 47.31
+ },
+ {
+   "world_rank": 207,
+   "institution": "Claude Bernard University Lyon 1",
+   "country": "France",
+   "national_rank": 10,
+   "quality_of_education": 367,
+   "score": 47.31
+ },
+ {
+   "world_rank": 208,
+   "institution": "University of Bologna",
+   "country": "Italy",
+   "national_rank": 4,
+   "quality_of_education": 350,
+   "score": 47.28
+ },
+ {
+   "world_rank": 209,
+   "institution": "Queen Mary University of London",
+   "country": "United Kingdom",
+   "national_rank": 17,
+   "quality_of_education": 147,
+   "score": 47.25
+ },
+ {
+   "world_rank": 210,
+   "institution": "Dresden University of Technology",
+   "country": "Germany",
+   "national_rank": 15,
+   "quality_of_education": 367,
+   "score": 47.25
+ },
+ {
+   "world_rank": 211,
+   "institution": "Sungkyunkwan University",
+   "country": "South Korea",
+   "national_rank": 7,
+   "quality_of_education": 367,
+   "score": 47.19
+ },
+ {
+   "world_rank": 212,
+   "institution": "Newcastle University",
+   "country": "United Kingdom",
+   "national_rank": 18,
+   "quality_of_education": 367,
+   "score": 47.17
+ },
+ {
+   "world_rank": 213,
+   "institution": "Karlsruhe Institute of Technology",
+   "country": "Germany",
+   "national_rank": 16,
+   "quality_of_education": 356,
+   "score": 47.15
+ },
+ {
+   "world_rank": 214,
+   "institution": "University of California; Riverside",
+   "country": "USA",
+   "national_rank": 89,
+   "quality_of_education": 247,
+   "score": 47.13
+ },
+ {
+   "world_rank": 215,
+   "institution": "University of Kiel",
+   "country": "Germany",
+   "national_rank": 17,
+   "quality_of_education": 193,
+   "score": 47.11
+ },
+ {
+   "world_rank": 216,
+   "institution": "University of Western Australia",
+   "country": "Australia",
+   "national_rank": 7,
+   "quality_of_education": 156,
+   "score": 47.1
+ },
+ {
+   "world_rank": 217,
+   "institution": "Paris Descartes University",
+   "country": "France",
+   "national_rank": 11,
+   "quality_of_education": 203,
+   "score": 47.06
+ },
+ {
+   "world_rank": 218,
+   "institution": "University of Connecticut",
+   "country": "USA",
+   "national_rank": 90,
+   "quality_of_education": 296,
+   "score": 47.06
+ },
+ {
+   "world_rank": 219,
+   "institution": "University of Massachusetts Amherst",
+   "country": "USA",
+   "national_rank": 91,
+   "quality_of_education": 212,
+   "score": 47.05
+ },
+ {
+   "world_rank": 220,
+   "institution": "Chinese University of Hong Kong",
+   "country": "Hong Kong",
+   "national_rank": 2,
+   "quality_of_education": 100,
+   "score": 47.05
+ },
+ {
+   "world_rank": 221,
+   "institution": "University of Turin",
+   "country": "Italy",
+   "national_rank": 5,
+   "quality_of_education": 315,
+   "score": 47.04
+ },
+ {
+   "world_rank": 222,
+   "institution": "University of Manitoba",
+   "country": "Canada",
+   "national_rank": 10,
+   "quality_of_education": 157,
+   "score": 47.04
+ },
+ {
+   "world_rank": 223,
+   "institution": "University of Vienna",
+   "country": "Austria",
+   "national_rank": 1,
+   "quality_of_education": 191,
+   "score": 47.03
+ },
+ {
+   "world_rank": 224,
+   "institution": "University of Montpellier",
+   "country": "France",
+   "national_rank": 12,
+   "quality_of_education": 289,
+   "score": 47
+ },
+ {
+   "world_rank": 225,
+   "institution": "Maastricht University",
+   "country": "Netherlands",
+   "national_rank": 8,
+   "quality_of_education": 367,
+   "score": 47
+ },
+ {
+   "world_rank": 226,
+   "institution": "National Cheng Kung University",
+   "country": "Taiwan",
+   "national_rank": 2,
+   "quality_of_education": 367,
+   "score": 46.97
+ },
+ {
+   "world_rank": 227,
+   "institution": "University of Tennessee; Knoxville",
+   "country": "USA",
+   "national_rank": 92,
+   "quality_of_education": 319,
+   "score": 46.96
+ },
+ {
+   "world_rank": 228,
+   "institution": "Complutense University of Madrid",
+   "country": "Spain",
+   "national_rank": 2,
+   "quality_of_education": 86,
+   "score": 46.96
+ },
+ {
+   "world_rank": 229,
+   "institution": "Laval University",
+   "country": "Canada",
+   "national_rank": 11,
+   "quality_of_education": 292,
+   "score": 46.95
+ },
+ {
+   "world_rank": 230,
+   "institution": "RWTH Aachen University",
+   "country": "Germany",
+   "national_rank": 18,
+   "quality_of_education": 357,
+   "score": 46.9
+ },
+ {
+   "world_rank": 231,
+   "institution": "Université catholique de Louvain",
+   "country": "Belgium",
+   "national_rank": 4,
+   "quality_of_education": 367,
+   "score": 46.89
+ },
+ {
+   "world_rank": 232,
+   "institution": "North Carolina State University",
+   "country": "USA",
+   "national_rank": 93,
+   "quality_of_education": 251,
+   "score": 46.89
+ },
+ {
+   "world_rank": 233,
+   "institution": "Johannes Gutenberg University of Mainz",
+   "country": "Germany",
+   "national_rank": 19,
+   "quality_of_education": 367,
+   "score": 46.88
+ },
+ {
+   "world_rank": 234,
+   "institution": "University of Texas Health Science Center at San Antonio",
+   "country": "USA",
+   "national_rank": 94,
+   "quality_of_education": 367,
+   "score": 46.88
+ },
+ {
+   "world_rank": 235,
+   "institution": "Julius-Maximilian's University of Würzburg",
+   "country": "Germany",
+   "national_rank": 20,
+   "quality_of_education": 106,
+   "score": 46.85
+ },
+ {
+   "world_rank": 236,
+   "institution": "Paul Sabatier University - Toulouse III",
+   "country": "France",
+   "national_rank": 13,
+   "quality_of_education": 367,
+   "score": 46.81
+ },
+ {
+   "world_rank": 237,
+   "institution": "University of Gothenburg",
+   "country": "Sweden",
+   "national_rank": 6,
+   "quality_of_education": 257,
+   "score": 46.79
+ },
+ {
+   "world_rank": 238,
+   "institution": "University College Dublin",
+   "country": "Ireland",
+   "national_rank": 2,
+   "quality_of_education": 241,
+   "score": 46.79
+ },
+ {
+   "world_rank": 239,
+   "institution": "University of Science and Technology of China",
+   "country": "China",
+   "national_rank": 6,
+   "quality_of_education": 367,
+   "score": 46.73
+ },
+ {
+   "world_rank": 240,
+   "institution": "University of Leicester",
+   "country": "United Kingdom",
+   "national_rank": 19,
+   "quality_of_education": 367,
+   "score": 46.72
+ },
+ {
+   "world_rank": 241,
+   "institution": "Autonomous University of Barcelona",
+   "country": "Spain",
+   "national_rank": 3,
+   "quality_of_education": 367,
+   "score": 46.72
+ },
+ {
+   "world_rank": 242,
+   "institution": "University of Dundee",
+   "country": "United Kingdom",
+   "national_rank": 20,
+   "quality_of_education": 178,
+   "score": 46.68
+ },
+ {
+   "world_rank": 243,
+   "institution": "Norwegian University of Science and Technology",
+   "country": "Norway",
+   "national_rank": 2,
+   "quality_of_education": 252,
+   "score": 46.67
+ },
+ {
+   "world_rank": 244,
+   "institution": "Nanjing University",
+   "country": "China",
+   "national_rank": 7,
+   "quality_of_education": 342,
+   "score": 46.61
+ },
+ {
+   "world_rank": 245,
+   "institution": "Okayama University",
+   "country": "Japan",
+   "national_rank": 11,
+   "quality_of_education": 367,
+   "score": 46.59
+ },
+ {
+   "world_rank": 246,
+   "institution": "London School of Hygiene & Tropical Medicine",
+   "country": "United Kingdom",
+   "national_rank": 21,
+   "quality_of_education": 367,
+   "score": 46.59
+ },
+ {
+   "world_rank": 247,
+   "institution": "University of Florence",
+   "country": "Italy",
+   "national_rank": 6,
+   "quality_of_education": 327,
+   "score": 46.58
+ },
+ {
+   "world_rank": 248,
+   "institution": "University of Cape Town",
+   "country": "South Africa",
+   "national_rank": 2,
+   "quality_of_education": 104,
+   "score": 46.58
+ },
+ {
+   "world_rank": 249,
+   "institution": "University of Texas Health Science Center at Houston",
+   "country": "USA",
+   "national_rank": 95,
+   "quality_of_education": 367,
+   "score": 46.56
+ },
+ {
+   "world_rank": 250,
+   "institution": "Moscow Institute of Physics and Technology",
+   "country": "Russia",
+   "national_rank": 2,
+   "quality_of_education": 23,
+   "score": 46.55
+ },
+ {
+   "world_rank": 251,
+   "institution": "University of Düsseldorf",
+   "country": "Germany",
+   "national_rank": 21,
+   "quality_of_education": 185,
+   "score": 46.54
+ },
+ {
+   "world_rank": 252,
+   "institution": "Florida State University",
+   "country": "USA",
+   "national_rank": 96,
+   "quality_of_education": 367,
+   "score": 46.53
+ },
+ {
+   "world_rank": 253,
+   "institution": "University of Sussex",
+   "country": "United Kingdom",
+   "national_rank": 22,
+   "quality_of_education": 151,
+   "score": 46.49
+ },
+ {
+   "world_rank": 254,
+   "institution": "Thomas Jefferson University",
+   "country": "USA",
+   "national_rank": 97,
+   "quality_of_education": 158,
+   "score": 46.47
+ },
+ {
+   "world_rank": 255,
+   "institution": "Delft University of Technology",
+   "country": "Netherlands",
+   "national_rank": 9,
+   "quality_of_education": 307,
+   "score": 46.46
+ },
+ {
+   "world_rank": 256,
+   "institution": "Virginia Polytechnic Institute and State University",
+   "country": "USA",
+   "national_rank": 98,
+   "quality_of_education": 283,
+   "score": 46.46
+ },
+ {
+   "world_rank": 257,
+   "institution": "University of Lisbon",
+   "country": "Portugal",
+   "national_rank": 1,
+   "quality_of_education": 337,
+   "score": 46.43
+ },
+ {
+   "world_rank": 258,
+   "institution": "Drexel University",
+   "country": "USA",
+   "national_rank": 99,
+   "quality_of_education": 367,
+   "score": 46.43
+ },
+ {
+   "world_rank": 259,
+   "institution": "Virginia Commonwealth University",
+   "country": "USA",
+   "national_rank": 100,
+   "quality_of_education": 367,
+   "score": 46.43
+ },
+ {
+   "world_rank": 260,
+   "institution": "Oregon State University",
+   "country": "USA",
+   "national_rank": 101,
+   "quality_of_education": 189,
+   "score": 46.42
+ },
+ {
+   "world_rank": 261,
+   "institution": "Durham University",
+   "country": "United Kingdom",
+   "national_rank": 23,
+   "quality_of_education": 132,
+   "score": 46.42
+ },
+ {
+   "world_rank": 262,
+   "institution": "University of Tsukuba",
+   "country": "Japan",
+   "national_rank": 12,
+   "quality_of_education": 202,
+   "score": 46.41
+ },
+ {
+   "world_rank": 263,
+   "institution": "University of Reading",
+   "country": "United Kingdom",
+   "national_rank": 24,
+   "quality_of_education": 258,
+   "score": 46.4
+ },
+ {
+   "world_rank": 264,
+   "institution": "Lehigh University",
+   "country": "USA",
+   "national_rank": 102,
+   "quality_of_education": 367,
+   "score": 46.4
+ },
+ {
+   "world_rank": 265,
+   "institution": "Medical University of Vienna",
+   "country": "Austria",
+   "national_rank": 2,
+   "quality_of_education": 367,
+   "score": 46.39
+ },
+ {
+   "world_rank": 266,
+   "institution": "University of Auckland",
+   "country": "New Zealand",
+   "national_rank": 1,
+   "quality_of_education": 235,
+   "score": 46.38
+ },
+ {
+   "world_rank": 267,
+   "institution": "University of Kentucky",
+   "country": "USA",
+   "national_rank": 103,
+   "quality_of_education": 332,
+   "score": 46.37
+ },
+ {
+   "world_rank": 268,
+   "institution": "University of Naples Federico II",
+   "country": "Italy",
+   "national_rank": 7,
+   "quality_of_education": 331,
+   "score": 46.36
+ },
+ {
+   "world_rank": 269,
+   "institution": "University of Waterloo",
+   "country": "Canada",
+   "national_rank": 12,
+   "quality_of_education": 367,
+   "score": 46.34
+ },
+ {
+   "world_rank": 270,
+   "institution": "Charles University in Prague",
+   "country": "Czech Republic",
+   "national_rank": 1,
+   "quality_of_education": 238,
+   "score": 46.32
+ },
+ {
+   "world_rank": 271,
+   "institution": "Colorado State University - Fort Collins",
+   "country": "USA",
+   "national_rank": 104,
+   "quality_of_education": 211,
+   "score": 46.32
+ },
+ {
+   "world_rank": 272,
+   "institution": "Tulane University",
+   "country": "USA",
+   "national_rank": 105,
+   "quality_of_education": 324,
+   "score": 46.31
+ },
+ {
+   "world_rank": 273,
+   "institution": "University at Buffalo; The State University of New York",
+   "country": "USA",
+   "national_rank": 106,
+   "quality_of_education": 367,
+   "score": 46.3
+ },
+ {
+   "world_rank": 274,
+   "institution": "Brandeis University",
+   "country": "USA",
+   "national_rank": 107,
+   "quality_of_education": 51,
+   "score": 46.29
+ },
+ {
+   "world_rank": 275,
+   "institution": "Northeastern University",
+   "country": "USA",
+   "national_rank": 108,
+   "quality_of_education": 316,
+   "score": 46.29
+ },
+ {
+   "world_rank": 276,
+   "institution": "Wageningen University and Research Centre",
+   "country": "Netherlands",
+   "national_rank": 10,
+   "quality_of_education": 293,
+   "score": 46.26
+ },
+ {
+   "world_rank": 277,
+   "institution": "Sun Yat-sen University",
+   "country": "China",
+   "national_rank": 8,
+   "quality_of_education": 367,
+   "score": 46.25
+ },
+ {
+   "world_rank": 278,
+   "institution": "University of Ulm",
+   "country": "Germany",
+   "national_rank": 22,
+   "quality_of_education": 367,
+   "score": 46.24
+ },
+ {
+   "world_rank": 279,
+   "institution": "London School of Economics",
+   "country": "United Kingdom",
+   "national_rank": 25,
+   "quality_of_education": 78,
+   "score": 46.22
+ },
+ {
+   "world_rank": 280,
+   "institution": "Vrije Universiteit Brussel",
+   "country": "Belgium",
+   "national_rank": 5,
+   "quality_of_education": 110,
+   "score": 46.21
+ },
+ {
+   "world_rank": 281,
+   "institution": "University of Delaware",
+   "country": "USA",
+   "national_rank": 109,
+   "quality_of_education": 318,
+   "score": 46.21
+ },
+ {
+   "world_rank": 282,
+   "institution": "Rensselaer Polytechnic Institute",
+   "country": "USA",
+   "national_rank": 110,
+   "quality_of_education": 137,
+   "score": 46.19
+ },
+ {
+   "world_rank": 283,
+   "institution": "University of Bergen",
+   "country": "Norway",
+   "national_rank": 3,
+   "quality_of_education": 367,
+   "score": 46.18
+ },
+ {
+   "world_rank": 284,
+   "institution": "Queen's University",
+   "country": "Canada",
+   "national_rank": 13,
+   "quality_of_education": 322,
+   "score": 46.18
+ },
+ {
+   "world_rank": 285,
+   "institution": "University of Aberdeen",
+   "country": "United Kingdom",
+   "national_rank": 26,
+   "quality_of_education": 360,
+   "score": 46.17
+ },
+ {
+   "world_rank": 286,
+   "institution": "Dalhousie University",
+   "country": "Canada",
+   "national_rank": 14,
+   "quality_of_education": 367,
+   "score": 46.17
+ },
+ {
+   "world_rank": 287,
+   "institution": "Umeå University",
+   "country": "Sweden",
+   "national_rank": 7,
+   "quality_of_education": 367,
+   "score": 46.14
+ },
+ {
+   "world_rank": 288,
+   "institution": "University of Duisburg-Essen",
+   "country": "Germany",
+   "national_rank": 23,
+   "quality_of_education": 367,
+   "score": 46.13
+ },
+ {
+   "world_rank": 289,
+   "institution": "City College of New York",
+   "country": "USA",
+   "national_rank": 111,
+   "quality_of_education": 31,
+   "score": 46.12
+ },
+ {
+   "world_rank": 290,
+   "institution": "Hiroshima University",
+   "country": "Japan",
+   "national_rank": 13,
+   "quality_of_education": 367,
+   "score": 46.12
+ },
+ {
+   "world_rank": 291,
+   "institution": "University of Texas at San Antonio",
+   "country": "USA",
+   "national_rank": 112,
+   "quality_of_education": 367,
+   "score": 46.1
+ },
+ {
+   "world_rank": 292,
+   "institution": "Hannover Medical School",
+   "country": "Germany",
+   "national_rank": 24,
+   "quality_of_education": 367,
+   "score": 46.07
+ },
+ {
+   "world_rank": 293,
+   "institution": "University of Warwick",
+   "country": "United Kingdom",
+   "national_rank": 27,
+   "quality_of_education": 210,
+   "score": 46.05
+ },
+ {
+   "world_rank": 294,
+   "institution": "University of Valencia",
+   "country": "Spain",
+   "national_rank": 4,
+   "quality_of_education": 367,
+   "score": 46.03
+ },
+ {
+   "world_rank": 295,
+   "institution": "University of Pisa",
+   "country": "Italy",
+   "national_rank": 8,
+   "quality_of_education": 273,
+   "score": 46.03
+ },
+ {
+   "world_rank": 296,
+   "institution": "Ruhr University Bochum",
+   "country": "Germany",
+   "national_rank": 25,
+   "quality_of_education": 367,
+   "score": 46
+ },
+ {
+   "world_rank": 297,
+   "institution": "Medical College of Wisconsin",
+   "country": "USA",
+   "national_rank": 113,
+   "quality_of_education": 367,
+   "score": 45.97
+ },
+ {
+   "world_rank": 298,
+   "institution": "University of Louisville",
+   "country": "USA",
+   "national_rank": 114,
+   "quality_of_education": 367,
+   "score": 45.97
+ },
+ {
+   "world_rank": 299,
+   "institution": "University of Bordeaux",
+   "country": "France",
+   "national_rank": 14,
+   "quality_of_education": 354,
+   "score": 45.96
+ },
+ {
+   "world_rank": 300,
+   "institution": "University of South Carolina - Columbia",
+   "country": "USA",
+   "national_rank": 115,
+   "quality_of_education": 367,
+   "score": 45.95
+ },
+ {
+   "world_rank": 301,
+   "institution": "National and Kapodistrian University of Athens",
+   "country": "Greece",
+   "national_rank": 1,
+   "quality_of_education": 367,
+   "score": 45.94
+ },
+ {
+   "world_rank": 302,
+   "institution": "Leipzig University",
+   "country": "Germany",
+   "national_rank": 26,
+   "quality_of_education": 326,
+   "score": 45.94
+ },
+ {
+   "world_rank": 303,
+   "institution": "Medical University of South Carolina",
+   "country": "USA",
+   "national_rank": 116,
+   "quality_of_education": 367,
+   "score": 45.94
+ },
+ {
+   "world_rank": 304,
+   "institution": "Autonomous University of Madrid",
+   "country": "Spain",
+   "national_rank": 5,
+   "quality_of_education": 367,
+   "score": 45.92
+ },
+ {
+   "world_rank": 305,
+   "institution": "Dalian University of Technology",
+   "country": "China",
+   "national_rank": 9,
+   "quality_of_education": 367,
+   "score": 45.92
+ },
+ {
+   "world_rank": 306,
+   "institution": "Stellenbosch University",
+   "country": "South Africa",
+   "national_rank": 3,
+   "quality_of_education": 367,
+   "score": 45.92
+ },
+ {
+   "world_rank": 307,
+   "institution": "Kyungpook National University",
+   "country": "South Korea",
+   "national_rank": 8,
+   "quality_of_education": 367,
+   "score": 45.92
+ },
+ {
+   "world_rank": 308,
+   "institution": "University of Porto",
+   "country": "Portugal",
+   "national_rank": 2,
+   "quality_of_education": 94,
+   "score": 45.91
+ },
+ {
+   "world_rank": 309,
+   "institution": "University of St Andrews",
+   "country": "United Kingdom",
+   "national_rank": 28,
+   "quality_of_education": 145,
+   "score": 45.89
+ },
+ {
+   "world_rank": 310,
+   "institution": "Gwangju Institute of Science and Technology",
+   "country": "South Korea",
+   "national_rank": 9,
+   "quality_of_education": 367,
+   "score": 45.88
+ },
+ {
+   "world_rank": 311,
+   "institution": "Chulalongkorn University",
+   "country": "Thailand",
+   "national_rank": 1,
+   "quality_of_education": 367,
+   "score": 45.86
+ },
+ {
+   "world_rank": 312,
+   "institution": "University of Antwerp",
+   "country": "Belgium",
+   "national_rank": 6,
+   "quality_of_education": 367,
+   "score": 45.84
+ },
+ {
+   "world_rank": 313,
+   "institution": "Xiamen University",
+   "country": "China",
+   "national_rank": 10,
+   "quality_of_education": 367,
+   "score": 45.83
+ },
+ {
+   "world_rank": 314,
+   "institution": "University of Nebraska–Lincoln",
+   "country": "USA",
+   "national_rank": 117,
+   "quality_of_education": 165,
+   "score": 45.8
+ },
+ {
+   "world_rank": 315,
+   "institution": "Nankai University",
+   "country": "China",
+   "national_rank": 11,
+   "quality_of_education": 334,
+   "score": 45.8
+ },
+ {
+   "world_rank": 316,
+   "institution": "University of Stuttgart",
+   "country": "Germany",
+   "national_rank": 27,
+   "quality_of_education": 82,
+   "score": 45.79
+ },
+ {
+   "world_rank": 317,
+   "institution": "University of Rome Tor Vergata",
+   "country": "Italy",
+   "national_rank": 9,
+   "quality_of_education": 367,
+   "score": 45.79
+ },
+ {
+   "world_rank": 318,
+   "institution": "University of Regensburg",
+   "country": "Germany",
+   "national_rank": 28,
+   "quality_of_education": 367,
+   "score": 45.79
+ },
+ {
+   "world_rank": 319,
+   "institution": "Hong Kong University of Science and Technology",
+   "country": "Hong Kong",
+   "national_rank": 3,
+   "quality_of_education": 367,
+   "score": 45.77
+ },
+ {
+   "world_rank": 320,
+   "institution": "Kobe University",
+   "country": "Japan",
+   "national_rank": 14,
+   "quality_of_education": 95,
+   "score": 45.74
+ },
+ {
+   "world_rank": 321,
+   "institution": "University of Liège",
+   "country": "Belgium",
+   "national_rank": 7,
+   "quality_of_education": 143,
+   "score": 45.73
+ },
+ {
+   "world_rank": 322,
+   "institution": "Federal University of Rio de Janeiro",
+   "country": "Brazil",
+   "national_rank": 2,
+   "quality_of_education": 125,
+   "score": 45.72
+ },
+ {
+   "world_rank": 323,
+   "institution": "Rush University",
+   "country": "USA",
+   "national_rank": 118,
+   "quality_of_education": 367,
+   "score": 45.71
+ },
+ {
+   "world_rank": 324,
+   "institution": "University of Vermont",
+   "country": "USA",
+   "national_rank": 119,
+   "quality_of_education": 198,
+   "score": 45.7
+ },
+ {
+   "world_rank": 325,
+   "institution": "University of York",
+   "country": "United Kingdom",
+   "national_rank": 29,
+   "quality_of_education": 367,
+   "score": 45.69
+ },
+ {
+   "world_rank": 326,
+   "institution": "Boston College",
+   "country": "USA",
+   "national_rank": 120,
+   "quality_of_education": 367,
+   "score": 45.65
+ },
+ {
+   "world_rank": 327,
+   "institution": "University of Pavia",
+   "country": "Italy",
+   "national_rank": 10,
+   "quality_of_education": 295,
+   "score": 45.64
+ },
+ {
+   "world_rank": 328,
+   "institution": "University of Jena",
+   "country": "Germany",
+   "national_rank": 29,
+   "quality_of_education": 367,
+   "score": 45.64
+ },
+ {
+   "world_rank": 329,
+   "institution": "Vita-Salute San Raffaele University",
+   "country": "Italy",
+   "national_rank": 11,
+   "quality_of_education": 367,
+   "score": 45.61
+ },
+ {
+   "world_rank": 330,
+   "institution": "University of Genoa",
+   "country": "Italy",
+   "national_rank": 12,
+   "quality_of_education": 367,
+   "score": 45.61
+ },
+ {
+   "world_rank": 331,
+   "institution": "Tianjin University",
+   "country": "China",
+   "national_rank": 12,
+   "quality_of_education": 367,
+   "score": 45.61
+ },
+ {
+   "world_rank": 332,
+   "institution": "Louisiana State University - Baton Rouge",
+   "country": "USA",
+   "national_rank": 121,
+   "quality_of_education": 270,
+   "score": 45.61
+ },
+ {
+   "world_rank": 333,
+   "institution": "University of Exeter",
+   "country": "United Kingdom",
+   "national_rank": 30,
+   "quality_of_education": 264,
+   "score": 45.59
+ },
+ {
+   "world_rank": 334,
+   "institution": "National Autonomous University of Mexico",
+   "country": "Mexico",
+   "national_rank": 1,
+   "quality_of_education": 282,
+   "score": 45.58
+ },
+ {
+   "world_rank": 335,
+   "institution": "University of Adelaide",
+   "country": "Australia",
+   "national_rank": 8,
+   "quality_of_education": 219,
+   "score": 45.58
+ },
+ {
+   "world_rank": 336,
+   "institution": "University of East Anglia",
+   "country": "United Kingdom",
+   "national_rank": 31,
+   "quality_of_education": 206,
+   "score": 45.58
+ },
+ {
+   "world_rank": 337,
+   "institution": "York University",
+   "country": "Canada",
+   "national_rank": 15,
+   "quality_of_education": 367,
+   "score": 45.56
+ },
+ {
+   "world_rank": 338,
+   "institution": "University of Navarra",
+   "country": "Spain",
+   "national_rank": 6,
+   "quality_of_education": 367,
+   "score": 45.56
+ },
+ {
+   "world_rank": 339,
+   "institution": "University of Oregon",
+   "country": "USA",
+   "national_rank": 122,
+   "quality_of_education": 346,
+   "score": 45.55
+ },
+ {
+   "world_rank": 340,
+   "institution": "St George's; University of London",
+   "country": "United Kingdom",
+   "national_rank": 32,
+   "quality_of_education": 367,
+   "score": 45.55
+ },
+ {
+   "world_rank": 341,
+   "institution": "Indian Institute of Technology Delhi",
+   "country": "India",
+   "national_rank": 1,
+   "quality_of_education": 367,
+   "score": 45.54
+ },
+ {
+   "world_rank": 342,
+   "institution": "University of Trieste",
+   "country": "Italy",
+   "national_rank": 13,
+   "quality_of_education": 367,
+   "score": 45.54
+ },
+ {
+   "world_rank": 343,
+   "institution": "Queen's University Belfast",
+   "country": "United Kingdom",
+   "national_rank": 33,
+   "quality_of_education": 183,
+   "score": 45.53
+ },
+ {
+   "world_rank": 344,
+   "institution": "University of Perugia",
+   "country": "Italy",
+   "national_rank": 14,
+   "quality_of_education": 367,
+   "score": 45.53
+ },
+ {
+   "world_rank": 345,
+   "institution": "Technical University of Berlin",
+   "country": "Germany",
+   "national_rank": 30,
+   "quality_of_education": 85,
+   "score": 45.52
+ },
+ {
+   "world_rank": 346,
+   "institution": "University of Marburg",
+   "country": "Germany",
+   "national_rank": 31,
+   "quality_of_education": 304,
+   "score": 45.51
+ },
+ {
+   "world_rank": 347,
+   "institution": "University of Innsbruck",
+   "country": "Austria",
+   "national_rank": 3,
+   "quality_of_education": 197,
+   "score": 45.51
+ },
+ {
+   "world_rank": 348,
+   "institution": "Eindhoven University of Technology",
+   "country": "Netherlands",
+   "national_rank": 11,
+   "quality_of_education": 367,
+   "score": 45.51
+ },
+ {
+   "world_rank": 349,
+   "institution": "Ben-Gurion University of the Negev",
+   "country": "Israel",
+   "national_rank": 5,
+   "quality_of_education": 367,
+   "score": 45.49
+ },
+ {
+   "world_rank": 350,
+   "institution": "University of Oklahoma - Norman Campus",
+   "country": "USA",
+   "national_rank": 123,
+   "quality_of_education": 367,
+   "score": 45.49
+ },
+ {
+   "world_rank": 351,
+   "institution": "Wesleyan University",
+   "country": "USA",
+   "national_rank": 124,
+   "quality_of_education": 154,
+   "score": 45.48
+ },
+ {
+   "world_rank": 352,
+   "institution": "University of Victoria",
+   "country": "Canada",
+   "national_rank": 16,
+   "quality_of_education": 367,
+   "score": 45.48
+ },
+ {
+   "world_rank": 353,
+   "institution": "Kansas State University",
+   "country": "USA",
+   "national_rank": 125,
+   "quality_of_education": 130,
+   "score": 45.47
+ },
+ {
+   "world_rank": 354,
+   "institution": "Hong Kong Polytechnic University",
+   "country": "Hong Kong",
+   "national_rank": 4,
+   "quality_of_education": 367,
+   "score": 45.47
+ },
+ {
+   "world_rank": 355,
+   "institution": "Linköping University",
+   "country": "Sweden",
+   "national_rank": 8,
+   "quality_of_education": 367,
+   "score": 45.47
+ },
+ {
+   "world_rank": 356,
+   "institution": "University of Southern Denmark",
+   "country": "Denmark",
+   "national_rank": 4,
+   "quality_of_education": 367,
+   "score": 45.46
+ },
+ {
+   "world_rank": 357,
+   "institution": "University of Otago",
+   "country": "New Zealand",
+   "national_rank": 2,
+   "quality_of_education": 367,
+   "score": 45.44
+ },
+ {
+   "world_rank": 358,
+   "institution": "Justus Liebig University Giessen",
+   "country": "Germany",
+   "national_rank": 32,
+   "quality_of_education": 367,
+   "score": 45.43
+ },
+ {
+   "world_rank": 359,
+   "institution": "University of New Hampshire",
+   "country": "USA",
+   "national_rank": 126,
+   "quality_of_education": 367,
+   "score": 45.42
+ },
+ {
+   "world_rank": 360,
+   "institution": "College of William and Mary",
+   "country": "USA",
+   "national_rank": 127,
+   "quality_of_education": 367,
+   "score": 45.42
+ },
+ {
+   "world_rank": 361,
+   "institution": "San Diego State University",
+   "country": "USA",
+   "national_rank": 128,
+   "quality_of_education": 248,
+   "score": 45.41
+ },
+ {
+   "world_rank": 362,
+   "institution": "Simon Fraser University",
+   "country": "Canada",
+   "national_rank": 17,
+   "quality_of_education": 367,
+   "score": 45.4
+ },
+ {
+   "world_rank": 363,
+   "institution": "University of Santiago de Compostela",
+   "country": "Spain",
+   "national_rank": 7,
+   "quality_of_education": 367,
+   "score": 45.4
+ },
+ {
+   "world_rank": 364,
+   "institution": "Saint Louis University",
+   "country": "USA",
+   "national_rank": 129,
+   "quality_of_education": 367,
+   "score": 45.39
+ },
+ {
+   "world_rank": 365,
+   "institution": "Colorado School of Mines",
+   "country": "USA",
+   "national_rank": 130,
+   "quality_of_education": 367,
+   "score": 45.39
+ },
+ {
+   "world_rank": 366,
+   "institution": "University of Eastern Finland",
+   "country": "Finland",
+   "national_rank": 2,
+   "quality_of_education": 367,
+   "score": 45.37
+ },
+ {
+   "world_rank": 367,
+   "institution": "University of Buenos Aires",
+   "country": "Argentina",
+   "national_rank": 1,
+   "quality_of_education": 126,
+   "score": 45.37
+ },
+ {
+   "world_rank": 368,
+   "institution": "University of Guelph",
+   "country": "Canada",
+   "national_rank": 18,
+   "quality_of_education": 367,
+   "score": 45.36
+ },
+ {
+   "world_rank": 369,
+   "institution": "University of Ferrara",
+   "country": "Italy",
+   "national_rank": 15,
+   "quality_of_education": 367,
+   "score": 45.36
+ },
+ {
+   "world_rank": 370,
+   "institution": "Polytechnic University of Catalonia",
+   "country": "Spain",
+   "national_rank": 8,
+   "quality_of_education": 367,
+   "score": 45.36
+ },
+ {
+   "world_rank": 371,
+   "institution": "Versailles Saint-Quentin-en-Yvelines University",
+   "country": "France",
+   "national_rank": 15,
+   "quality_of_education": 367,
+   "score": 45.36
+ },
+ {
+   "world_rank": 372,
+   "institution": "Saarland University",
+   "country": "Germany",
+   "national_rank": 33,
+   "quality_of_education": 367,
+   "score": 45.33
+ },
+ {
+   "world_rank": 373,
+   "institution": "City University of Hong Kong",
+   "country": "Hong Kong",
+   "national_rank": 5,
+   "quality_of_education": 367,
+   "score": 45.33
+ },
+ {
+   "world_rank": 374,
+   "institution": "Darmstadt University of Technology",
+   "country": "Germany",
+   "national_rank": 34,
+   "quality_of_education": 66,
+   "score": 45.32
+ },
+ {
+   "world_rank": 375,
+   "institution": "Pompeu Fabra University",
+   "country": "Spain",
+   "national_rank": 9,
+   "quality_of_education": 367,
+   "score": 45.31
+ },
+ {
+   "world_rank": 376,
+   "institution": "Pontifical Catholic University of Chile",
+   "country": "Chile",
+   "national_rank": 1,
+   "quality_of_education": 343,
+   "score": 45.31
+ },
+ {
+   "world_rank": 377,
+   "institution": "University of Bari Aldo Moro",
+   "country": "Italy",
+   "national_rank": 16,
+   "quality_of_education": 367,
+   "score": 45.31
+ },
+ {
+   "world_rank": 378,
+   "institution": "University of Texas Medical Branch at Galveston",
+   "country": "USA",
+   "national_rank": 131,
+   "quality_of_education": 367,
+   "score": 45.3
+ },
+ {
+   "world_rank": 379,
+   "institution": "University of Delhi",
+   "country": "India",
+   "national_rank": 2,
+   "quality_of_education": 240,
+   "score": 45.3
+ },
+ {
+   "world_rank": 380,
+   "institution": "Washington State University; Pullman",
+   "country": "USA",
+   "national_rank": 132,
+   "quality_of_education": 367,
+   "score": 45.29
+ },
+ {
+   "world_rank": 381,
+   "institution": "Temple University",
+   "country": "USA",
+   "national_rank": 133,
+   "quality_of_education": 272,
+   "score": 45.29
+ },
+ {
+   "world_rank": 382,
+   "institution": "University of Milan - Bicocca",
+   "country": "Italy",
+   "national_rank": 17,
+   "quality_of_education": 367,
+   "score": 45.28
+ },
+ {
+   "world_rank": 383,
+   "institution": "University of Turku",
+   "country": "Finland",
+   "national_rank": 3,
+   "quality_of_education": 367,
+   "score": 45.27
+ },
+ {
+   "world_rank": 384,
+   "institution": "Chonnam National University",
+   "country": "South Korea",
+   "national_rank": 10,
+   "quality_of_education": 367,
+   "score": 45.27
+ },
+ {
+   "world_rank": 385,
+   "institution": "University of Lorraine",
+   "country": "France",
+   "national_rank": 16,
+   "quality_of_education": 216,
+   "score": 45.25
+ },
+ {
+   "world_rank": 386,
+   "institution": "National Chiao Tung University",
+   "country": "Taiwan",
+   "national_rank": 3,
+   "quality_of_education": 367,
+   "score": 45.24
+ },
+ {
+   "world_rank": 387,
+   "institution": "Catholic University of the Sacred Heart",
+   "country": "Italy",
+   "national_rank": 18,
+   "quality_of_education": 367,
+   "score": 45.22
+ },
+ {
+   "world_rank": 388,
+   "institution": "University at Albany; SUNY",
+   "country": "USA",
+   "national_rank": 134,
+   "quality_of_education": 180,
+   "score": 45.22
+ },
+ {
+   "world_rank": 389,
+   "institution": "Xi'an Jiaotong University",
+   "country": "China",
+   "national_rank": 13,
+   "quality_of_education": 367,
+   "score": 45.21
+ },
+ {
+   "world_rank": 390,
+   "institution": "Ewha Womans University",
+   "country": "South Korea",
+   "national_rank": 11,
+   "quality_of_education": 367,
+   "score": 45.2
+ },
+ {
+   "world_rank": 391,
+   "institution": "Jilin University",
+   "country": "China",
+   "national_rank": 14,
+   "quality_of_education": 220,
+   "score": 45.2
+ },
+ {
+   "world_rank": 392,
+   "institution": "Tokyo Medical and Dental University",
+   "country": "Japan",
+   "national_rank": 15,
+   "quality_of_education": 367,
+   "score": 45.2
+ },
+ {
+   "world_rank": 393,
+   "institution": "Scuola Normale Superiore di Pisa",
+   "country": "Italy",
+   "national_rank": 19,
+   "quality_of_education": 263,
+   "score": 45.2
+ },
+ {
+   "world_rank": 394,
+   "institution": "University of Central Florida",
+   "country": "USA",
+   "national_rank": 135,
+   "quality_of_education": 367,
+   "score": 45.18
+ },
+ {
+   "world_rank": 395,
+   "institution": "Innsbruck Medical University",
+   "country": "Austria",
+   "national_rank": 4,
+   "quality_of_education": 367,
+   "score": 45.18
+ },
+ {
+   "world_rank": 396,
+   "institution": "Beijing Normal University",
+   "country": "China",
+   "national_rank": 15,
+   "quality_of_education": 57,
+   "score": 45.17
+ },
+ {
+   "world_rank": 397,
+   "institution": "Polytechnic University of Milan",
+   "country": "Italy",
+   "national_rank": 20,
+   "quality_of_education": 103,
+   "score": 45.17
+ },
+ {
+   "world_rank": 398,
+   "institution": "University of Seville",
+   "country": "Spain",
+   "national_rank": 10,
+   "quality_of_education": 367,
+   "score": 45.17
+ },
+ {
+   "world_rank": 399,
+   "institution": "University of Nebraska Medical Center",
+   "country": "USA",
+   "national_rank": 136,
+   "quality_of_education": 367,
+   "score": 45.16
+ },
+ {
+   "world_rank": 400,
+   "institution": "Huazhong University of Science and Technology",
+   "country": "China",
+   "national_rank": 16,
+   "quality_of_education": 367,
+   "score": 45.16
+ },
+ {
+   "world_rank": 401,
+   "institution": "Kyung Hee University",
+   "country": "South Korea",
+   "national_rank": 12,
+   "quality_of_education": 245,
+   "score": 45.16
+ },
+ {
+   "world_rank": 402,
+   "institution": "Chalmers University of Technology",
+   "country": "Sweden",
+   "national_rank": 9,
+   "quality_of_education": 361,
+   "score": 45.16
+ },
+ {
+   "world_rank": 403,
+   "institution": "Brigham Young University",
+   "country": "USA",
+   "national_rank": 137,
+   "quality_of_education": 298,
+   "score": 45.15
+ },
+ {
+   "world_rank": 404,
+   "institution": "University of Campinas",
+   "country": "Brazil",
+   "national_rank": 3,
+   "quality_of_education": 367,
+   "score": 45.14
+ },
+ {
+   "world_rank": 405,
+   "institution": "University of Bath",
+   "country": "United Kingdom",
+   "national_rank": 34,
+   "quality_of_education": 367,
+   "score": 45.14
+ },
+ {
+   "world_rank": 406,
+   "institution": "Saint Petersburg State University",
+   "country": "Russia",
+   "national_rank": 3,
+   "quality_of_education": 47,
+   "score": 45.14
+ },
+ {
+   "world_rank": 407,
+   "institution": "National Tsing Hua University",
+   "country": "Taiwan",
+   "national_rank": 4,
+   "quality_of_education": 262,
+   "score": 45.14
+ },
+ {
+   "world_rank": 408,
+   "institution": "University of Twente",
+   "country": "Netherlands",
+   "national_rank": 12,
+   "quality_of_education": 367,
+   "score": 45.14
+ },
+ {
+   "world_rank": 409,
+   "institution": "University of Alabama - Tuscaloosa",
+   "country": "USA",
+   "national_rank": 138,
+   "quality_of_education": 325,
+   "score": 45.14
+ },
+ {
+   "world_rank": 410,
+   "institution": "Harbin Institute of Technology",
+   "country": "China",
+   "national_rank": 17,
+   "quality_of_education": 367,
+   "score": 45.14
+ },
+ {
+   "world_rank": 411,
+   "institution": "University of Verona",
+   "country": "Italy",
+   "national_rank": 21,
+   "quality_of_education": 367,
+   "score": 45.13
+ },
+ {
+   "world_rank": 412,
+   "institution": "Oklahoma State University–Stillwater",
+   "country": "USA",
+   "national_rank": 139,
+   "quality_of_education": 239,
+   "score": 45.13
+ },
+ {
+   "world_rank": 413,
+   "institution": "Shandong University",
+   "country": "China",
+   "national_rank": 18,
+   "quality_of_education": 367,
+   "score": 45.13
+ },
+ {
+   "world_rank": 414,
+   "institution": "George Mason University",
+   "country": "USA",
+   "national_rank": 140,
+   "quality_of_education": 367,
+   "score": 45.13
+ },
+ {
+   "world_rank": 415,
+   "institution": "Wuhan University",
+   "country": "China",
+   "national_rank": 19,
+   "quality_of_education": 367,
+   "score": 45.13
+ },
+ {
+   "world_rank": 416,
+   "institution": "Swedish University of Agricultural Sciences",
+   "country": "Sweden",
+   "national_rank": 10,
+   "quality_of_education": 146,
+   "score": 45.12
+ },
+ {
+   "world_rank": 417,
+   "institution": "Concordia University",
+   "country": "Canada",
+   "national_rank": 19,
+   "quality_of_education": 367,
+   "score": 45.12
+ },
+ {
+   "world_rank": 418,
+   "institution": "Chiba University",
+   "country": "Japan",
+   "national_rank": 16,
+   "quality_of_education": 367,
+   "score": 45.11
+ },
+ {
+   "world_rank": 419,
+   "institution": "Kumamoto University",
+   "country": "Japan",
+   "national_rank": 17,
+   "quality_of_education": 308,
+   "score": 45.11
+ },
+ {
+   "world_rank": 420,
+   "institution": "Tongji University",
+   "country": "China",
+   "national_rank": 20,
+   "quality_of_education": 153,
+   "score": 45.1
+ },
+ {
+   "world_rank": 421,
+   "institution": "Aalto University",
+   "country": "Finland",
+   "national_rank": 4,
+   "quality_of_education": 367,
+   "score": 45.1
+ },
+ {
+   "world_rank": 422,
+   "institution": "Chonbuk National University",
+   "country": "South Korea",
+   "national_rank": 13,
+   "quality_of_education": 367,
+   "score": 45.09
+ },
+ {
+   "world_rank": 423,
+   "institution": "Peking Union Medical College",
+   "country": "China",
+   "national_rank": 21,
+   "quality_of_education": 367,
+   "score": 45.09
+ },
+ {
+   "world_rank": 424,
+   "institution": "Georgia Regents University",
+   "country": "USA",
+   "national_rank": 141,
+   "quality_of_education": 367,
+   "score": 45.09
+ },
+ {
+   "world_rank": 425,
+   "institution": "University of Chile",
+   "country": "Chile",
+   "national_rank": 2,
+   "quality_of_education": 242,
+   "score": 45.08
+ },
+ {
+   "world_rank": 426,
+   "institution": "Lancaster University",
+   "country": "United Kingdom",
+   "national_rank": 35,
+   "quality_of_education": 367,
+   "score": 45.08
+ },
+ {
+   "world_rank": 427,
+   "institution": "Vienna University of Technology",
+   "country": "Austria",
+   "national_rank": 5,
+   "quality_of_education": 363,
+   "score": 45.08
+ },
+ {
+   "world_rank": 428,
+   "institution": "University of Denver",
+   "country": "USA",
+   "national_rank": 142,
+   "quality_of_education": 312,
+   "score": 45.08
+ },
+ {
+   "world_rank": 429,
+   "institution": "University of Arkansas for Medical Sciences",
+   "country": "USA",
+   "national_rank": 143,
+   "quality_of_education": 367,
+   "score": 45.08
+ },
+ {
+   "world_rank": 430,
+   "institution": "Grenoble Institute of Technology",
+   "country": "France",
+   "national_rank": 17,
+   "quality_of_education": 144,
+   "score": 45.06
+ },
+ {
+   "world_rank": 431,
+   "institution": "University of Granada",
+   "country": "Spain",
+   "national_rank": 11,
+   "quality_of_education": 367,
+   "score": 45.06
+ },
+ {
+   "world_rank": 432,
+   "institution": "University of Modena and Reggio Emilia",
+   "country": "Italy",
+   "national_rank": 22,
+   "quality_of_education": 367,
+   "score": 45.04
+ },
+ {
+   "world_rank": 433,
+   "institution": "Ajou University",
+   "country": "South Korea",
+   "national_rank": 14,
+   "quality_of_education": 367,
+   "score": 45.04
+ },
+ {
+   "world_rank": 434,
+   "institution": "Gyeongsang National University",
+   "country": "South Korea",
+   "national_rank": 15,
+   "quality_of_education": 367,
+   "score": 45.04
+ },
+ {
+   "world_rank": 435,
+   "institution": "Technical University of Madrid",
+   "country": "Spain",
+   "national_rank": 12,
+   "quality_of_education": 215,
+   "score": 45.03
+ },
+ {
+   "world_rank": 436,
+   "institution": "University College Cork",
+   "country": "Ireland",
+   "national_rank": 3,
+   "quality_of_education": 367,
+   "score": 45.03
+ },
+ {
+   "world_rank": 437,
+   "institution": "Loyola University Chicago",
+   "country": "USA",
+   "national_rank": 144,
+   "quality_of_education": 367,
+   "score": 45.03
+ },
+ {
+   "world_rank": 438,
+   "institution": "Central South University",
+   "country": "China",
+   "national_rank": 22,
+   "quality_of_education": 367,
+   "score": 45.02
+ },
+ {
+   "world_rank": 439,
+   "institution": "South China University of Technology",
+   "country": "China",
+   "national_rank": 23,
+   "quality_of_education": 367,
+   "score": 45.02
+ },
+ {
+   "world_rank": 440,
+   "institution": "Polytechnic University of Valencia",
+   "country": "Spain",
+   "national_rank": 13,
+   "quality_of_education": 367,
+   "score": 45.02
+ },
+ {
+   "world_rank": 441,
+   "institution": "West Virginia University",
+   "country": "USA",
+   "national_rank": 145,
+   "quality_of_education": 328,
+   "score": 45.02
+ },
+ {
+   "world_rank": 442,
+   "institution": "University of Tampere",
+   "country": "Finland",
+   "national_rank": 5,
+   "quality_of_education": 367,
+   "score": 45.02
+ },
+ {
+   "world_rank": 443,
+   "institution": "Southeast University",
+   "country": "China",
+   "national_rank": 24,
+   "quality_of_education": 168,
+   "score": 45.01
+ },
+ {
+   "world_rank": 444,
+   "institution": "Miami University",
+   "country": "USA",
+   "national_rank": 146,
+   "quality_of_education": 367,
+   "score": 45
+ },
+ {
+   "world_rank": 445,
+   "institution": "University of Dayton",
+   "country": "USA",
+   "national_rank": 147,
+   "quality_of_education": 348,
+   "score": 44.99
+ },
+ {
+   "world_rank": 446,
+   "institution": "University of Siena",
+   "country": "Italy",
+   "national_rank": 23,
+   "quality_of_education": 367,
+   "score": 44.98
+ },
+ {
+   "world_rank": 447,
+   "institution": "University of Oulu",
+   "country": "Finland",
+   "national_rank": 6,
+   "quality_of_education": 275,
+   "score": 44.96
+ },
+ {
+   "world_rank": 448,
+   "institution": "Indian Institute of Science",
+   "country": "India",
+   "national_rank": 3,
+   "quality_of_education": 367,
+   "score": 44.96
+ },
+ {
+   "world_rank": 449,
+   "institution": "Macquarie University",
+   "country": "Australia",
+   "national_rank": 9,
+   "quality_of_education": 367,
+   "score": 44.96
+ },
+ {
+   "world_rank": 450,
+   "institution": "University of Rostock",
+   "country": "Germany",
+   "national_rank": 35,
+   "quality_of_education": 364,
+   "score": 44.96
+ },
+ {
+   "world_rank": 451,
+   "institution": "Jagiellonian University",
+   "country": "Poland",
+   "national_rank": 1,
+   "quality_of_education": 367,
+   "score": 44.94
+ },
+ {
+   "world_rank": 452,
+   "institution": "Pusan National University",
+   "country": "South Korea",
+   "national_rank": 16,
+   "quality_of_education": 367,
+   "score": 44.94
+ },
+ {
+   "world_rank": 453,
+   "institution": "University of Strathclyde",
+   "country": "United Kingdom",
+   "national_rank": 36,
+   "quality_of_education": 367,
+   "score": 44.94
+ },
+ {
+   "world_rank": 454,
+   "institution": "University of Nevada; Reno",
+   "country": "USA",
+   "national_rank": 148,
+   "quality_of_education": 367,
+   "score": 44.93
+ },
+ {
+   "world_rank": 455,
+   "institution": "University of Saskatchewan",
+   "country": "Canada",
+   "national_rank": 20,
+   "quality_of_education": 336,
+   "score": 44.92
+ },
+ {
+   "world_rank": 456,
+   "institution": "University of Parma",
+   "country": "Italy",
+   "national_rank": 24,
+   "quality_of_education": 367,
+   "score": 44.92
+ },
+ {
+   "world_rank": 457,
+   "institution": "Kanazawa University",
+   "country": "Japan",
+   "national_rank": 18,
+   "quality_of_education": 367,
+   "score": 44.92
+ },
+ {
+   "world_rank": 458,
+   "institution": "Eötvös Loránd University",
+   "country": "Hungary",
+   "national_rank": 1,
+   "quality_of_education": 89,
+   "score": 44.92
+ },
+ {
+   "world_rank": 459,
+   "institution": "Aristotle University of Thessaloniki",
+   "country": "Greece",
+   "national_rank": 2,
+   "quality_of_education": 367,
+   "score": 44.92
+ },
+ {
+   "world_rank": 460,
+   "institution": "Ohio University",
+   "country": "USA",
+   "national_rank": 149,
+   "quality_of_education": 205,
+   "score": 44.91
+ },
+ {
+   "world_rank": 461,
+   "institution": "University of Iceland",
+   "country": "Iceland",
+   "national_rank": 1,
+   "quality_of_education": 367,
+   "score": 44.91
+ },
+ {
+   "world_rank": 462,
+   "institution": "University of Warsaw",
+   "country": "Poland",
+   "national_rank": 2,
+   "quality_of_education": 118,
+   "score": 44.91
+ },
+ {
+   "world_rank": 463,
+   "institution": "Syracuse University",
+   "country": "USA",
+   "national_rank": 150,
+   "quality_of_education": 138,
+   "score": 44.91
+ },
+ {
+   "world_rank": 464,
+   "institution": "Bielefeld University",
+   "country": "Germany",
+   "national_rank": 36,
+   "quality_of_education": 367,
+   "score": 44.91
+ },
+ {
+   "world_rank": 465,
+   "institution": "Juntendo University",
+   "country": "Japan",
+   "national_rank": 19,
+   "quality_of_education": 367,
+   "score": 44.9
+ },
+ {
+   "world_rank": 466,
+   "institution": "University of Wyoming",
+   "country": "USA",
+   "national_rank": 151,
+   "quality_of_education": 367,
+   "score": 44.89
+ },
+ {
+   "world_rank": 467,
+   "institution": "University of Wollongong",
+   "country": "Australia",
+   "national_rank": 10,
+   "quality_of_education": 367,
+   "score": 44.88
+ },
+ {
+   "world_rank": 468,
+   "institution": "Niigata University",
+   "country": "Japan",
+   "national_rank": 20,
+   "quality_of_education": 367,
+   "score": 44.88
+ },
+ {
+   "world_rank": 469,
+   "institution": "Texas Tech University (TTU)",
+   "country": "USA",
+   "national_rank": 152,
+   "quality_of_education": 367,
+   "score": 44.87
+ },
+ {
+   "world_rank": 470,
+   "institution": "Middle East Technical University",
+   "country": "Turkey",
+   "national_rank": 1,
+   "quality_of_education": 367,
+   "score": 44.87
+ },
+ {
+   "world_rank": 471,
+   "institution": "École normale supérieure de Lyon",
+   "country": "France",
+   "national_rank": 18,
+   "quality_of_education": 367,
+   "score": 44.87
+ },
+ {
+   "world_rank": 472,
+   "institution": "Brunel University",
+   "country": "United Kingdom",
+   "national_rank": 37,
+   "quality_of_education": 367,
+   "score": 44.86
+ },
+ {
+   "world_rank": 473,
+   "institution": "Nihon University",
+   "country": "Japan",
+   "national_rank": 21,
+   "quality_of_education": 301,
+   "score": 44.86
+ },
+ {
+   "world_rank": 474,
+   "institution": "Osaka City University",
+   "country": "Japan",
+   "national_rank": 22,
+   "quality_of_education": 108,
+   "score": 44.86
+ },
+ {
+   "world_rank": 475,
+   "institution": "University of Rennes 1",
+   "country": "France",
+   "national_rank": 19,
+   "quality_of_education": 367,
+   "score": 44.86
+ },
+ {
+   "world_rank": 476,
+   "institution": "University of Oklahoma Health Sciences Center",
+   "country": "USA",
+   "national_rank": 153,
+   "quality_of_education": 367,
+   "score": 44.86
+ },
+ {
+   "world_rank": 477,
+   "institution": "East China University of Science and Technology",
+   "country": "China",
+   "national_rank": 25,
+   "quality_of_education": 367,
+   "score": 44.86
+ },
+ {
+   "world_rank": 478,
+   "institution": "University of KwaZulu-Natal",
+   "country": "South Africa",
+   "national_rank": 4,
+   "quality_of_education": 367,
+   "score": 44.85
+ },
+ {
+   "world_rank": 479,
+   "institution": "Sichuan University",
+   "country": "China",
+   "national_rank": 26,
+   "quality_of_education": 367,
+   "score": 44.85
+ },
+ {
+   "world_rank": 480,
+   "institution": "Illinois Institute of Technology",
+   "country": "USA",
+   "national_rank": 154,
+   "quality_of_education": 274,
+   "score": 44.85
+ },
+ {
+   "world_rank": 481,
+   "institution": "Tokyo University of Science",
+   "country": "Japan",
+   "national_rank": 23,
+   "quality_of_education": 367,
+   "score": 44.84
+ },
+ {
+   "world_rank": 482,
+   "institution": "University of Science; Malaysia",
+   "country": "Malaysia",
+   "national_rank": 1,
+   "quality_of_education": 367,
+   "score": 44.84
+ },
+ {
+   "world_rank": 483,
+   "institution": "Clemson University",
+   "country": "USA",
+   "national_rank": 155,
+   "quality_of_education": 367,
+   "score": 44.83
+ },
+ {
+   "world_rank": 484,
+   "institution": "University of Zaragoza",
+   "country": "Spain",
+   "national_rank": 14,
+   "quality_of_education": 366,
+   "score": 44.83
+ },
+ {
+   "world_rank": 485,
+   "institution": "University of the Basque Country",
+   "country": "Spain",
+   "national_rank": 15,
+   "quality_of_education": 367,
+   "score": 44.83
+ },
+ {
+   "world_rank": 486,
+   "institution": "Nagasaki University",
+   "country": "Japan",
+   "national_rank": 24,
+   "quality_of_education": 299,
+   "score": 44.82
+ },
+ {
+   "world_rank": 487,
+   "institution": "Technical University of Dortmund",
+   "country": "Germany",
+   "national_rank": 37,
+   "quality_of_education": 367,
+   "score": 44.82
+ },
+ {
+   "world_rank": 488,
+   "institution": "University of Hawaii at Manoa",
+   "country": "USA",
+   "national_rank": 156,
+   "quality_of_education": 367,
+   "score": 44.82
+ },
+ {
+   "world_rank": 489,
+   "institution": "University of Nebraska Omaha",
+   "country": "USA",
+   "national_rank": 157,
+   "quality_of_education": 367,
+   "score": 44.81
+ },
+ {
+   "world_rank": 490,
+   "institution": "University of Konstanz",
+   "country": "Germany",
+   "national_rank": 38,
+   "quality_of_education": 367,
+   "score": 44.81
+ },
+ {
+   "world_rank": 491,
+   "institution": "Panjab University",
+   "country": "India",
+   "national_rank": 4,
+   "quality_of_education": 333,
+   "score": 44.8
+ },
+ {
+   "world_rank": 492,
+   "institution": "University of Hanover",
+   "country": "Germany",
+   "national_rank": 39,
+   "quality_of_education": 367,
+   "score": 44.8
+ },
+ {
+   "world_rank": 493,
+   "institution": "University of Maryland; Baltimore County",
+   "country": "USA",
+   "national_rank": 158,
+   "quality_of_education": 367,
+   "score": 44.8
+ },
+ {
+   "world_rank": 494,
+   "institution": "University of Newcastle",
+   "country": "Australia",
+   "national_rank": 11,
+   "quality_of_education": 367,
+   "score": 44.79
+ },
+ {
+   "world_rank": 495,
+   "institution": "University of Ulsan",
+   "country": "South Korea",
+   "national_rank": 17,
+   "quality_of_education": 367,
+   "score": 44.79
+ },
+ {
+   "world_rank": 496,
+   "institution": "Renmin University of China",
+   "country": "China",
+   "national_rank": 27,
+   "quality_of_education": 367,
+   "score": 44.79
+ },
+ {
+   "world_rank": 497,
+   "institution": "Martin Luther University of Halle-Wittenberg",
+   "country": "Germany",
+   "national_rank": 40,
+   "quality_of_education": 358,
+   "score": 44.79
+ },
+ {
+   "world_rank": 498,
+   "institution": "University of Malaya",
+   "country": "Malaysia",
+   "national_rank": 2,
+   "quality_of_education": 367,
+   "score": 44.79
+ },
+ {
+   "world_rank": 499,
+   "institution": "University of Savoy",
+   "country": "France",
+   "national_rank": 20,
+   "quality_of_education": 367,
+   "score": 44.79
+ },
+ {
+   "world_rank": 500,
+   "institution": "University of Udine",
+   "country": "Italy",
+   "national_rank": 25,
+   "quality_of_education": 367,
+   "score": 44.78
+ },
+ {
+   "world_rank": 501,
+   "institution": "Tokyo Metropolitan University",
+   "country": "Japan",
+   "national_rank": 25,
+   "quality_of_education": 367,
+   "score": 44.78
+ },
+ {
+   "world_rank": 502,
+   "institution": "University of Sherbrooke",
+   "country": "Canada",
+   "national_rank": 21,
+   "quality_of_education": 367,
+   "score": 44.77
+ },
+ {
+   "world_rank": 503,
+   "institution": "University of Brescia",
+   "country": "Italy",
+   "national_rank": 26,
+   "quality_of_education": 367,
+   "score": 44.77
+ },
+ {
+   "world_rank": 504,
+   "institution": "University of Ljubljana",
+   "country": "Slovenia",
+   "national_rank": 1,
+   "quality_of_education": 367,
+   "score": 44.77
+ },
+ {
+   "world_rank": 505,
+   "institution": "University of Nice Sophia Antipolis",
+   "country": "France",
+   "national_rank": 21,
+   "quality_of_education": 266,
+   "score": 44.75
+ },
+ {
+   "world_rank": 506,
+   "institution": "University of Hull",
+   "country": "United Kingdom",
+   "national_rank": 38,
+   "quality_of_education": 305,
+   "score": 44.75
+ },
+ {
+   "world_rank": 507,
+   "institution": "University of Coimbra",
+   "country": "Portugal",
+   "national_rank": 3,
+   "quality_of_education": 359,
+   "score": 44.75
+ },
+ {
+   "world_rank": 508,
+   "institution": "Creighton University",
+   "country": "USA",
+   "national_rank": 159,
+   "quality_of_education": 367,
+   "score": 44.75
+ },
+ {
+   "world_rank": 509,
+   "institution": "Georgia State University",
+   "country": "USA",
+   "national_rank": 160,
+   "quality_of_education": 367,
+   "score": 44.74
+ },
+ {
+   "world_rank": 510,
+   "institution": "University of Wisconsin–Milwaukee",
+   "country": "USA",
+   "national_rank": 161,
+   "quality_of_education": 229,
+   "score": 44.74
+ },
+ {
+   "world_rank": 511,
+   "institution": "Catholic University of Korea",
+   "country": "South Korea",
+   "national_rank": 18,
+   "quality_of_education": 367,
+   "score": 44.74
+ },
+ {
+   "world_rank": 512,
+   "institution": "University of Tokushima",
+   "country": "Japan",
+   "national_rank": 26,
+   "quality_of_education": 107,
+   "score": 44.73
+ },
+ {
+   "world_rank": 513,
+   "institution": "Yokohama City University",
+   "country": "Japan",
+   "national_rank": 27,
+   "quality_of_education": 367,
+   "score": 44.73
+ },
+ {
+   "world_rank": 514,
+   "institution": "Lanzhou University",
+   "country": "China",
+   "national_rank": 28,
+   "quality_of_education": 367,
+   "score": 44.72
+ },
+ {
+   "world_rank": 515,
+   "institution": "University of Crete",
+   "country": "Greece",
+   "national_rank": 3,
+   "quality_of_education": 367,
+   "score": 44.72
+ },
+ {
+   "world_rank": 516,
+   "institution": "SUNY Downstate Medical Center",
+   "country": "USA",
+   "national_rank": 162,
+   "quality_of_education": 367,
+   "score": 44.72
+ },
+ {
+   "world_rank": 517,
+   "institution": "University of Potsdam",
+   "country": "Germany",
+   "national_rank": 41,
+   "quality_of_education": 367,
+   "score": 44.72
+ },
+ {
+   "world_rank": 518,
+   "institution": "Yokohama National University",
+   "country": "Japan",
+   "national_rank": 28,
+   "quality_of_education": 88,
+   "score": 44.72
+ },
+ {
+   "world_rank": 519,
+   "institution": "New Mexico State University",
+   "country": "USA",
+   "national_rank": 163,
+   "quality_of_education": 367,
+   "score": 44.71
+ },
+ {
+   "world_rank": 520,
+   "institution": "University of Bayreuth",
+   "country": "Germany",
+   "national_rank": 42,
+   "quality_of_education": 367,
+   "score": 44.71
+ },
+ {
+   "world_rank": 521,
+   "institution": "Bar-Ilan University",
+   "country": "Israel",
+   "national_rank": 6,
+   "quality_of_education": 280,
+   "score": 44.71
+ },
+ {
+   "world_rank": 522,
+   "institution": "University of Mississippi - Oxford Campus",
+   "country": "USA",
+   "national_rank": 164,
+   "quality_of_education": 367,
+   "score": 44.7
+ },
+ {
+   "world_rank": 523,
+   "institution": "University of Tasmania",
+   "country": "Australia",
+   "national_rank": 12,
+   "quality_of_education": 367,
+   "score": 44.7
+ },
+ {
+   "world_rank": 524,
+   "institution": "Graduate University for Advanced Studies",
+   "country": "Japan",
+   "national_rank": 29,
+   "quality_of_education": 367,
+   "score": 44.7
+ },
+ {
+   "world_rank": 525,
+   "institution": "University of Surrey",
+   "country": "United Kingdom",
+   "national_rank": 39,
+   "quality_of_education": 217,
+   "score": 44.7
+ },
+ {
+   "world_rank": 526,
+   "institution": "Federal University of Minas Gerais",
+   "country": "Brazil",
+   "national_rank": 4,
+   "quality_of_education": 367,
+   "score": 44.7
+ },
+ {
+   "world_rank": 527,
+   "institution": "University of Tromsø - The Arctic University of Norway",
+   "country": "Norway",
+   "national_rank": 4,
+   "quality_of_education": 367,
+   "score": 44.7
+ },
+ {
+   "world_rank": 528,
+   "institution": "University of Palermo",
+   "country": "Italy",
+   "national_rank": 27,
+   "quality_of_education": 367,
+   "score": 44.7
+ },
+ {
+   "world_rank": 529,
+   "institution": "Shinshu University",
+   "country": "Japan",
+   "national_rank": 30,
+   "quality_of_education": 367,
+   "score": 44.7
+ },
+ {
+   "world_rank": 530,
+   "institution": "University of Science and Technology Beijing",
+   "country": "China",
+   "national_rank": 29,
+   "quality_of_education": 367,
+   "score": 44.7
+ },
+ {
+   "world_rank": 531,
+   "institution": "University of Catania",
+   "country": "Italy",
+   "national_rank": 28,
+   "quality_of_education": 213,
+   "score": 44.69
+ },
+ {
+   "world_rank": 532,
+   "institution": "Mahidol University",
+   "country": "Thailand",
+   "national_rank": 2,
+   "quality_of_education": 367,
+   "score": 44.69
+ },
+ {
+   "world_rank": 533,
+   "institution": "University of Canterbury",
+   "country": "New Zealand",
+   "national_rank": 3,
+   "quality_of_education": 190,
+   "score": 44.68
+ },
+ {
+   "world_rank": 534,
+   "institution": "Indian Institute of Technology Madras",
+   "country": "India",
+   "national_rank": 5,
+   "quality_of_education": 367,
+   "score": 44.68
+ },
+ {
+   "world_rank": 535,
+   "institution": "University of Bremen",
+   "country": "Germany",
+   "national_rank": 43,
+   "quality_of_education": 367,
+   "score": 44.68
+ },
+ {
+   "world_rank": 536,
+   "institution": "Otto-von-Guericke University Magdeburg",
+   "country": "Germany",
+   "national_rank": 44,
+   "quality_of_education": 367,
+   "score": 44.68
+ },
+ {
+   "world_rank": 537,
+   "institution": "University of Tartu",
+   "country": "Estonia",
+   "national_rank": 1,
+   "quality_of_education": 365,
+   "score": 44.68
+ },
+ {
+   "world_rank": 538,
+   "institution": "University of Windsor",
+   "country": "Canada",
+   "national_rank": 22,
+   "quality_of_education": 367,
+   "score": 44.68
+ },
+ {
+   "world_rank": 539,
+   "institution": "University of Nantes",
+   "country": "France",
+   "national_rank": 22,
+   "quality_of_education": 367,
+   "score": 44.67
+ },
+ {
+   "world_rank": 540,
+   "institution": "Royal Holloway; University of London",
+   "country": "United Kingdom",
+   "national_rank": 40,
+   "quality_of_education": 367,
+   "score": 44.67
+ },
+ {
+   "world_rank": 541,
+   "institution": "James Cook University",
+   "country": "Australia",
+   "national_rank": 13,
+   "quality_of_education": 367,
+   "score": 44.67
+ },
+ {
+   "world_rank": 542,
+   "institution": "National Yang-Ming University",
+   "country": "Taiwan",
+   "national_rank": 5,
+   "quality_of_education": 367,
+   "score": 44.65
+ },
+ {
+   "world_rank": 543,
+   "institution": "University of Akron",
+   "country": "USA",
+   "national_rank": 165,
+   "quality_of_education": 367,
+   "score": 44.65
+ },
+ {
+   "world_rank": 544,
+   "institution": "National Chung Hsing University",
+   "country": "Taiwan",
+   "national_rank": 6,
+   "quality_of_education": 367,
+   "score": 44.65
+ },
+ {
+   "world_rank": 545,
+   "institution": "City University London",
+   "country": "United Kingdom",
+   "national_rank": 41,
+   "quality_of_education": 367,
+   "score": 44.64
+ },
+ {
+   "world_rank": 546,
+   "institution": "New York Medical College",
+   "country": "USA",
+   "national_rank": 166,
+   "quality_of_education": 367,
+   "score": 44.64
+ },
+ {
+   "world_rank": 547,
+   "institution": "Nara Institute of Science and Technology",
+   "country": "Japan",
+   "national_rank": 31,
+   "quality_of_education": 367,
+   "score": 44.63
+ },
+ {
+   "world_rank": 548,
+   "institution": "École Centrale Paris",
+   "country": "France",
+   "national_rank": 23,
+   "quality_of_education": 367,
+   "score": 44.63
+ },
+ {
+   "world_rank": 549,
+   "institution": "Auburn University",
+   "country": "USA",
+   "national_rank": 167,
+   "quality_of_education": 367,
+   "score": 44.63
+ },
+ {
+   "world_rank": 550,
+   "institution": "University of Arkansas - Fayetteville",
+   "country": "USA",
+   "national_rank": 168,
+   "quality_of_education": 204,
+   "score": 44.62
+ },
+ {
+   "world_rank": 551,
+   "institution": "University of Zagreb",
+   "country": "Croatia",
+   "national_rank": 1,
+   "quality_of_education": 367,
+   "score": 44.62
+ },
+ {
+   "world_rank": 552,
+   "institution": "University of Lübeck",
+   "country": "Germany",
+   "national_rank": 45,
+   "quality_of_education": 367,
+   "score": 44.62
+ },
+ {
+   "world_rank": 553,
+   "institution": "Hunan University",
+   "country": "China",
+   "national_rank": 30,
+   "quality_of_education": 367,
+   "score": 44.62
+ },
+ {
+   "world_rank": 554,
+   "institution": "University of Missouri–Kansas City",
+   "country": "USA",
+   "national_rank": 169,
+   "quality_of_education": 311,
+   "score": 44.61
+ },
+ {
+   "world_rank": 555,
+   "institution": "Tokyo Women's Medical University",
+   "country": "Japan",
+   "national_rank": 32,
+   "quality_of_education": 367,
+   "score": 44.61
+ },
+ {
+   "world_rank": 556,
+   "institution": "Montana State University - Bozeman",
+   "country": "USA",
+   "national_rank": 170,
+   "quality_of_education": 367,
+   "score": 44.61
+ },
+ {
+   "world_rank": 557,
+   "institution": "University of Aveiro",
+   "country": "Portugal",
+   "national_rank": 4,
+   "quality_of_education": 367,
+   "score": 44.61
+ },
+ {
+   "world_rank": 558,
+   "institution": "National University of Ireland; Galway",
+   "country": "Ireland",
+   "national_rank": 4,
+   "quality_of_education": 367,
+   "score": 44.61
+ },
+ {
+   "world_rank": 559,
+   "institution": "University of Oviedo",
+   "country": "Spain",
+   "national_rank": 16,
+   "quality_of_education": 367,
+   "score": 44.61
+ },
+ {
+   "world_rank": 560,
+   "institution": "Dongguk University",
+   "country": "South Korea",
+   "national_rank": 19,
+   "quality_of_education": 367,
+   "score": 44.61
+ },
+ {
+   "world_rank": 561,
+   "institution": "University of Trento",
+   "country": "Italy",
+   "national_rank": 29,
+   "quality_of_education": 367,
+   "score": 44.61
+ },
+ {
+   "world_rank": 562,
+   "institution": "University Lille 1: Sciences and Technologies",
+   "country": "France",
+   "national_rank": 24,
+   "quality_of_education": 367,
+   "score": 44.6
+ },
+ {
+   "world_rank": 563,
+   "institution": "Chang Gung University",
+   "country": "Taiwan",
+   "national_rank": 7,
+   "quality_of_education": 367,
+   "score": 44.6
+ },
+ {
+   "world_rank": 564,
+   "institution": "National Central University",
+   "country": "Taiwan",
+   "national_rank": 8,
+   "quality_of_education": 225,
+   "score": 44.6
+ },
+ {
+   "world_rank": 565,
+   "institution": "Aalborg University",
+   "country": "Denmark",
+   "national_rank": 5,
+   "quality_of_education": 367,
+   "score": 44.59
+ },
+ {
+   "world_rank": 566,
+   "institution": "Utah State University",
+   "country": "USA",
+   "national_rank": 171,
+   "quality_of_education": 166,
+   "score": 44.59
+ },
+ {
+   "world_rank": 567,
+   "institution": "Baylor University",
+   "country": "USA",
+   "national_rank": 172,
+   "quality_of_education": 367,
+   "score": 44.59
+ },
+ {
+   "world_rank": 568,
+   "institution": "Bangor University",
+   "country": "United Kingdom",
+   "national_rank": 42,
+   "quality_of_education": 260,
+   "score": 44.59
+ },
+ {
+   "world_rank": 569,
+   "institution": "King Saud University",
+   "country": "Saudi Arabia",
+   "national_rank": 1,
+   "quality_of_education": 367,
+   "score": 44.59
+ },
+ {
+   "world_rank": 570,
+   "institution": "University of Cagliari",
+   "country": "Italy",
+   "national_rank": 30,
+   "quality_of_education": 367,
+   "score": 44.59
+ },
+ {
+   "world_rank": 571,
+   "institution": "Kent State University",
+   "country": "USA",
+   "national_rank": 173,
+   "quality_of_education": 367,
+   "score": 44.58
+ },
+ {
+   "world_rank": 572,
+   "institution": "Central China Normal University",
+   "country": "China",
+   "national_rank": 31,
+   "quality_of_education": 367,
+   "score": 44.58
+ },
+ {
+   "world_rank": 573,
+   "institution": "University of Fribourg",
+   "country": "Switzerland",
+   "national_rank": 8,
+   "quality_of_education": 232,
+   "score": 44.58
+ },
+ {
+   "world_rank": 574,
+   "institution": "Medical University of Graz",
+   "country": "Austria",
+   "national_rank": 6,
+   "quality_of_education": 367,
+   "score": 44.58
+ },
+ {
+   "world_rank": 575,
+   "institution": "Second University of Naples",
+   "country": "Italy",
+   "national_rank": 31,
+   "quality_of_education": 367,
+   "score": 44.57
+ },
+ {
+   "world_rank": 576,
+   "institution": "International School for Advanced Studies",
+   "country": "Italy",
+   "national_rank": 32,
+   "quality_of_education": 367,
+   "score": 44.57
+ },
+ {
+   "world_rank": 577,
+   "institution": "Tampere University of Technology",
+   "country": "Finland",
+   "national_rank": 7,
+   "quality_of_education": 367,
+   "score": 44.56
+ },
+ {
+   "world_rank": 578,
+   "institution": "Inha University",
+   "country": "South Korea",
+   "national_rank": 20,
+   "quality_of_education": 367,
+   "score": 44.56
+ },
+ {
+   "world_rank": 579,
+   "institution": "Deakin University",
+   "country": "Australia",
+   "national_rank": 14,
+   "quality_of_education": 367,
+   "score": 44.56
+ },
+ {
+   "world_rank": 580,
+   "institution": "National Polytechnic Institute of Toulouse",
+   "country": "France",
+   "national_rank": 25,
+   "quality_of_education": 367,
+   "score": 44.56
+ },
+ {
+   "world_rank": 581,
+   "institution": "Sogang University",
+   "country": "South Korea",
+   "national_rank": 21,
+   "quality_of_education": 367,
+   "score": 44.56
+ },
+ {
+   "world_rank": 582,
+   "institution": "University of Ioannina",
+   "country": "Greece",
+   "national_rank": 4,
+   "quality_of_education": 367,
+   "score": 44.55
+ },
+ {
+   "world_rank": 583,
+   "institution": "Federal University of Rio Grande do Sul",
+   "country": "Brazil",
+   "national_rank": 5,
+   "quality_of_education": 367,
+   "score": 44.55
+ },
+ {
+   "world_rank": 584,
+   "institution": "University of Graz",
+   "country": "Austria",
+   "national_rank": 7,
+   "quality_of_education": 349,
+   "score": 44.54
+ },
+ {
+   "world_rank": 585,
+   "institution": "University of Montana - Missoula",
+   "country": "USA",
+   "national_rank": 174,
+   "quality_of_education": 353,
+   "score": 44.54
+ },
+ {
+   "world_rank": 586,
+   "institution": "East China Normal University",
+   "country": "China",
+   "national_rank": 32,
+   "quality_of_education": 367,
+   "score": 44.54
+ },
+ {
+   "world_rank": 587,
+   "institution": "Plymouth University",
+   "country": "United Kingdom",
+   "national_rank": 43,
+   "quality_of_education": 367,
+   "score": 44.54
+ },
+ {
+   "world_rank": 588,
+   "institution": "Victoria University of Wellington",
+   "country": "New Zealand",
+   "national_rank": 4,
+   "quality_of_education": 317,
+   "score": 44.54
+ },
+ {
+   "world_rank": 589,
+   "institution": "Federal University of São Paulo",
+   "country": "Brazil",
+   "national_rank": 6,
+   "quality_of_education": 367,
+   "score": 44.53
+ },
+ {
+   "world_rank": 590,
+   "institution": "Southern Illinois University Carbondale",
+   "country": "USA",
+   "national_rank": 175,
+   "quality_of_education": 208,
+   "score": 44.53
+ },
+ {
+   "world_rank": 591,
+   "institution": "University of Alaska Fairbanks",
+   "country": "USA",
+   "national_rank": 176,
+   "quality_of_education": 367,
+   "score": 44.53
+ },
+ {
+   "world_rank": 592,
+   "institution": "University of Toledo",
+   "country": "USA",
+   "national_rank": 177,
+   "quality_of_education": 367,
+   "score": 44.53
+ },
+ {
+   "world_rank": 593,
+   "institution": "Carleton University",
+   "country": "Canada",
+   "national_rank": 23,
+   "quality_of_education": 367,
+   "score": 44.53
+ },
+ {
+   "world_rank": 594,
+   "institution": "Cranfield University",
+   "country": "United Kingdom",
+   "national_rank": 44,
+   "quality_of_education": 367,
+   "score": 44.52
+ },
+ {
+   "world_rank": 595,
+   "institution": "Curtin University",
+   "country": "Australia",
+   "national_rank": 15,
+   "quality_of_education": 367,
+   "score": 44.52
+ },
+ {
+   "world_rank": 596,
+   "institution": "Indian Institute of Technology Bombay",
+   "country": "India",
+   "national_rank": 6,
+   "quality_of_education": 367,
+   "score": 44.52
+ },
+ {
+   "world_rank": 597,
+   "institution": "University of Portsmouth",
+   "country": "United Kingdom",
+   "national_rank": 45,
+   "quality_of_education": 367,
+   "score": 44.52
+ },
+ {
+   "world_rank": 598,
+   "institution": "Osaka Prefecture University",
+   "country": "Japan",
+   "national_rank": 33,
+   "quality_of_education": 367,
+   "score": 44.52
+ },
+ {
+   "world_rank": 599,
+   "institution": "Nagoya City University",
+   "country": "Japan",
+   "national_rank": 34,
+   "quality_of_education": 367,
+   "score": 44.52
+ },
+ {
+   "world_rank": 600,
+   "institution": "LSU Health Sciences Center New Orleans",
+   "country": "USA",
+   "national_rank": 178,
+   "quality_of_education": 367,
+   "score": 44.52
+ },
+ {
+   "world_rank": 601,
+   "institution": "Tata Institute of Fundamental Research",
+   "country": "India",
+   "national_rank": 7,
+   "quality_of_education": 367,
+   "score": 44.51
+ },
+ {
+   "world_rank": 602,
+   "institution": "Konkuk University",
+   "country": "South Korea",
+   "national_rank": 22,
+   "quality_of_education": 367,
+   "score": 44.51
+ },
+ {
+   "world_rank": 603,
+   "institution": "University of La Laguna",
+   "country": "Spain",
+   "national_rank": 17,
+   "quality_of_education": 367,
+   "score": 44.51
+ },
+ {
+   "world_rank": 604,
+   "institution": "University of Hertfordshire",
+   "country": "United Kingdom",
+   "national_rank": 46,
+   "quality_of_education": 367,
+   "score": 44.51
+ },
+ {
+   "world_rank": 605,
+   "institution": "Florida International University",
+   "country": "USA",
+   "national_rank": 179,
+   "quality_of_education": 367,
+   "score": 44.5
+ },
+ {
+   "world_rank": 606,
+   "institution": "University of Rhode Island",
+   "country": "USA",
+   "national_rank": 180,
+   "quality_of_education": 367,
+   "score": 44.5
+ },
+ {
+   "world_rank": 607,
+   "institution": "Mississippi State University",
+   "country": "USA",
+   "national_rank": 181,
+   "quality_of_education": 155,
+   "score": 44.5
+ },
+ {
+   "world_rank": 608,
+   "institution": "Gunma University",
+   "country": "Japan",
+   "national_rank": 35,
+   "quality_of_education": 367,
+   "score": 44.5
+ },
+ {
+   "world_rank": 609,
+   "institution": "University of New Orleans",
+   "country": "USA",
+   "national_rank": 182,
+   "quality_of_education": 367,
+   "score": 44.5
+ },
+ {
+   "world_rank": 610,
+   "institution": "Putra University; Malaysia",
+   "country": "Malaysia",
+   "national_rank": 3,
+   "quality_of_education": 367,
+   "score": 44.49
+ },
+ {
+   "world_rank": 611,
+   "institution": "Memorial University of Newfoundland",
+   "country": "Canada",
+   "national_rank": 24,
+   "quality_of_education": 367,
+   "score": 44.49
+ },
+ {
+   "world_rank": 612,
+   "institution": "Universidade Nova de Lisboa",
+   "country": "Portugal",
+   "national_rank": 5,
+   "quality_of_education": 367,
+   "score": 44.49
+ },
+ {
+   "world_rank": 613,
+   "institution": "Griffith University",
+   "country": "Australia",
+   "national_rank": 16,
+   "quality_of_education": 367,
+   "score": 44.49
+ },
+ {
+   "world_rank": 614,
+   "institution": "Indian Institute of Technology Kharagpur",
+   "country": "India",
+   "national_rank": 8,
+   "quality_of_education": 367,
+   "score": 44.49
+ },
+ {
+   "world_rank": 615,
+   "institution": "Soochow University (Suzhou)",
+   "country": "China",
+   "national_rank": 33,
+   "quality_of_education": 367,
+   "score": 44.49
+ },
+ {
+   "world_rank": 616,
+   "institution": "Texas A&M Health Science Center",
+   "country": "USA",
+   "national_rank": 183,
+   "quality_of_education": 367,
+   "score": 44.49
+ },
+ {
+   "world_rank": 617,
+   "institution": "Semmelweis University",
+   "country": "Hungary",
+   "national_rank": 2,
+   "quality_of_education": 367,
+   "score": 44.48
+ },
+ {
+   "world_rank": 618,
+   "institution": "Lille 2 University of Health and Law",
+   "country": "France",
+   "national_rank": 26,
+   "quality_of_education": 367,
+   "score": 44.48
+ },
+ {
+   "world_rank": 619,
+   "institution": "Kagoshima University",
+   "country": "Japan",
+   "national_rank": 36,
+   "quality_of_education": 367,
+   "score": 44.48
+ },
+ {
+   "world_rank": 620,
+   "institution": "Flinders University",
+   "country": "Australia",
+   "national_rank": 17,
+   "quality_of_education": 122,
+   "score": 44.48
+ },
+ {
+   "world_rank": 621,
+   "institution": "Queensland University of Technology",
+   "country": "Australia",
+   "national_rank": 18,
+   "quality_of_education": 367,
+   "score": 44.48
+ },
+ {
+   "world_rank": 622,
+   "institution": "Tokai University",
+   "country": "Japan",
+   "national_rank": 37,
+   "quality_of_education": 367,
+   "score": 44.48
+ },
+ {
+   "world_rank": 623,
+   "institution": "Istanbul University",
+   "country": "Turkey",
+   "national_rank": 2,
+   "quality_of_education": 253,
+   "score": 44.48
+ },
+ {
+   "world_rank": 624,
+   "institution": "Tokyo University of Agriculture and Technology",
+   "country": "Japan",
+   "national_rank": 38,
+   "quality_of_education": 367,
+   "score": 44.47
+ },
+ {
+   "world_rank": 625,
+   "institution": "Louisiana Tech University",
+   "country": "USA",
+   "national_rank": 184,
+   "quality_of_education": 367,
+   "score": 44.47
+ },
+ {
+   "world_rank": 626,
+   "institution": "University of Texas at Arlington",
+   "country": "USA",
+   "national_rank": 185,
+   "quality_of_education": 367,
+   "score": 44.47
+ },
+ {
+   "world_rank": 627,
+   "institution": "China Agricultural University",
+   "country": "China",
+   "national_rank": 34,
+   "quality_of_education": 367,
+   "score": 44.47
+ },
+ {
+   "world_rank": 628,
+   "institution": "Chungnam National University",
+   "country": "South Korea",
+   "national_rank": 23,
+   "quality_of_education": 367,
+   "score": 44.47
+ },
+ {
+   "world_rank": 629,
+   "institution": "University of Minho",
+   "country": "Portugal",
+   "national_rank": 6,
+   "quality_of_education": 367,
+   "score": 44.46
+ },
+ {
+   "world_rank": 630,
+   "institution": "University of Eastern Piedmont Amedeo Avogadro\"\"",
+   "country": "Italy",
+   "national_rank": 33,
+   "quality_of_education": 367,
+   "score": 44.46
+ },
+ {
+   "world_rank": 631,
+   "institution": "Open University (UK)",
+   "country": "United Kingdom",
+   "national_rank": 47,
+   "quality_of_education": 367,
+   "score": 44.46
+ },
+ {
+   "world_rank": 632,
+   "institution": "University of Essex",
+   "country": "United Kingdom",
+   "national_rank": 48,
+   "quality_of_education": 119,
+   "score": 44.45
+ },
+ {
+   "world_rank": 633,
+   "institution": "Paris-Est Créteil Val-de-Marne University",
+   "country": "France",
+   "national_rank": 27,
+   "quality_of_education": 367,
+   "score": 44.45
+ },
+ {
+   "world_rank": 634,
+   "institution": "Hacettepe University",
+   "country": "Turkey",
+   "national_rank": 3,
+   "quality_of_education": 367,
+   "score": 44.45
+ },
+ {
+   "world_rank": 635,
+   "institution": "State University of New York Upstate Medical University",
+   "country": "USA",
+   "national_rank": 186,
+   "quality_of_education": 367,
+   "score": 44.45
+ },
+ {
+   "world_rank": 636,
+   "institution": "Braunschweig University of Technology",
+   "country": "Germany",
+   "national_rank": 46,
+   "quality_of_education": 226,
+   "score": 44.44
+ },
+ {
+   "world_rank": 637,
+   "institution": "University of Salamanca",
+   "country": "Spain",
+   "national_rank": 18,
+   "quality_of_education": 367,
+   "score": 44.44
+ },
+ {
+   "world_rank": 638,
+   "institution": "Indian Institute of Technology Roorkee",
+   "country": "India",
+   "national_rank": 9,
+   "quality_of_education": 367,
+   "score": 44.44
+ },
+ {
+   "world_rank": 639,
+   "institution": "Örebro University",
+   "country": "Sweden",
+   "national_rank": 11,
+   "quality_of_education": 367,
+   "score": 44.44
+ },
+ {
+   "world_rank": 640,
+   "institution": "Northeast Normal University",
+   "country": "China",
+   "national_rank": 35,
+   "quality_of_education": 367,
+   "score": 44.44
+ },
+ {
+   "world_rank": 641,
+   "institution": "University of Patras",
+   "country": "Greece",
+   "national_rank": 5,
+   "quality_of_education": 367,
+   "score": 44.44
+ },
+ {
+   "world_rank": 642,
+   "institution": "Beijing University of Chemical Technology",
+   "country": "China",
+   "national_rank": 36,
+   "quality_of_education": 367,
+   "score": 44.44
+ },
+ {
+   "world_rank": 643,
+   "institution": "Northern Illinois University",
+   "country": "USA",
+   "national_rank": 187,
+   "quality_of_education": 367,
+   "score": 44.44
+ },
+ {
+   "world_rank": 644,
+   "institution": "Rovira i Virgili University",
+   "country": "Spain",
+   "national_rank": 19,
+   "quality_of_education": 367,
+   "score": 44.44
+ },
+ {
+   "world_rank": 645,
+   "institution": "La Trobe University",
+   "country": "Australia",
+   "national_rank": 19,
+   "quality_of_education": 367,
+   "score": 44.44
+ },
+ {
+   "world_rank": 646,
+   "institution": "Warsaw University of Technology",
+   "country": "Poland",
+   "national_rank": 3,
+   "quality_of_education": 344,
+   "score": 44.43
+ },
+ {
+   "world_rank": 647,
+   "institution": "Binghamton University",
+   "country": "USA",
+   "national_rank": 188,
+   "quality_of_education": 367,
+   "score": 44.43
+ },
+ {
+   "world_rank": 648,
+   "institution": "Shizuoka University",
+   "country": "Japan",
+   "national_rank": 39,
+   "quality_of_education": 367,
+   "score": 44.43
+ },
+ {
+   "world_rank": 649,
+   "institution": "Hong Kong Baptist University",
+   "country": "Hong Kong",
+   "national_rank": 6,
+   "quality_of_education": 367,
+   "score": 44.43
+ },
+ {
+   "world_rank": 650,
+   "institution": "Albany Medical College",
+   "country": "USA",
+   "national_rank": 189,
+   "quality_of_education": 171,
+   "score": 44.43
+ },
+ {
+   "world_rank": 651,
+   "institution": "Ehime University",
+   "country": "Japan",
+   "national_rank": 40,
+   "quality_of_education": 367,
+   "score": 44.43
+ },
+ {
+   "world_rank": 652,
+   "institution": "University of Los Andes (Colombia)",
+   "country": "Colombia",
+   "national_rank": 1,
+   "quality_of_education": 367,
+   "score": 44.43
+ },
+ {
+   "world_rank": 653,
+   "institution": "Polytechnic University of Turin",
+   "country": "Italy",
+   "national_rank": 34,
+   "quality_of_education": 367,
+   "score": 44.43
+ },
+ {
+   "world_rank": 654,
+   "institution": "University of Burgundy",
+   "country": "France",
+   "national_rank": 28,
+   "quality_of_education": 224,
+   "score": 44.42
+ },
+ {
+   "world_rank": 655,
+   "institution": "University of Idaho",
+   "country": "USA",
+   "national_rank": 190,
+   "quality_of_education": 367,
+   "score": 44.42
+ },
+ {
+   "world_rank": 656,
+   "institution": "Old Dominion University",
+   "country": "USA",
+   "national_rank": 191,
+   "quality_of_education": 367,
+   "score": 44.42
+ },
+ {
+   "world_rank": 657,
+   "institution": "Yamaguchi University",
+   "country": "Japan",
+   "national_rank": 41,
+   "quality_of_education": 367,
+   "score": 44.42
+ },
+ {
+   "world_rank": 658,
+   "institution": "Massey University",
+   "country": "New Zealand",
+   "national_rank": 5,
+   "quality_of_education": 367,
+   "score": 44.42
+ },
+ {
+   "world_rank": 659,
+   "institution": "Donghua University",
+   "country": "China",
+   "national_rank": 37,
+   "quality_of_education": 367,
+   "score": 44.41
+ },
+ {
+   "world_rank": 660,
+   "institution": "University of the Balearic Islands",
+   "country": "Spain",
+   "national_rank": 20,
+   "quality_of_education": 367,
+   "score": 44.41
+ },
+ {
+   "world_rank": 661,
+   "institution": "Portland State University",
+   "country": "USA",
+   "national_rank": 192,
+   "quality_of_education": 367,
+   "score": 44.41
+ },
+ {
+   "world_rank": 662,
+   "institution": "Marche Polytechnic University",
+   "country": "Italy",
+   "national_rank": 35,
+   "quality_of_education": 367,
+   "score": 44.41
+ },
+ {
+   "world_rank": 663,
+   "institution": "University of Québec at Montreal",
+   "country": "Canada",
+   "national_rank": 25,
+   "quality_of_education": 367,
+   "score": 44.41
+ },
+ {
+   "world_rank": 664,
+   "institution": "UNESP; São Paulo State University",
+   "country": "Brazil",
+   "national_rank": 7,
+   "quality_of_education": 367,
+   "score": 44.41
+ },
+ {
+   "world_rank": 665,
+   "institution": "Loma Linda University",
+   "country": "USA",
+   "national_rank": 193,
+   "quality_of_education": 367,
+   "score": 44.41
+ },
+ {
+   "world_rank": 666,
+   "institution": "University of Toyama",
+   "country": "Japan",
+   "national_rank": 42,
+   "quality_of_education": 367,
+   "score": 44.41
+ },
+ {
+   "world_rank": 667,
+   "institution": "University of Debrecen",
+   "country": "Hungary",
+   "national_rank": 3,
+   "quality_of_education": 367,
+   "score": 44.4
+ },
+ {
+   "world_rank": 668,
+   "institution": "University of Maine; Orono",
+   "country": "USA",
+   "national_rank": 194,
+   "quality_of_education": 345,
+   "score": 44.4
+ },
+ {
+   "world_rank": 669,
+   "institution": "Graz University of Technology",
+   "country": "Austria",
+   "national_rank": 8,
+   "quality_of_education": 367,
+   "score": 44.4
+ },
+ {
+   "world_rank": 670,
+   "institution": "Gifu University",
+   "country": "Japan",
+   "national_rank": 43,
+   "quality_of_education": 367,
+   "score": 44.4
+ },
+ {
+   "world_rank": 671,
+   "institution": "University of Jyväskylä",
+   "country": "Finland",
+   "national_rank": 8,
+   "quality_of_education": 367,
+   "score": 44.4
+ },
+ {
+   "world_rank": 672,
+   "institution": "University of Paris 13",
+   "country": "France",
+   "national_rank": 29,
+   "quality_of_education": 367,
+   "score": 44.4
+ },
+ {
+   "world_rank": 673,
+   "institution": "University of Girona",
+   "country": "Spain",
+   "national_rank": 21,
+   "quality_of_education": 367,
+   "score": 44.4
+ },
+ {
+   "world_rank": 674,
+   "institution": "Keele University",
+   "country": "United Kingdom",
+   "national_rank": 49,
+   "quality_of_education": 367,
+   "score": 44.4
+ },
+ {
+   "world_rank": 675,
+   "institution": "University of Poitiers",
+   "country": "France",
+   "national_rank": 30,
+   "quality_of_education": 255,
+   "score": 44.39
+ },
+ {
+   "world_rank": 676,
+   "institution": "University of Insubria",
+   "country": "Italy",
+   "national_rank": 36,
+   "quality_of_education": 367,
+   "score": 44.39
+ },
+ {
+   "world_rank": 677,
+   "institution": "Wuhan University of Technology",
+   "country": "China",
+   "national_rank": 38,
+   "quality_of_education": 367,
+   "score": 44.39
+ },
+ {
+   "world_rank": 678,
+   "institution": "University of Pretoria",
+   "country": "South Africa",
+   "national_rank": 5,
+   "quality_of_education": 367,
+   "score": 44.39
+ },
+ {
+   "world_rank": 679,
+   "institution": "Banaras Hindu University",
+   "country": "India",
+   "national_rank": 10,
+   "quality_of_education": 243,
+   "score": 44.39
+ },
+ {
+   "world_rank": 680,
+   "institution": "University of L'Aquila",
+   "country": "Italy",
+   "national_rank": 37,
+   "quality_of_education": 367,
+   "score": 44.38
+ },
+ {
+   "world_rank": 681,
+   "institution": "University of Alicante",
+   "country": "Spain",
+   "national_rank": 22,
+   "quality_of_education": 367,
+   "score": 44.38
+ },
+ {
+   "world_rank": 682,
+   "institution": "American University of Beirut",
+   "country": "Lebanon",
+   "national_rank": 1,
+   "quality_of_education": 114,
+   "score": 44.38
+ },
+ {
+   "world_rank": 683,
+   "institution": "University of Ulster",
+   "country": "United Kingdom",
+   "national_rank": 50,
+   "quality_of_education": 367,
+   "score": 44.38
+ },
+ {
+   "world_rank": 684,
+   "institution": "Shanghai University",
+   "country": "China",
+   "national_rank": 39,
+   "quality_of_education": 367,
+   "score": 44.38
+ },
+ {
+   "world_rank": 685,
+   "institution": "Comenius University in Bratislava",
+   "country": "Slovak Republic",
+   "national_rank": 1,
+   "quality_of_education": 367,
+   "score": 44.38
+ },
+ {
+   "world_rank": 686,
+   "institution": "University of Vigo",
+   "country": "Spain",
+   "national_rank": 23,
+   "quality_of_education": 367,
+   "score": 44.38
+ },
+ {
+   "world_rank": 687,
+   "institution": "University of Nevada; Las Vegas",
+   "country": "USA",
+   "national_rank": 195,
+   "quality_of_education": 367,
+   "score": 44.38
+ },
+ {
+   "world_rank": 688,
+   "institution": "Swinburne University of Technology",
+   "country": "Australia",
+   "national_rank": 20,
+   "quality_of_education": 367,
+   "score": 44.38
+ },
+ {
+   "world_rank": 689,
+   "institution": "Tilburg University",
+   "country": "Netherlands",
+   "national_rank": 13,
+   "quality_of_education": 367,
+   "score": 44.37
+ },
+ {
+   "world_rank": 690,
+   "institution": "University of Messina",
+   "country": "Italy",
+   "national_rank": 38,
+   "quality_of_education": 367,
+   "score": 44.37
+ },
+ {
+   "world_rank": 691,
+   "institution": "Kaiserslautern University of Technology",
+   "country": "Germany",
+   "national_rank": 47,
+   "quality_of_education": 367,
+   "score": 44.37
+ },
+ {
+   "world_rank": 692,
+   "institution": "University of Kent",
+   "country": "United Kingdom",
+   "national_rank": 51,
+   "quality_of_education": 367,
+   "score": 44.37
+ },
+ {
+   "world_rank": 693,
+   "institution": "University of Málaga",
+   "country": "Spain",
+   "national_rank": 24,
+   "quality_of_education": 367,
+   "score": 44.37
+ },
+ {
+   "world_rank": 694,
+   "institution": "Loughborough University",
+   "country": "United Kingdom",
+   "national_rank": 52,
+   "quality_of_education": 367,
+   "score": 44.37
+ },
+ {
+   "world_rank": 695,
+   "institution": "National Technical University of Athens",
+   "country": "Greece",
+   "national_rank": 6,
+   "quality_of_education": 187,
+   "score": 44.37
+ },
+ {
+   "world_rank": 696,
+   "institution": "Liverpool John Moores University",
+   "country": "United Kingdom",
+   "national_rank": 53,
+   "quality_of_education": 367,
+   "score": 44.37
+ },
+ {
+   "world_rank": 697,
+   "institution": "Sharif University of Technology",
+   "country": "Iran",
+   "national_rank": 1,
+   "quality_of_education": 116,
+   "score": 44.37
+ },
+ {
+   "world_rank": 698,
+   "institution": "Birkbeck; University of London",
+   "country": "United Kingdom",
+   "national_rank": 54,
+   "quality_of_education": 300,
+   "score": 44.37
+ },
+ {
+   "world_rank": 699,
+   "institution": "University François Rabelais; Tours",
+   "country": "France",
+   "national_rank": 31,
+   "quality_of_education": 201,
+   "score": 44.37
+ },
+ {
+   "world_rank": 700,
+   "institution": "University of Haifa",
+   "country": "Israel",
+   "national_rank": 7,
+   "quality_of_education": 367,
+   "score": 44.36
+ },
+ {
+   "world_rank": 701,
+   "institution": "Roma Tre University",
+   "country": "Italy",
+   "national_rank": 39,
+   "quality_of_education": 367,
+   "score": 44.36
+ },
+ {
+   "world_rank": 702,
+   "institution": "Masaryk University",
+   "country": "Czech Republic",
+   "national_rank": 2,
+   "quality_of_education": 367,
+   "score": 44.36
+ },
+ {
+   "world_rank": 703,
+   "institution": "University of Salerno",
+   "country": "Italy",
+   "national_rank": 40,
+   "quality_of_education": 367,
+   "score": 44.36
+ },
+ {
+   "world_rank": 704,
+   "institution": "King Abdullah University of Science and Technology",
+   "country": "Saudi Arabia",
+   "national_rank": 2,
+   "quality_of_education": 367,
+   "score": 44.36
+ },
+ {
+   "world_rank": 705,
+   "institution": "Beihang University",
+   "country": "China",
+   "national_rank": 40,
+   "quality_of_education": 367,
+   "score": 44.35
+ },
+ {
+   "world_rank": 706,
+   "institution": "Fuzhou University",
+   "country": "China",
+   "national_rank": 41,
+   "quality_of_education": 367,
+   "score": 44.35
+ },
+ {
+   "world_rank": 707,
+   "institution": "Heriot-Watt University",
+   "country": "United Kingdom",
+   "national_rank": 55,
+   "quality_of_education": 367,
+   "score": 44.35
+ },
+ {
+   "world_rank": 708,
+   "institution": "China Medical University (Taiwan)",
+   "country": "Taiwan",
+   "national_rank": 9,
+   "quality_of_education": 367,
+   "score": 44.35
+ },
+ {
+   "world_rank": 709,
+   "institution": "University of Cantabria",
+   "country": "Spain",
+   "national_rank": 25,
+   "quality_of_education": 367,
+   "score": 44.35
+ },
+ {
+   "world_rank": 710,
+   "institution": "Rochester Institute of Technology",
+   "country": "USA",
+   "national_rank": 196,
+   "quality_of_education": 367,
+   "score": 44.35
+ },
+ {
+   "world_rank": 711,
+   "institution": "Royal College of Surgeons in Ireland",
+   "country": "Ireland",
+   "national_rank": 5,
+   "quality_of_education": 367,
+   "score": 44.35
+ },
+ {
+   "world_rank": 712,
+   "institution": "San Francisco State University",
+   "country": "USA",
+   "national_rank": 197,
+   "quality_of_education": 271,
+   "score": 44.35
+ },
+ {
+   "world_rank": 713,
+   "institution": "Sapporo Medical University",
+   "country": "Japan",
+   "national_rank": 44,
+   "quality_of_education": 367,
+   "score": 44.35
+ },
+ {
+   "world_rank": 714,
+   "institution": "Indian Institute of Technology Kanpur",
+   "country": "India",
+   "national_rank": 11,
+   "quality_of_education": 174,
+   "score": 44.34
+ },
+ {
+   "world_rank": 715,
+   "institution": "Johannes Kepler University of Linz",
+   "country": "Austria",
+   "national_rank": 9,
+   "quality_of_education": 367,
+   "score": 44.34
+ },
+ {
+   "world_rank": 716,
+   "institution": "Czech Technical University in Prague",
+   "country": "Czech Republic",
+   "national_rank": 3,
+   "quality_of_education": 347,
+   "score": 44.34
+ },
+ {
+   "world_rank": 717,
+   "institution": "Marquette University",
+   "country": "USA",
+   "national_rank": 198,
+   "quality_of_education": 367,
+   "score": 44.34
+ },
+ {
+   "world_rank": 718,
+   "institution": "Missouri University of Science and Technology",
+   "country": "USA",
+   "national_rank": 199,
+   "quality_of_education": 367,
+   "score": 44.34
+ },
+ {
+   "world_rank": 719,
+   "institution": "Howard University",
+   "country": "USA",
+   "national_rank": 200,
+   "quality_of_education": 294,
+   "score": 44.33
+ },
+ {
+   "world_rank": 720,
+   "institution": "Aston University",
+   "country": "United Kingdom",
+   "national_rank": 56,
+   "quality_of_education": 367,
+   "score": 44.33
+ },
+ {
+   "world_rank": 721,
+   "institution": "École normale supérieure de Cachan",
+   "country": "France",
+   "national_rank": 32,
+   "quality_of_education": 121,
+   "score": 44.33
+ },
+ {
+   "world_rank": 722,
+   "institution": "Jichi Medical University",
+   "country": "Japan",
+   "national_rank": 45,
+   "quality_of_education": 367,
+   "score": 44.33
+ },
+ {
+   "world_rank": 723,
+   "institution": "Rutgers; The State University of New Jersey - Newark",
+   "country": "USA",
+   "national_rank": 201,
+   "quality_of_education": 367,
+   "score": 44.33
+ },
+ {
+   "world_rank": 724,
+   "institution": "Palacký University; Olomouc",
+   "country": "Czech Republic",
+   "national_rank": 4,
+   "quality_of_education": 367,
+   "score": 44.33
+ },
+ {
+   "world_rank": 725,
+   "institution": "Ankara University",
+   "country": "Turkey",
+   "national_rank": 4,
+   "quality_of_education": 367,
+   "score": 44.33
+ },
+ {
+   "world_rank": 726,
+   "institution": "University of Belgrade",
+   "country": "Serbia",
+   "national_rank": 1,
+   "quality_of_education": 276,
+   "score": 44.33
+ },
+ {
+   "world_rank": 727,
+   "institution": "Toho University",
+   "country": "Japan",
+   "national_rank": 46,
+   "quality_of_education": 367,
+   "score": 44.33
+ },
+ {
+   "world_rank": 728,
+   "institution": "Kyoto Prefectural University of Medicine",
+   "country": "Japan",
+   "national_rank": 47,
+   "quality_of_education": 367,
+   "score": 44.33
+ },
+ {
+   "world_rank": 729,
+   "institution": "Swansea University",
+   "country": "United Kingdom",
+   "national_rank": 57,
+   "quality_of_education": 367,
+   "score": 44.32
+ },
+ {
+   "world_rank": 730,
+   "institution": "Université de Namur",
+   "country": "Belgium",
+   "national_rank": 8,
+   "quality_of_education": 164,
+   "score": 44.32
+ },
+ {
+   "world_rank": 731,
+   "institution": "University of Szeged",
+   "country": "Hungary",
+   "national_rank": 4,
+   "quality_of_education": 367,
+   "score": 44.32
+ },
+ {
+   "world_rank": 732,
+   "institution": "Kitasato University",
+   "country": "Japan",
+   "national_rank": 48,
+   "quality_of_education": 367,
+   "score": 44.32
+ },
+ {
+   "world_rank": 733,
+   "institution": "Hasselt University",
+   "country": "Belgium",
+   "national_rank": 9,
+   "quality_of_education": 367,
+   "score": 44.32
+ },
+ {
+   "world_rank": 734,
+   "institution": "University of Córdoba (Spain)",
+   "country": "Spain",
+   "national_rank": 26,
+   "quality_of_education": 367,
+   "score": 44.32
+ },
+ {
+   "world_rank": 735,
+   "institution": "Åbo Akademi University",
+   "country": "Finland",
+   "national_rank": 9,
+   "quality_of_education": 367,
+   "score": 44.32
+ },
+ {
+   "world_rank": 736,
+   "institution": "Tottori University",
+   "country": "Japan",
+   "national_rank": 49,
+   "quality_of_education": 367,
+   "score": 44.32
+ },
+ {
+   "world_rank": 737,
+   "institution": "Kindai University",
+   "country": "Japan",
+   "national_rank": 50,
+   "quality_of_education": 367,
+   "score": 44.32
+ },
+ {
+   "world_rank": 738,
+   "institution": "University of Castilla–La Mancha",
+   "country": "Spain",
+   "national_rank": 27,
+   "quality_of_education": 367,
+   "score": 44.31
+ },
+ {
+   "world_rank": 739,
+   "institution": "University of Augsburg",
+   "country": "Germany",
+   "national_rank": 48,
+   "quality_of_education": 367,
+   "score": 44.31
+ },
+ {
+   "world_rank": 740,
+   "institution": "Paul Valéry University; Montpellier III",
+   "country": "France",
+   "national_rank": 33,
+   "quality_of_education": 367,
+   "score": 44.31
+ },
+ {
+   "world_rank": 741,
+   "institution": "University of Mons",
+   "country": "Belgium",
+   "national_rank": 10,
+   "quality_of_education": 367,
+   "score": 44.31
+ },
+ {
+   "world_rank": 742,
+   "institution": "Istanbul Technical University",
+   "country": "Turkey",
+   "national_rank": 5,
+   "quality_of_education": 367,
+   "score": 44.31
+ },
+ {
+   "world_rank": 743,
+   "institution": "University of Natural Resources and Life Sciences; Vienna",
+   "country": "Austria",
+   "national_rank": 10,
+   "quality_of_education": 367,
+   "score": 44.31
+ },
+ {
+   "world_rank": 744,
+   "institution": "National University of La Plata",
+   "country": "Argentina",
+   "national_rank": 2,
+   "quality_of_education": 367,
+   "score": 44.31
+ },
+ {
+   "world_rank": 745,
+   "institution": "University of Calabria",
+   "country": "Italy",
+   "national_rank": 41,
+   "quality_of_education": 367,
+   "score": 44.31
+ },
+ {
+   "world_rank": 746,
+   "institution": "University of Memphis",
+   "country": "USA",
+   "national_rank": 202,
+   "quality_of_education": 367,
+   "score": 44.3
+ },
+ {
+   "world_rank": 747,
+   "institution": "G. d'Annunzio University; Chieti-Pescara",
+   "country": "Italy",
+   "national_rank": 42,
+   "quality_of_education": 367,
+   "score": 44.3
+ },
+ {
+   "world_rank": 748,
+   "institution": "University of Missouri–St. Louis",
+   "country": "USA",
+   "national_rank": 203,
+   "quality_of_education": 367,
+   "score": 44.3
+ },
+ {
+   "world_rank": 749,
+   "institution": "Beijing Institute of Technology",
+   "country": "China",
+   "national_rank": 42,
+   "quality_of_education": 367,
+   "score": 44.3
+ },
+ {
+   "world_rank": 750,
+   "institution": "University of Évry Val d'Essonne",
+   "country": "France",
+   "national_rank": 34,
+   "quality_of_education": 367,
+   "score": 44.3
+ },
+ {
+   "world_rank": 751,
+   "institution": "University of South Australia",
+   "country": "Australia",
+   "national_rank": 21,
+   "quality_of_education": 367,
+   "score": 44.3
+ },
+ {
+   "world_rank": 752,
+   "institution": "University of Alabama in Huntsville",
+   "country": "USA",
+   "national_rank": 204,
+   "quality_of_education": 367,
+   "score": 44.3
+ },
+ {
+   "world_rank": 753,
+   "institution": "University of Salzburg",
+   "country": "Austria",
+   "national_rank": 11,
+   "quality_of_education": 367,
+   "score": 44.3
+ },
+ {
+   "world_rank": 754,
+   "institution": "University of Mississippi Medical Center",
+   "country": "USA",
+   "national_rank": 205,
+   "quality_of_education": 367,
+   "score": 44.29
+ },
+ {
+   "world_rank": 755,
+   "institution": "National Research Nuclear University MEPhI",
+   "country": "Russia",
+   "national_rank": 4,
+   "quality_of_education": 306,
+   "score": 44.29
+ },
+ {
+   "world_rank": 756,
+   "institution": "Chung-Ang University",
+   "country": "South Korea",
+   "national_rank": 24,
+   "quality_of_education": 367,
+   "score": 44.29
+ },
+ {
+   "world_rank": 757,
+   "institution": "Kaohsiung Medical University",
+   "country": "Taiwan",
+   "national_rank": 10,
+   "quality_of_education": 367,
+   "score": 44.29
+ },
+ {
+   "world_rank": 758,
+   "institution": "University of Neuchâtel",
+   "country": "Switzerland",
+   "national_rank": 9,
+   "quality_of_education": 352,
+   "score": 44.29
+ },
+ {
+   "world_rank": 759,
+   "institution": "University of Yamanashi",
+   "country": "Japan",
+   "national_rank": 51,
+   "quality_of_education": 367,
+   "score": 44.29
+ },
+ {
+   "world_rank": 760,
+   "institution": "Yamagata University",
+   "country": "Japan",
+   "national_rank": 52,
+   "quality_of_education": 367,
+   "score": 44.29
+ },
+ {
+   "world_rank": 761,
+   "institution": "New Jersey Institute of Technology",
+   "country": "USA",
+   "national_rank": 206,
+   "quality_of_education": 259,
+   "score": 44.28
+ },
+ {
+   "world_rank": 762,
+   "institution": "East Carolina University",
+   "country": "USA",
+   "national_rank": 207,
+   "quality_of_education": 367,
+   "score": 44.28
+ },
+ {
+   "world_rank": 763,
+   "institution": "University of Hyogo",
+   "country": "Japan",
+   "national_rank": 53,
+   "quality_of_education": 367,
+   "score": 44.28
+ },
+ {
+   "world_rank": 764,
+   "institution": "University of Picardie Jules Verne",
+   "country": "France",
+   "national_rank": 35,
+   "quality_of_education": 367,
+   "score": 44.28
+ },
+ {
+   "world_rank": 765,
+   "institution": "University of Salento",
+   "country": "Italy",
+   "national_rank": 43,
+   "quality_of_education": 367,
+   "score": 44.28
+ },
+ {
+   "world_rank": 766,
+   "institution": "Northern Arizona University",
+   "country": "USA",
+   "national_rank": 208,
+   "quality_of_education": 367,
+   "score": 44.28
+ },
+ {
+   "world_rank": 767,
+   "institution": "Miguel Hernández University of Elche",
+   "country": "Spain",
+   "national_rank": 28,
+   "quality_of_education": 367,
+   "score": 44.28
+ },
+ {
+   "world_rank": 768,
+   "institution": "University of Tehran",
+   "country": "Iran",
+   "national_rank": 2,
+   "quality_of_education": 181,
+   "score": 44.28
+ },
+ {
+   "world_rank": 769,
+   "institution": "Blaise Pascal University",
+   "country": "France",
+   "national_rank": 36,
+   "quality_of_education": 367,
+   "score": 44.28
+ },
+ {
+   "world_rank": 770,
+   "institution": "Yeungnam University",
+   "country": "South Korea",
+   "national_rank": 25,
+   "quality_of_education": 367,
+   "score": 44.27
+ },
+ {
+   "world_rank": 771,
+   "institution": "Kurume University",
+   "country": "Japan",
+   "national_rank": 54,
+   "quality_of_education": 367,
+   "score": 44.27
+ },
+ {
+   "world_rank": 772,
+   "institution": "Institut national des sciences Appliquées de Lyon",
+   "country": "France",
+   "national_rank": 37,
+   "quality_of_education": 367,
+   "score": 44.27
+ },
+ {
+   "world_rank": 773,
+   "institution": "Saga University",
+   "country": "Japan",
+   "national_rank": 55,
+   "quality_of_education": 367,
+   "score": 44.27
+ },
+ {
+   "world_rank": 774,
+   "institution": "Chongqing University",
+   "country": "China",
+   "national_rank": 43,
+   "quality_of_education": 367,
+   "score": 44.27
+ },
+ {
+   "world_rank": 775,
+   "institution": "Jikei University School of Medicine",
+   "country": "Japan",
+   "national_rank": 56,
+   "quality_of_education": 367,
+   "score": 44.27
+ },
+ {
+   "world_rank": 776,
+   "institution": "Second Military Medical University",
+   "country": "China",
+   "national_rank": 44,
+   "quality_of_education": 367,
+   "score": 44.27
+ },
+ {
+   "world_rank": 777,
+   "institution": "Jawaharlal Nehru Centre for Advanced Scientific Research",
+   "country": "India",
+   "national_rank": 12,
+   "quality_of_education": 367,
+   "score": 44.27
+ },
+ {
+   "world_rank": 778,
+   "institution": "University of North Texas; Denton",
+   "country": "USA",
+   "national_rank": 209,
+   "quality_of_education": 367,
+   "score": 44.27
+ },
+ {
+   "world_rank": 779,
+   "institution": "Ege University",
+   "country": "Turkey",
+   "national_rank": 6,
+   "quality_of_education": 367,
+   "score": 44.27
+ },
+ {
+   "world_rank": 780,
+   "institution": "Mie University",
+   "country": "Japan",
+   "national_rank": 57,
+   "quality_of_education": 367,
+   "score": 44.27
+ },
+ {
+   "world_rank": 781,
+   "institution": "École Polytechnique de Montréal",
+   "country": "Canada",
+   "national_rank": 26,
+   "quality_of_education": 367,
+   "score": 44.27
+ },
+ {
+   "world_rank": 782,
+   "institution": "AGH University of Science and Technology",
+   "country": "Poland",
+   "national_rank": 4,
+   "quality_of_education": 267,
+   "score": 44.26
+ },
+ {
+   "world_rank": 783,
+   "institution": "University of Electronic Science and Technology of China",
+   "country": "China",
+   "national_rank": 45,
+   "quality_of_education": 367,
+   "score": 44.26
+ },
+ {
+   "world_rank": 784,
+   "institution": "University of Stirling",
+   "country": "United Kingdom",
+   "national_rank": 58,
+   "quality_of_education": 367,
+   "score": 44.26
+ },
+ {
+   "world_rank": 785,
+   "institution": "University of Greifswald",
+   "country": "Germany",
+   "national_rank": 49,
+   "quality_of_education": 367,
+   "score": 44.26
+ },
+ {
+   "world_rank": 786,
+   "institution": "National Polytechnic Institute",
+   "country": "Mexico",
+   "national_rank": 2,
+   "quality_of_education": 330,
+   "score": 44.26
+ },
+ {
+   "world_rank": 787,
+   "institution": "Jacobs University Bremen",
+   "country": "Germany",
+   "national_rank": 50,
+   "quality_of_education": 367,
+   "score": 44.26
+ },
+ {
+   "world_rank": 788,
+   "institution": "Capital Medical University",
+   "country": "China",
+   "national_rank": 46,
+   "quality_of_education": 367,
+   "score": 44.26
+ },
+ {
+   "world_rank": 789,
+   "institution": "Norwegian University of Life Sciences",
+   "country": "Norway",
+   "national_rank": 5,
+   "quality_of_education": 367,
+   "score": 44.26
+ },
+ {
+   "world_rank": 790,
+   "institution": "Michigan Technological University",
+   "country": "USA",
+   "national_rank": 210,
+   "quality_of_education": 341,
+   "score": 44.25
+ },
+ {
+   "world_rank": 791,
+   "institution": "Vilnius University",
+   "country": "Lithuania",
+   "national_rank": 1,
+   "quality_of_education": 340,
+   "score": 44.25
+ },
+ {
+   "world_rank": 792,
+   "institution": "North Dakota State University - Main Campus",
+   "country": "USA",
+   "national_rank": 211,
+   "quality_of_education": 172,
+   "score": 44.25
+ },
+ {
+   "world_rank": 793,
+   "institution": "University of Hohenheim",
+   "country": "Germany",
+   "national_rank": 51,
+   "quality_of_education": 367,
+   "score": 44.25
+ },
+ {
+   "world_rank": 794,
+   "institution": "University of North Carolina at Charlotte",
+   "country": "USA",
+   "national_rank": 212,
+   "quality_of_education": 367,
+   "score": 44.25
+ },
+ {
+   "world_rank": 795,
+   "institution": "Zhengzhou University",
+   "country": "China",
+   "national_rank": 47,
+   "quality_of_education": 367,
+   "score": 44.25
+ },
+ {
+   "world_rank": 796,
+   "institution": "Cairo University",
+   "country": "Egypt",
+   "national_rank": 1,
+   "quality_of_education": 285,
+   "score": 44.25
+ },
+ {
+   "world_rank": 797,
+   "institution": "University of Caen Lower Normandy",
+   "country": "France",
+   "national_rank": 38,
+   "quality_of_education": 207,
+   "score": 44.25
+ },
+ {
+   "world_rank": 798,
+   "institution": "Saitama Medical University",
+   "country": "Japan",
+   "national_rank": 58,
+   "quality_of_education": 367,
+   "score": 44.25
+ },
+ {
+   "world_rank": 799,
+   "institution": "University of Murcia",
+   "country": "Spain",
+   "national_rank": 29,
+   "quality_of_education": 367,
+   "score": 44.24
+ },
+ {
+   "world_rank": 800,
+   "institution": "Showa University",
+   "country": "Japan",
+   "national_rank": 59,
+   "quality_of_education": 367,
+   "score": 44.24
+ },
+ {
+   "world_rank": 801,
+   "institution": "University of Oldenburg",
+   "country": "Germany",
+   "national_rank": 52,
+   "quality_of_education": 367,
+   "score": 44.24
+ },
+ {
+   "world_rank": 802,
+   "institution": "Magna Græcia University of Catanzaro",
+   "country": "Italy",
+   "national_rank": 44,
+   "quality_of_education": 367,
+   "score": 44.24
+ },
+ {
+   "world_rank": 803,
+   "institution": "National Sun Yat-sen University",
+   "country": "Taiwan",
+   "national_rank": 11,
+   "quality_of_education": 367,
+   "score": 44.24
+ },
+ {
+   "world_rank": 804,
+   "institution": "Nanjing University of Science and Technology",
+   "country": "China",
+   "national_rank": 48,
+   "quality_of_education": 367,
+   "score": 44.24
+ },
+ {
+   "world_rank": 805,
+   "institution": "University of Concepción",
+   "country": "Chile",
+   "national_rank": 3,
+   "quality_of_education": 367,
+   "score": 44.23
+ },
+ {
+   "world_rank": 806,
+   "institution": "Chungbuk National University",
+   "country": "South Korea",
+   "national_rank": 26,
+   "quality_of_education": 367,
+   "score": 44.23
+ },
+ {
+   "world_rank": 807,
+   "institution": "Taipei Medical University",
+   "country": "Taiwan",
+   "national_rank": 12,
+   "quality_of_education": 367,
+   "score": 44.23
+ },
+ {
+   "world_rank": 808,
+   "institution": "Jaume I University",
+   "country": "Spain",
+   "national_rank": 30,
+   "quality_of_education": 367,
+   "score": 44.23
+ },
+ {
+   "world_rank": 809,
+   "institution": "Bowling Green State University",
+   "country": "USA",
+   "national_rank": 213,
+   "quality_of_education": 367,
+   "score": 44.23
+ },
+ {
+   "world_rank": 810,
+   "institution": "Nanjing University of Technology",
+   "country": "China",
+   "national_rank": 49,
+   "quality_of_education": 367,
+   "score": 44.22
+ },
+ {
+   "world_rank": 811,
+   "institution": "University of New England (Australia)",
+   "country": "Australia",
+   "national_rank": 22,
+   "quality_of_education": 367,
+   "score": 44.22
+ },
+ {
+   "world_rank": 812,
+   "institution": "Kangwon National University",
+   "country": "South Korea",
+   "national_rank": 27,
+   "quality_of_education": 367,
+   "score": 44.22
+ },
+ {
+   "world_rank": 813,
+   "institution": "Inje University",
+   "country": "South Korea",
+   "national_rank": 28,
+   "quality_of_education": 367,
+   "score": 44.22
+ },
+ {
+   "world_rank": 814,
+   "institution": "Aberystwyth University",
+   "country": "United Kingdom",
+   "national_rank": 59,
+   "quality_of_education": 367,
+   "score": 44.22
+ },
+ {
+   "world_rank": 815,
+   "institution": "University of Technology; Sydney",
+   "country": "Australia",
+   "national_rank": 23,
+   "quality_of_education": 367,
+   "score": 44.22
+ },
+ {
+   "world_rank": 816,
+   "institution": "University of Franche-Comté",
+   "country": "France",
+   "national_rank": 39,
+   "quality_of_education": 302,
+   "score": 44.22
+ },
+ {
+   "world_rank": 817,
+   "institution": "University of Sassari",
+   "country": "Italy",
+   "national_rank": 45,
+   "quality_of_education": 367,
+   "score": 44.21
+ },
+ {
+   "world_rank": 818,
+   "institution": "Chiang Mai University",
+   "country": "Thailand",
+   "national_rank": 3,
+   "quality_of_education": 367,
+   "score": 44.21
+ },
+ {
+   "world_rank": 819,
+   "institution": "Budapest University of Technology and Economics",
+   "country": "Hungary",
+   "national_rank": 5,
+   "quality_of_education": 256,
+   "score": 44.21
+ },
+ {
+   "world_rank": 820,
+   "institution": "University of Maribor",
+   "country": "Slovenia",
+   "national_rank": 2,
+   "quality_of_education": 367,
+   "score": 44.21
+ },
+ {
+   "world_rank": 821,
+   "institution": "University of Bradford",
+   "country": "United Kingdom",
+   "national_rank": 60,
+   "quality_of_education": 367,
+   "score": 44.21
+ },
+ {
+   "world_rank": 822,
+   "institution": "University of Perpignan Via Domitia",
+   "country": "France",
+   "national_rank": 40,
+   "quality_of_education": 160,
+   "score": 44.21
+ },
+ {
+   "world_rank": 823,
+   "institution": "Florida Institute of Technology",
+   "country": "USA",
+   "national_rank": 214,
+   "quality_of_education": 367,
+   "score": 44.21
+ },
+ {
+   "world_rank": 824,
+   "institution": "University of Brighton",
+   "country": "United Kingdom",
+   "national_rank": 61,
+   "quality_of_education": 367,
+   "score": 44.21
+ },
+ {
+   "world_rank": 825,
+   "institution": "University of Massachusetts Boston",
+   "country": "USA",
+   "national_rank": 215,
+   "quality_of_education": 367,
+   "score": 44.21
+ },
+ {
+   "world_rank": 826,
+   "institution": "Rio de Janeiro State University",
+   "country": "Brazil",
+   "national_rank": 8,
+   "quality_of_education": 367,
+   "score": 44.21
+ },
+ {
+   "world_rank": 827,
+   "institution": "Nagoya Institute of Technology",
+   "country": "Japan",
+   "national_rank": 60,
+   "quality_of_education": 367,
+   "score": 44.2
+ },
+ {
+   "world_rank": 828,
+   "institution": "Jiangnan University",
+   "country": "China",
+   "national_rank": 50,
+   "quality_of_education": 367,
+   "score": 44.2
+ },
+ {
+   "world_rank": 829,
+   "institution": "Murdoch University",
+   "country": "Australia",
+   "national_rank": 24,
+   "quality_of_education": 367,
+   "score": 44.2
+ },
+ {
+   "world_rank": 830,
+   "institution": "University of Wales; Trinity Saint David",
+   "country": "United Kingdom",
+   "national_rank": 62,
+   "quality_of_education": 367,
+   "score": 44.2
+ },
+ {
+   "world_rank": 831,
+   "institution": "University of Rouen",
+   "country": "France",
+   "national_rank": 41,
+   "quality_of_education": 362,
+   "score": 44.2
+ },
+ {
+   "world_rank": 832,
+   "institution": "The Catholic University of America",
+   "country": "USA",
+   "national_rank": 216,
+   "quality_of_education": 367,
+   "score": 44.2
+ },
+ {
+   "world_rank": 833,
+   "institution": "Wright State University - Dayton",
+   "country": "USA",
+   "national_rank": 217,
+   "quality_of_education": 367,
+   "score": 44.2
+ },
+ {
+   "world_rank": 834,
+   "institution": "Dankook University",
+   "country": "South Korea",
+   "national_rank": 29,
+   "quality_of_education": 367,
+   "score": 44.2
+ },
+ {
+   "world_rank": 835,
+   "institution": "Clarkson University",
+   "country": "USA",
+   "national_rank": 218,
+   "quality_of_education": 367,
+   "score": 44.19
+ },
+ {
+   "world_rank": 836,
+   "institution": "University of Regina",
+   "country": "Canada",
+   "national_rank": 27,
+   "quality_of_education": 367,
+   "score": 44.19
+ },
+ {
+   "world_rank": 837,
+   "institution": "Boğaziçi University",
+   "country": "Turkey",
+   "national_rank": 7,
+   "quality_of_education": 367,
+   "score": 44.19
+ },
+ {
+   "world_rank": 838,
+   "institution": "Kōchi University",
+   "country": "Japan",
+   "national_rank": 61,
+   "quality_of_education": 367,
+   "score": 44.19
+ },
+ {
+   "world_rank": 839,
+   "institution": "University of Miyazaki",
+   "country": "Japan",
+   "national_rank": 62,
+   "quality_of_education": 290,
+   "score": 44.19
+ },
+ {
+   "world_rank": 840,
+   "institution": "University of Electro-Communications",
+   "country": "Japan",
+   "national_rank": 63,
+   "quality_of_education": 161,
+   "score": 44.19
+ },
+ {
+   "world_rank": 841,
+   "institution": "University of Valladolid",
+   "country": "Spain",
+   "national_rank": 31,
+   "quality_of_education": 367,
+   "score": 44.19
+ },
+ {
+   "world_rank": 842,
+   "institution": "Bilkent University",
+   "country": "Turkey",
+   "national_rank": 8,
+   "quality_of_education": 367,
+   "score": 44.19
+ },
+ {
+   "world_rank": 843,
+   "institution": "Dublin City University",
+   "country": "Ireland",
+   "national_rank": 6,
+   "quality_of_education": 367,
+   "score": 44.19
+ },
+ {
+   "world_rank": 844,
+   "institution": "University of South Alabama",
+   "country": "USA",
+   "national_rank": 219,
+   "quality_of_education": 367,
+   "score": 44.19
+ },
+ {
+   "world_rank": 845,
+   "institution": "Sofia University",
+   "country": "Bulgaria",
+   "national_rank": 1,
+   "quality_of_education": 254,
+   "score": 44.19
+ },
+ {
+   "world_rank": 846,
+   "institution": "Ocean University of China",
+   "country": "China",
+   "national_rank": 51,
+   "quality_of_education": 367,
+   "score": 44.19
+ },
+ {
+   "world_rank": 847,
+   "institution": "King Fahd University of Petroleum and Minerals",
+   "country": "Saudi Arabia",
+   "national_rank": 3,
+   "quality_of_education": 367,
+   "score": 44.19
+ },
+ {
+   "world_rank": 848,
+   "institution": "University of Veterinary Medicine Vienna",
+   "country": "Austria",
+   "national_rank": 12,
+   "quality_of_education": 367,
+   "score": 44.19
+ },
+ {
+   "world_rank": 849,
+   "institution": "University of Alcalá",
+   "country": "Spain",
+   "national_rank": 32,
+   "quality_of_education": 367,
+   "score": 44.18
+ },
+ {
+   "world_rank": 850,
+   "institution": "Hunter College",
+   "country": "USA",
+   "national_rank": 220,
+   "quality_of_education": 261,
+   "score": 44.18
+ },
+ {
+   "world_rank": 851,
+   "institution": "All India Institute of Medical Sciences; New Delhi",
+   "country": "India",
+   "national_rank": 13,
+   "quality_of_education": 367,
+   "score": 44.18
+ },
+ {
+   "world_rank": 852,
+   "institution": "Gazi University",
+   "country": "Turkey",
+   "national_rank": 9,
+   "quality_of_education": 367,
+   "score": 44.18
+ },
+ {
+   "world_rank": 853,
+   "institution": "National University of Ireland; Maynooth",
+   "country": "Ireland",
+   "national_rank": 7,
+   "quality_of_education": 244,
+   "score": 44.18
+ },
+ {
+   "world_rank": 854,
+   "institution": "Tehran University of Medical Sciences",
+   "country": "Iran",
+   "national_rank": 3,
+   "quality_of_education": 367,
+   "score": 44.18
+ },
+ {
+   "world_rank": 855,
+   "institution": "University of the Ryukyus",
+   "country": "Japan",
+   "national_rank": 64,
+   "quality_of_education": 367,
+   "score": 44.18
+ },
+ {
+   "world_rank": 856,
+   "institution": "Florida Atlantic University",
+   "country": "USA",
+   "national_rank": 221,
+   "quality_of_education": 367,
+   "score": 44.17
+ },
+ {
+   "world_rank": 857,
+   "institution": "University of Siegen",
+   "country": "Germany",
+   "national_rank": 53,
+   "quality_of_education": 367,
+   "score": 44.17
+ },
+ {
+   "world_rank": 858,
+   "institution": "Huazhong Agricultural University",
+   "country": "China",
+   "national_rank": 52,
+   "quality_of_education": 367,
+   "score": 44.17
+ },
+ {
+   "world_rank": 859,
+   "institution": "University of Angers",
+   "country": "France",
+   "national_rank": 42,
+   "quality_of_education": 367,
+   "score": 44.17
+ },
+ {
+   "world_rank": 860,
+   "institution": "University of Seoul",
+   "country": "South Korea",
+   "national_rank": 30,
+   "quality_of_education": 367,
+   "score": 44.17
+ },
+ {
+   "world_rank": 861,
+   "institution": "Brock University",
+   "country": "Canada",
+   "national_rank": 28,
+   "quality_of_education": 367,
+   "score": 44.17
+ },
+ {
+   "world_rank": 862,
+   "institution": "Fukuoka University",
+   "country": "Japan",
+   "national_rank": 65,
+   "quality_of_education": 367,
+   "score": 44.17
+ },
+ {
+   "world_rank": 863,
+   "institution": "Hamamatsu University School of Medicine",
+   "country": "Japan",
+   "national_rank": 66,
+   "quality_of_education": 367,
+   "score": 44.17
+ },
+ {
+   "world_rank": 864,
+   "institution": "Nanjing Normal University",
+   "country": "China",
+   "national_rank": 53,
+   "quality_of_education": 367,
+   "score": 44.17
+ },
+ {
+   "world_rank": 865,
+   "institution": "National Chung Cheng University",
+   "country": "Taiwan",
+   "national_rank": 13,
+   "quality_of_education": 367,
+   "score": 44.17
+ },
+ {
+   "world_rank": 866,
+   "institution": "Nanjing Agricultural University",
+   "country": "China",
+   "national_rank": 54,
+   "quality_of_education": 367,
+   "score": 44.16
+ },
+ {
+   "world_rank": 867,
+   "institution": "University of the Republic (Uruguay)",
+   "country": "Uruguay",
+   "national_rank": 66,
+   "quality_of_education": 367,
+   "score": 44.16
+ },
+ {
+   "world_rank": 868,
+   "institution": "Sejong University",
+   "country": "South Korea",
+   "national_rank": 31,
+   "quality_of_education": 367,
+   "score": 44.16
+ },
+ {
+   "world_rank": 869,
+   "institution": "Makerere University",
+   "country": "Uganda",
+   "national_rank": 1,
+   "quality_of_education": 367,
+   "score": 44.16
+ },
+ {
+   "world_rank": 870,
+   "institution": "University of New Brunswick",
+   "country": "Canada",
+   "national_rank": 29,
+   "quality_of_education": 367,
+   "score": 44.16
+ },
+ {
+   "world_rank": 871,
+   "institution": "Northeastern University (China)",
+   "country": "China",
+   "national_rank": 55,
+   "quality_of_education": 367,
+   "score": 44.16
+ },
+ {
+   "world_rank": 872,
+   "institution": "University of Extremadura",
+   "country": "Spain",
+   "national_rank": 33,
+   "quality_of_education": 367,
+   "score": 44.16
+ },
+ {
+   "world_rank": 873,
+   "institution": "RMIT University",
+   "country": "Australia",
+   "national_rank": 25,
+   "quality_of_education": 367,
+   "score": 44.16
+ },
+ {
+   "world_rank": 874,
+   "institution": "Royal Veterinary College; University of London",
+   "country": "United Kingdom",
+   "national_rank": 63,
+   "quality_of_education": 246,
+   "score": 44.16
+ },
+ {
+   "world_rank": 875,
+   "institution": "Chung Yuan Christian University",
+   "country": "Taiwan",
+   "national_rank": 14,
+   "quality_of_education": 249,
+   "score": 44.16
+ },
+ {
+   "world_rank": 876,
+   "institution": "University of Osnabrück",
+   "country": "Germany",
+   "national_rank": 54,
+   "quality_of_education": 367,
+   "score": 44.15
+ },
+ {
+   "world_rank": 877,
+   "institution": "Northwest University (China)",
+   "country": "China",
+   "national_rank": 56,
+   "quality_of_education": 367,
+   "score": 44.15
+ },
+ {
+   "world_rank": 878,
+   "institution": "Chosun University",
+   "country": "South Korea",
+   "national_rank": 32,
+   "quality_of_education": 367,
+   "score": 44.15
+ },
+ {
+   "world_rank": 879,
+   "institution": "University of Orléans",
+   "country": "France",
+   "national_rank": 43,
+   "quality_of_education": 367,
+   "score": 44.15
+ },
+ {
+   "world_rank": 880,
+   "institution": "Jean Monnet University",
+   "country": "France",
+   "national_rank": 44,
+   "quality_of_education": 367,
+   "score": 44.15
+ },
+ {
+   "world_rank": 881,
+   "institution": "École centrale de Lyon",
+   "country": "France",
+   "national_rank": 45,
+   "quality_of_education": 367,
+   "score": 44.15
+ },
+ {
+   "world_rank": 882,
+   "institution": "University of Western Sydney",
+   "country": "Australia",
+   "national_rank": 26,
+   "quality_of_education": 367,
+   "score": 44.15
+ },
+ {
+   "world_rank": 883,
+   "institution": "Hefei University of Technology",
+   "country": "China",
+   "national_rank": 57,
+   "quality_of_education": 367,
+   "score": 44.15
+ },
+ {
+   "world_rank": 884,
+   "institution": "University of Massachusetts Lowell",
+   "country": "USA",
+   "national_rank": 222,
+   "quality_of_education": 367,
+   "score": 44.15
+ },
+ {
+   "world_rank": 885,
+   "institution": "Manchester Metropolitan University",
+   "country": "United Kingdom",
+   "national_rank": 64,
+   "quality_of_education": 367,
+   "score": 44.14
+ },
+ {
+   "world_rank": 886,
+   "institution": "Nanjing Medical University",
+   "country": "China",
+   "national_rank": 58,
+   "quality_of_education": 367,
+   "score": 44.14
+ },
+ {
+   "world_rank": 887,
+   "institution": "Kyoto Institute of Technology",
+   "country": "Japan",
+   "national_rank": 67,
+   "quality_of_education": 367,
+   "score": 44.14
+ },
+ {
+   "world_rank": 888,
+   "institution": "Shanghai Normal University",
+   "country": "China",
+   "national_rank": 59,
+   "quality_of_education": 367,
+   "score": 44.14
+ },
+ {
+   "world_rank": 889,
+   "institution": "Southwest University",
+   "country": "China",
+   "national_rank": 60,
+   "quality_of_education": 268,
+   "score": 44.14
+ },
+ {
+   "world_rank": 890,
+   "institution": "Adam Mickiewicz University in Poznań",
+   "country": "Poland",
+   "national_rank": 5,
+   "quality_of_education": 150,
+   "score": 44.14
+ },
+ {
+   "world_rank": 891,
+   "institution": "University of Calcutta",
+   "country": "India",
+   "national_rank": 14,
+   "quality_of_education": 140,
+   "score": 44.14
+ },
+ {
+   "world_rank": 892,
+   "institution": "University of Pécs",
+   "country": "Hungary",
+   "national_rank": 6,
+   "quality_of_education": 367,
+   "score": 44.14
+ },
+ {
+   "world_rank": 893,
+   "institution": "Queens College; City University of New York",
+   "country": "USA",
+   "national_rank": 223,
+   "quality_of_education": 323,
+   "score": 44.14
+ },
+ {
+   "world_rank": 894,
+   "institution": "University of Lleida",
+   "country": "Spain",
+   "national_rank": 34,
+   "quality_of_education": 367,
+   "score": 44.14
+ },
+ {
+   "world_rank": 895,
+   "institution": "Nanjing University of Aeronautics and Astronautics",
+   "country": "China",
+   "national_rank": 61,
+   "quality_of_education": 367,
+   "score": 44.14
+ },
+ {
+   "world_rank": 896,
+   "institution": "University of Western Brittany",
+   "country": "France",
+   "national_rank": 46,
+   "quality_of_education": 367,
+   "score": 44.13
+ },
+ {
+   "world_rank": 897,
+   "institution": "University of North Carolina at Greensboro",
+   "country": "USA",
+   "national_rank": 224,
+   "quality_of_education": 367,
+   "score": 44.13
+ },
+ {
+   "world_rank": 898,
+   "institution": "Pukyong National University",
+   "country": "South Korea",
+   "national_rank": 33,
+   "quality_of_education": 367,
+   "score": 44.13
+ },
+ {
+   "world_rank": 899,
+   "institution": "Fourth Military Medical University",
+   "country": "China",
+   "national_rank": 62,
+   "quality_of_education": 367,
+   "score": 44.13
+ },
+ {
+   "world_rank": 900,
+   "institution": "University of Fukui",
+   "country": "Japan",
+   "national_rank": 68,
+   "quality_of_education": 367,
+   "score": 44.13
+ },
+ {
+   "world_rank": 901,
+   "institution": "University of Southern Mississippi",
+   "country": "USA",
+   "national_rank": 225,
+   "quality_of_education": 367,
+   "score": 44.13
+ },
+ {
+   "world_rank": 902,
+   "institution": "University of Mannheim",
+   "country": "Germany",
+   "national_rank": 55,
+   "quality_of_education": 367,
+   "score": 44.13
+ },
+ {
+   "world_rank": 903,
+   "institution": "Shimane University",
+   "country": "Japan",
+   "national_rank": 69,
+   "quality_of_education": 367,
+   "score": 44.13
+ },
+ {
+   "world_rank": 904,
+   "institution": "China University of Geosciences (Wuhan)",
+   "country": "China",
+   "national_rank": 63,
+   "quality_of_education": 367,
+   "score": 44.13
+ },
+ {
+   "world_rank": 905,
+   "institution": "University of Thessaly",
+   "country": "Greece",
+   "national_rank": 7,
+   "quality_of_education": 367,
+   "score": 44.13
+ },
+ {
+   "world_rank": 906,
+   "institution": "Oakland University",
+   "country": "USA",
+   "national_rank": 226,
+   "quality_of_education": 367,
+   "score": 44.13
+ },
+ {
+   "world_rank": 907,
+   "institution": "Wilfrid Laurier University",
+   "country": "Canada",
+   "national_rank": 30,
+   "quality_of_education": 367,
+   "score": 44.13
+ },
+ {
+   "world_rank": 908,
+   "institution": "Teikyo University",
+   "country": "Japan",
+   "national_rank": 70,
+   "quality_of_education": 367,
+   "score": 44.12
+ },
+ {
+   "world_rank": 909,
+   "institution": "Saitama University",
+   "country": "Japan",
+   "national_rank": 71,
+   "quality_of_education": 367,
+   "score": 44.12
+ },
+ {
+   "world_rank": 910,
+   "institution": "Trent University",
+   "country": "Canada",
+   "national_rank": 31,
+   "quality_of_education": 367,
+   "score": 44.12
+ },
+ {
+   "world_rank": 911,
+   "institution": "Nicolaus Copernicus University in Toruń",
+   "country": "Poland",
+   "national_rank": 6,
+   "quality_of_education": 367,
+   "score": 44.12
+ },
+ {
+   "world_rank": 912,
+   "institution": "Tarbiat Modares University",
+   "country": "Iran",
+   "national_rank": 4,
+   "quality_of_education": 367,
+   "score": 44.12
+ },
+ {
+   "world_rank": 913,
+   "institution": "University of North Dakota",
+   "country": "USA",
+   "national_rank": 227,
+   "quality_of_education": 367,
+   "score": 44.12
+ },
+ {
+   "world_rank": 914,
+   "institution": "Isfahan University of Technology",
+   "country": "Iran",
+   "national_rank": 5,
+   "quality_of_education": 367,
+   "score": 44.12
+ },
+ {
+   "world_rank": 915,
+   "institution": "Fluminense Federal University",
+   "country": "Brazil",
+   "national_rank": 9,
+   "quality_of_education": 367,
+   "score": 44.12
+ },
+ {
+   "world_rank": 916,
+   "institution": "National Taiwan University of Science and Technology",
+   "country": "Taiwan",
+   "national_rank": 15,
+   "quality_of_education": 367,
+   "score": 44.12
+ },
+ {
+   "world_rank": 917,
+   "institution": "University of Lethbridge",
+   "country": "Canada",
+   "national_rank": 32,
+   "quality_of_education": 367,
+   "score": 44.12
+ },
+ {
+   "world_rank": 918,
+   "institution": "Federal University of Santa Catarina",
+   "country": "Brazil",
+   "national_rank": 10,
+   "quality_of_education": 367,
+   "score": 44.12
+ },
+ {
+   "world_rank": 919,
+   "institution": "University of Camerino",
+   "country": "Italy",
+   "national_rank": 46,
+   "quality_of_education": 367,
+   "score": 44.12
+ },
+ {
+   "world_rank": 920,
+   "institution": "University of Brasília",
+   "country": "Brazil",
+   "national_rank": 11,
+   "quality_of_education": 367,
+   "score": 44.12
+ },
+ {
+   "world_rank": 921,
+   "institution": "University of Wrocław",
+   "country": "Poland",
+   "national_rank": 7,
+   "quality_of_education": 355,
+   "score": 44.12
+ },
+ {
+   "world_rank": 922,
+   "institution": "University of Basilicata",
+   "country": "Italy",
+   "national_rank": 47,
+   "quality_of_education": 367,
+   "score": 44.12
+ },
+ {
+   "world_rank": 923,
+   "institution": "Jadavpur University",
+   "country": "India",
+   "national_rank": 15,
+   "quality_of_education": 367,
+   "score": 44.11
+ },
+ {
+   "world_rank": 924,
+   "institution": "South China Normal University",
+   "country": "China",
+   "national_rank": 64,
+   "quality_of_education": 367,
+   "score": 44.11
+ },
+ {
+   "world_rank": 925,
+   "institution": "University of Hyderabad",
+   "country": "India",
+   "national_rank": 16,
+   "quality_of_education": 367,
+   "score": 44.11
+ },
+ {
+   "world_rank": 926,
+   "institution": "Ritsumeikan University",
+   "country": "Japan",
+   "national_rank": 72,
+   "quality_of_education": 367,
+   "score": 44.1
+ },
+ {
+   "world_rank": 927,
+   "institution": "Carlos III University of Madrid",
+   "country": "Spain",
+   "national_rank": 35,
+   "quality_of_education": 367,
+   "score": 44.1
+ },
+ {
+   "world_rank": 928,
+   "institution": "University of Cyprus",
+   "country": "Cyprus",
+   "national_rank": 1,
+   "quality_of_education": 367,
+   "score": 44.1
+ },
+ {
+   "world_rank": 929,
+   "institution": "University of Texas at El Paso",
+   "country": "USA",
+   "national_rank": 228,
+   "quality_of_education": 367,
+   "score": 44.1
+ },
+ {
+   "world_rank": 930,
+   "institution": "University of Cádiz",
+   "country": "Spain",
+   "national_rank": 36,
+   "quality_of_education": 367,
+   "score": 44.1
+ },
+ {
+   "world_rank": 931,
+   "institution": "Shahid Beheshti University of Medical Sciences",
+   "country": "Iran",
+   "national_rank": 6,
+   "quality_of_education": 367,
+   "score": 44.1
+ },
+ {
+   "world_rank": 932,
+   "institution": "National Taiwan Normal University",
+   "country": "Taiwan",
+   "national_rank": 16,
+   "quality_of_education": 367,
+   "score": 44.1
+ },
+ {
+   "world_rank": 933,
+   "institution": "National University of Córdoba",
+   "country": "Argentina",
+   "national_rank": 3,
+   "quality_of_education": 367,
+   "score": 44.1
+ },
+ {
+   "world_rank": 934,
+   "institution": "Federal University of Paraná",
+   "country": "Brazil",
+   "national_rank": 12,
+   "quality_of_education": 367,
+   "score": 44.1
+ },
+ {
+   "world_rank": 935,
+   "institution": "University of Jaén",
+   "country": "Spain",
+   "national_rank": 37,
+   "quality_of_education": 367,
+   "score": 44.09
+ },
+ {
+   "world_rank": 936,
+   "institution": "University of California; Merced",
+   "country": "USA",
+   "national_rank": 229,
+   "quality_of_education": 367,
+   "score": 44.09
+ },
+ {
+   "world_rank": 937,
+   "institution": "University of Waikato",
+   "country": "New Zealand",
+   "national_rank": 6,
+   "quality_of_education": 367,
+   "score": 44.09
+ },
+ {
+   "world_rank": 938,
+   "institution": "University of Central Lancashire",
+   "country": "United Kingdom",
+   "national_rank": 65,
+   "quality_of_education": 367,
+   "score": 44.09
+ },
+ {
+   "world_rank": 939,
+   "institution": "Federal University of Pernambuco",
+   "country": "Brazil",
+   "national_rank": 13,
+   "quality_of_education": 367,
+   "score": 44.09
+ },
+ {
+   "world_rank": 940,
+   "institution": "University of Almería",
+   "country": "Spain",
+   "national_rank": 38,
+   "quality_of_education": 367,
+   "score": 44.09
+ },
+ {
+   "world_rank": 941,
+   "institution": "Federal University of São Carlos",
+   "country": "Brazil",
+   "national_rank": 14,
+   "quality_of_education": 367,
+   "score": 44.09
+ },
+ {
+   "world_rank": 942,
+   "institution": "Charles Darwin University",
+   "country": "Australia",
+   "national_rank": 27,
+   "quality_of_education": 367,
+   "score": 44.09
+ },
+ {
+   "world_rank": 943,
+   "institution": "Yangzhou University",
+   "country": "China",
+   "national_rank": 65,
+   "quality_of_education": 367,
+   "score": 44.09
+ },
+ {
+   "world_rank": 944,
+   "institution": "Wrocław University of Technology",
+   "country": "Poland",
+   "national_rank": 8,
+   "quality_of_education": 367,
+   "score": 44.09
+ },
+ {
+   "world_rank": 945,
+   "institution": "Hirosaki University",
+   "country": "Japan",
+   "national_rank": 73,
+   "quality_of_education": 367,
+   "score": 44.08
+ },
+ {
+   "world_rank": 946,
+   "institution": "National Taiwan Ocean University",
+   "country": "Taiwan",
+   "national_rank": 17,
+   "quality_of_education": 367,
+   "score": 44.08
+ },
+ {
+   "world_rank": 947,
+   "institution": "Jiangsu University",
+   "country": "China",
+   "national_rank": 66,
+   "quality_of_education": 367,
+   "score": 44.08
+ },
+ {
+   "world_rank": 948,
+   "institution": "Northwestern Polytechnical University",
+   "country": "China",
+   "national_rank": 67,
+   "quality_of_education": 367,
+   "score": 44.08
+ },
+ {
+   "world_rank": 949,
+   "institution": "Xiangtan University",
+   "country": "China",
+   "national_rank": 68,
+   "quality_of_education": 367,
+   "score": 44.08
+ },
+ {
+   "world_rank": 950,
+   "institution": "United Arab Emirates University",
+   "country": "United Arab Emirates",
+   "national_rank": 1,
+   "quality_of_education": 367,
+   "score": 44.08
+ },
+ {
+   "world_rank": 951,
+   "institution": "Gachon University",
+   "country": "South Korea",
+   "national_rank": 34,
+   "quality_of_education": 367,
+   "score": 44.08
+ },
+ {
+   "world_rank": 952,
+   "institution": "Hallym University",
+   "country": "South Korea",
+   "national_rank": 35,
+   "quality_of_education": 367,
+   "score": 44.08
+ },
+ {
+   "world_rank": 953,
+   "institution": "Harbin Engineering University",
+   "country": "China",
+   "national_rank": 69,
+   "quality_of_education": 367,
+   "score": 44.07
+ },
+ {
+   "world_rank": 954,
+   "institution": "Dokuz Eylül University",
+   "country": "Turkey",
+   "national_rank": 10,
+   "quality_of_education": 367,
+   "score": 44.07
+ },
+ {
+   "world_rank": 955,
+   "institution": "Jinan University",
+   "country": "China",
+   "national_rank": 70,
+   "quality_of_education": 367,
+   "score": 44.07
+ },
+ {
+   "world_rank": 956,
+   "institution": "Shiraz University",
+   "country": "Iran",
+   "national_rank": 7,
+   "quality_of_education": 367,
+   "score": 44.07
+ },
+ {
+   "world_rank": 957,
+   "institution": "Third Military Medical University",
+   "country": "China",
+   "national_rank": 71,
+   "quality_of_education": 367,
+   "score": 44.07
+ },
+ {
+   "world_rank": 958,
+   "institution": "Amirkabir University of Technology",
+   "country": "Iran",
+   "national_rank": 8,
+   "quality_of_education": 367,
+   "score": 44.07
+ },
+ {
+   "world_rank": 959,
+   "institution": "Public University of Navarre",
+   "country": "Spain",
+   "national_rank": 39,
+   "quality_of_education": 367,
+   "score": 44.07
+ },
+ {
+   "world_rank": 960,
+   "institution": "Federico Santa María Technical University",
+   "country": "Chile",
+   "national_rank": 4,
+   "quality_of_education": 367,
+   "score": 44.07
+ },
+ {
+   "world_rank": 961,
+   "institution": "Federal University of ABC",
+   "country": "Brazil",
+   "national_rank": 15,
+   "quality_of_education": 367,
+   "score": 44.07
+ },
+ {
+   "world_rank": 962,
+   "institution": "University of Puerto Rico at Mayagüez",
+   "country": "Puerto Rico",
+   "national_rank": 1,
+   "quality_of_education": 367,
+   "score": 44.06
+ },
+ {
+   "world_rank": 963,
+   "institution": "Southern Medical University",
+   "country": "China",
+   "national_rank": 72,
+   "quality_of_education": 367,
+   "score": 44.06
+ },
+ {
+   "world_rank": 964,
+   "institution": "University of Silesia",
+   "country": "Poland",
+   "national_rank": 9,
+   "quality_of_education": 367,
+   "score": 44.06
+ },
+ {
+   "world_rank": 965,
+   "institution": "Ain Shams University",
+   "country": "Egypt",
+   "national_rank": 2,
+   "quality_of_education": 367,
+   "score": 44.06
+ },
+ {
+   "world_rank": 966,
+   "institution": "University of Valenciennes and Hainaut-Cambresis",
+   "country": "France",
+   "national_rank": 47,
+   "quality_of_education": 367,
+   "score": 44.06
+ },
+ {
+   "world_rank": 967,
+   "institution": "Chung Shan Medical University",
+   "country": "Taiwan",
+   "national_rank": 18,
+   "quality_of_education": 367,
+   "score": 44.06
+ },
+ {
+   "world_rank": 968,
+   "institution": "National University of Colombia",
+   "country": "Colombia",
+   "national_rank": 2,
+   "quality_of_education": 367,
+   "score": 44.06
+ },
+ {
+   "world_rank": 969,
+   "institution": "South China Agricultural University",
+   "country": "China",
+   "national_rank": 73,
+   "quality_of_education": 367,
+   "score": 44.06
+ },
+ {
+   "world_rank": 970,
+   "institution": "Ibaraki University",
+   "country": "Japan",
+   "national_rank": 74,
+   "quality_of_education": 367,
+   "score": 44.06
+ },
+ {
+   "world_rank": 971,
+   "institution": "Fu Jen Catholic University",
+   "country": "Taiwan",
+   "national_rank": 19,
+   "quality_of_education": 367,
+   "score": 44.06
+ },
+ {
+   "world_rank": 972,
+   "institution": "Hunan Normal University",
+   "country": "China",
+   "national_rank": 74,
+   "quality_of_education": 367,
+   "score": 44.06
+ },
+ {
+   "world_rank": 973,
+   "institution": "Ulsan National Institute of Science and Technology",
+   "country": "South Korea",
+   "national_rank": 36,
+   "quality_of_education": 367,
+   "score": 44.06
+ },
+ {
+   "world_rank": 974,
+   "institution": "Federal University of Santa Maria",
+   "country": "Brazil",
+   "national_rank": 16,
+   "quality_of_education": 367,
+   "score": 44.05
+ },
+ {
+   "world_rank": 975,
+   "institution": "Shenzhen University",
+   "country": "China",
+   "national_rank": 75,
+   "quality_of_education": 367,
+   "score": 44.05
+ },
+ {
+   "world_rank": 976,
+   "institution": "Tianjin Medical University",
+   "country": "China",
+   "national_rank": 76,
+   "quality_of_education": 367,
+   "score": 44.05
+ },
+ {
+   "world_rank": 977,
+   "institution": "Beijing University of Technology",
+   "country": "China",
+   "national_rank": 77,
+   "quality_of_education": 367,
+   "score": 44.05
+ },
+ {
+   "world_rank": 978,
+   "institution": "University of Reims Champagne-Ardenne",
+   "country": "France",
+   "national_rank": 48,
+   "quality_of_education": 367,
+   "score": 44.05
+ },
+ {
+   "world_rank": 979,
+   "institution": "Yuan Ze University",
+   "country": "Taiwan",
+   "national_rank": 20,
+   "quality_of_education": 367,
+   "score": 44.05
+ },
+ {
+   "world_rank": 980,
+   "institution": "University of Chemistry and Technology; Prague",
+   "country": "Czech Republic",
+   "national_rank": 5,
+   "quality_of_education": 367,
+   "score": 44.05
+ },
+ {
+   "world_rank": 981,
+   "institution": "University of Limerick",
+   "country": "Ireland",
+   "national_rank": 8,
+   "quality_of_education": 367,
+   "score": 44.05
+ },
+ {
+   "world_rank": 982,
+   "institution": "China Medical University (PRC)",
+   "country": "China",
+   "national_rank": 78,
+   "quality_of_education": 367,
+   "score": 44.04
+ },
+ {
+   "world_rank": 983,
+   "institution": "Feng Chia University",
+   "country": "Taiwan",
+   "national_rank": 21,
+   "quality_of_education": 367,
+   "score": 44.04
+ },
+ {
+   "world_rank": 984,
+   "institution": "Zhejiang University of Technology",
+   "country": "China",
+   "national_rank": 79,
+   "quality_of_education": 367,
+   "score": 44.04
+ },
+ {
+   "world_rank": 985,
+   "institution": "Novosibirsk State University",
+   "country": "Russia",
+   "national_rank": 5,
+   "quality_of_education": 167,
+   "score": 44.04
+ },
+ {
+   "world_rank": 986,
+   "institution": "University of Bucharest",
+   "country": "Romania",
+   "national_rank": 1,
+   "quality_of_education": 237,
+   "score": 44.04
+ },
+ {
+   "world_rank": 987,
+   "institution": "Babeș-Bolyai University",
+   "country": "Romania",
+   "national_rank": 2,
+   "quality_of_education": 367,
+   "score": 44.04
+ },
+ {
+   "world_rank": 988,
+   "institution": "Mansoura University",
+   "country": "Egypt",
+   "national_rank": 3,
+   "quality_of_education": 367,
+   "score": 44.04
+ },
+ {
+   "world_rank": 989,
+   "institution": "University of Pau and Pays de l'Adour",
+   "country": "France",
+   "national_rank": 49,
+   "quality_of_education": 367,
+   "score": 44.04
+ },
+ {
+   "world_rank": 990,
+   "institution": "Henan Normal University",
+   "country": "China",
+   "national_rank": 80,
+   "quality_of_education": 367,
+   "score": 44.04
+ },
+ {
+   "world_rank": 991,
+   "institution": "Xidian University",
+   "country": "China",
+   "national_rank": 81,
+   "quality_of_education": 367,
+   "score": 44.03
+ },
+ {
+   "world_rank": 992,
+   "institution": "Federal University of Bahia",
+   "country": "Brazil",
+   "national_rank": 17,
+   "quality_of_education": 367,
+   "score": 44.03
+ },
+ {
+   "world_rank": 993,
+   "institution": "Southwest Jiaotong University",
+   "country": "China",
+   "national_rank": 82,
+   "quality_of_education": 367,
+   "score": 44.03
+ },
+ {
+   "world_rank": 994,
+   "institution": "Ryerson University",
+   "country": "Canada",
+   "national_rank": 33,
+   "quality_of_education": 367,
+   "score": 44.03
+ },
+ {
+   "world_rank": 995,
+   "institution": "King Abdulaziz University",
+   "country": "Saudi Arabia",
+   "national_rank": 4,
+   "quality_of_education": 367,
+   "score": 44.03
+ },
+ {
+   "world_rank": 996,
+   "institution": "University of the Algarve",
+   "country": "Portugal",
+   "national_rank": 7,
+   "quality_of_education": 367,
+   "score": 44.03
+ },
+ {
+   "world_rank": 997,
+   "institution": "Alexandria University",
+   "country": "Egypt",
+   "national_rank": 4,
+   "quality_of_education": 236,
+   "score": 44.03
+ },
+ {
+   "world_rank": 998,
+   "institution": "Federal University of Ceará",
+   "country": "Brazil",
+   "national_rank": 18,
+   "quality_of_education": 367,
+   "score": 44.03
+ },
+ {
+   "world_rank": 999,
+   "institution": "University of A Coruña",
+   "country": "Spain",
+   "national_rank": 40,
+   "quality_of_education": 367,
+   "score": 44.02
+ },
+ {
+   "world_rank": 1000,
+   "institution": "China Pharmaceutical University",
+   "country": "China",
+   "national_rank": 83,
+   "quality_of_education": 367,
+   "score": 44.02
+ }
+]
+}
